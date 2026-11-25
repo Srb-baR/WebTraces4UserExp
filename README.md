@@ -17,15 +17,15 @@ python analysis/reproduce.py --resamples 5000 --seed 42
 python analysis/plot.py runs/analysis runs/analysis/figures
 ```
 
-The analysis reads the SQLite databases locally. It makes no API calls and needs no credentials. Generated files go to `runs/`. The default rerun uses the balanced evaluator files in the main data directories. Pass `--observed` to reproduce the shipped [results](results/) from the observed records. The [database notes](BALANCED_DATABASES.md) give the row counts and duplicate IDs. The renderer produces five standalone assets with the same filenames and page dimensions as the [supplied figure PDFs](figures/reference/). The [four assembled figures from the manuscript](figures/) are also available. The [replication notes](analysis/README.md) describe the tests and differences between the submitted figures and the regenerated outputs.
+The analysis reads the SQLite databases locally. It makes no API calls and needs no credentials. Generated files go to `runs/`. The renderer produces five standalone assets with the same filenames and page dimensions as the [supplied figure PDFs](figures/reference/). The [four assembled figures from the manuscript](figures/) are also available. The [replication notes](analysis/README.md) describe the tests and differences between the submitted figures and the regenerated outputs.
 
 ## Human evaluator studies
 
-| Application | Time-hidden replay used in the paper | Description-only control used in the paper | Timing-visible replay |
+| Application | Time-hidden replay used in the paper | Description-only control used in the paper | 
 | --- | --- | --- | --- |
-| TestReco | [Source](code/TestReco/Simulation_app/app.py) | [Source](code/TestReco/Simulation_app_no_trace/app.py) | [Source](code/TestReco/Simulation_app_full_trace/app.py) |
-| QuizComp | [Source](code/QuizComp/Simulation_app/app.py) | [Source](code/QuizComp/Simulation_app_no_trace/app.py) | [Source](code/QuizComp/Simulation_app_full_trace/app.py) |
-| WebArena | [Source](code/reconstructed_Webarena/app.py) | [Source](code/no_trace_webarena/app.py) | [Source](code/reconstructed_Webarena_full_trace/app.py) |
+| TestReco | [Source](code/TestReco/Simulation_app/app.py) | [Source](code/TestReco/Simulation_app_no_trace/app.py) 
+| QuizComp | [Source](code/QuizComp/Simulation_app/app.py) | [Source](code/QuizComp/Simulation_app_no_trace/app.py) 
+| WebArena | [Source](code/reconstructed_Webarena/app.py) | [Source](code/no_trace_webarena/app.py) 
 
 ```sh
 python launch_study.py testreco trace --port 8521

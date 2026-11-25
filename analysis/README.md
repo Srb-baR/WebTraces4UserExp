@@ -16,18 +16,4 @@ Run `python analysis/plot.py results runs/figures` from the package root to draw
 
 The cue panel includes descriptive associations between evaluator ratings and held-out duration. Its `visible` field remains false because evaluators had no access to the recorded duration.
 
-## Verification against the manuscript
-
-The checks below refer to `reproduce.py --observed`. The default reads the balanced evaluator databases in place. The resulting control estimates can differ from the figures in the manuscript. See [balanced database notes](../BALANCED_DATABASES.md).
-
-- 226 actor task surveys and 23,280 dimension-level evaluations after 7 audited response exclusions.
-- Near Agreement ranges round to 0.51–0.82 for human evaluators and 0.36–0.96 for LLM evaluators. Population-mean correlations for human evaluations are .922 with traces and .901 without traces. The trace slope is .480.
-- The pooled LLM row retains the same four corrected rank-correlation cells. Human evaluation retains none. The centered bootstrap gives 11 significantly negative total-gain cells for LLMs, compared with 9 in the manuscript, and recovers the two positive cells.
-- The reconstructed rank test gives Qwen3 four adjusted-significant cells, compared with five in the manuscript. DeepSeek retains one adjusted-significant cell in this rerun. The WebArena 2 LLM satisfaction adjusted p-value is about .010 here and .014 in the manuscript.
-- Twelve primary cue associations pass BH. Figure 4’s principal point estimates reproduce to two decimals. The exploratory WebArena definitions count recorded keydown and scroll events, distinct page URLs, and returns to an earlier page URL after visiting a different one. Distinct page URLs associate with WebArena 2 satisfaction in this implementation (q = .026), whereas the manuscript reports no discovery in that exploratory family. The exact original counting definition was unavailable.
-
-The per-cell and per-model rating spread and modal response fractions are recorded in `llm_rating_dispersion.csv`.
-
-The original PDF panels and regenerated panels are both included so the comparison remains inspectable. The archived inputs are read-only during the analysis. A run can be repeated at a different seed by passing `--seed`.
-
 The checked run used Python 3.11.16, NumPy 1.26.4, pandas 3.0.6, SciPy 1.17.1, and Matplotlib 3.11.2. Local evaluator startup tests used Streamlit 1.65.0.
