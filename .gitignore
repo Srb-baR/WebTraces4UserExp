@@ -1,0 +1,10 @@
+.env
+.venv/
+runs/
+__pycache__/
+.pytest_cache/
+*.sqlite-wal
+*.sqlite-shm
+*.db-wal
+*.db-shm
+*.launch-secret

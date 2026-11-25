@@ -1,0 +1,19 @@
+application,evaluator_type,model,n_responses,database,actor_pairing
+testreco,llm,deepseek/deepseek-v3.2,65,LLM evaluators/testreco/deepseek-v3.2__no_trace.sqlite,False
+testreco,llm,openai/gpt-oss-120b,65,LLM evaluators/testreco/gpt-oss-120b__no_trace.sqlite,False
+testreco,llm,meta-llama/llama-4-scout,65,LLM evaluators/testreco/llama-4-scout__no_trace.sqlite,False
+testreco,llm,mistralai/mistral-small-3.2-24b-instruct,65,LLM evaluators/testreco/mistral-small-3.2__no_trace.sqlite,False
+testreco,llm,qwen/qwen3-235b-a22b-2507,65,LLM evaluators/testreco/qwen3-235b__no_trace.sqlite,False
+quizcomp,llm,deepseek/deepseek-v3.2,65,LLM evaluators/quizcomp/deepseek-v3.2__no_trace.sqlite,False
+quizcomp,llm,openai/gpt-oss-120b,65,LLM evaluators/quizcomp/gpt-oss-120b__no_trace.sqlite,False
+quizcomp,llm,meta-llama/llama-4-scout,63,LLM evaluators/quizcomp/llama-4-scout__no_trace.sqlite,False
+quizcomp,llm,mistralai/mistral-small-3.2-24b-instruct,65,LLM evaluators/quizcomp/mistral-small-3.2__no_trace.sqlite,False
+quizcomp,llm,qwen/qwen3-235b-a22b-2507,65,LLM evaluators/quizcomp/qwen3-235b__no_trace.sqlite,False
+webarena,llm,deepseek/deepseek-v3.2,65,LLM evaluators/webarena/deepseek-v3.2__no_trace.sqlite,False
+webarena,llm,openai/gpt-oss-120b,64,LLM evaluators/webarena/gpt-oss-120b__no_trace.sqlite,False
+webarena,llm,meta-llama/llama-4-scout,65,LLM evaluators/webarena/llama-4-scout__no_trace.sqlite,False
+webarena,llm,mistralai/mistral-small-3.2-24b-instruct,65,LLM evaluators/webarena/mistral-small-3.2__no_trace.sqlite,False
+webarena,llm,qwen/qwen3-235b-a22b-2507,65,LLM evaluators/webarena/qwen3-235b__no_trace.sqlite,False
+testreco,human,,58,human evaluators/testreco/no_trace.db,False
+quizcomp,human,,65,human evaluators/quizcomp/no_trace.db,False
+webarena,human,,111,human evaluators/webarena/no_trace.db,False

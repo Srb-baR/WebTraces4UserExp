@@ -1,0 +1,2692 @@
+{
+  "questions": [
+    {
+      "id": "102",
+      "question": "Make $r$ the subject of the expression\r\n\r\n$p=q+r$",
+      "topic": "Fundamental Mathematics",
+      "subtopic": "Algebraic expressions, Equations, and Inequalities",
+      "level": "1",
+      "options": [
+        "$r=\\frac{p}{q}$",
+        "$r=p+q$",
+        "$r=p-q$",
+        "$r=q-p$"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "id": "104",
+      "question": "Make $d$ the subject of the expression\r\n\r\n$b=c-d$",
+      "topic": "Fundamental Mathematics",
+      "subtopic": "Algebraic expressions, Equations, and Inequalities",
+      "level": "1",
+      "options": [
+        "$d = \\frac{b}{c}$",
+        "$d =b + c$",
+        "$d = c - b$",
+        "$d = b - c$"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "id": "108",
+      "question": "Make $a$ the subject of the expression\r\n\r\n$mz=ad$",
+      "topic": "Fundamental Mathematics",
+      "subtopic": "Algebraic expressions, Equations, and Inequalities",
+      "level": "1",
+      "options": [
+        "$a=\\frac{d}{mz}$",
+        "$a=d-mz$",
+        "$a=\\frac{mz}{d}$",
+        "$a=d+mz$"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "id": "112",
+      "question": "Make $d$ the subject of the expression\r\n\r\n$p=\\frac{\\pi d}{2}$",
+      "topic": "Fundamental Mathematics",
+      "subtopic": "Algebraic expressions, Equations, and Inequalities",
+      "level": "1",
+      "options": [
+        "$d=\\frac{2\\pi}{p}$",
+        "$d=\\frac{\\pi}{2p}$",
+        "$d={\\frac{\\pi}{2}}-p$",
+        "$d=\\frac{2p}{\\pi}$"
+      ],
+      "correct_answer": 3
+    },
+    {
+      "id": "113",
+      "question": "Consider $m \\neq 0$. Make $x$ the subject of the expression\r\n\r\n$y=mx+c$",
+      "topic": "Fundamental Mathematics",
+      "subtopic": "Algebraic expressions, Equations, and Inequalities",
+      "level": "1",
+      "options": [
+        "$x=m+c-y$",
+        "$x=\\frac{y-m}{c}$",
+        "$x=\\frac{y-c}{m}$",
+        "$x=\\frac{y}{m+c}$"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "id": "114",
+      "question": "Make $r$ the subject of the expression\r\n\r\n$A=4\\pi r^2$",
+      "topic": "Fundamental Mathematics",
+      "subtopic": "Algebraic expressions, Equations, and Inequalities",
+      "level": "1",
+      "options": [
+        "$r=\\sqrt{4\\pi-A}$",
+        "$r=\\pm \\sqrt\\frac{4 \\pi}{A}$",
+        "$r=\\pm \\sqrt\\frac{A}{4 \\pi}$",
+        "$r=\\frac{A^2}{4\\pi}$"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "id": "117",
+      "question": "Consider $m \\neq 0$. Make $v$ the subject of the expression\r\n\r\n$K=\\frac{1}{2}mv^2$",
+      "topic": "Fundamental Mathematics",
+      "subtopic": "Algebraic expressions, Equations, and Inequalities",
+      "level": "2",
+      "options": [
+        "$v=\\sqrt\\frac{2}{Km}$",
+        "$v=\\sqrt\\frac{Km}{2}$",
+        "$v=\\frac{2K^2}{m}$",
+        "$v=\\sqrt\\frac{2K}{m}$"
+      ],
+      "correct_answer": 3
+    },
+    {
+      "id": "118",
+      "question": "Make $r$ the subject of the expression\r\n\r\n$v=\\dfrac{2}{3}\\pi r^3$",
+      "topic": "Fundamental Mathematics",
+      "subtopic": "Algebraic expressions, Equations, and Inequalities",
+      "level": "2",
+      "options": [
+        "\\[r = \\sqrt[3]{\\frac{2\\pi}{3v}} \\]",
+        "\\[ r = \\sqrt[3]{\\frac{3v}{2\\pi}} \\]",
+        "$r= \\dfrac{2\\pi}{3v^3}$",
+        "\\[ r = \\sqrt[3]{\\frac{2v}{3\\pi}} \\]"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "id": "120",
+      "question": "Make $x$ the subject of the expression\r\n\r\n$y=\\displaystyle \\sqrt\\frac{3x}{4k}$",
+      "topic": "Fundamental Mathematics",
+      "subtopic": "Algebraic expressions, Equations, and Inequalities",
+      "level": "2",
+      "options": [
+        "$x=\\displaystyle \\sqrt\\frac{3y}{4k}$",
+        "$x=\\dfrac{4}{3}k^2y$",
+        "$x=\\dfrac{4}{3}ky^2$",
+        "$x=\\dfrac{3}{4}ky^2$"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "id": "121",
+      "question": "Make $b$ the subject of the expression\r\n\r\n$\\frac{p}{q}=\\sqrt\\frac{(a +2b)}{(a-2b)}$",
+      "topic": "Fundamental Mathematics",
+      "subtopic": "Algebraic expressions, Equations, and Inequalities",
+      "level": "2",
+      "options": [
+        "$b=\\frac{a(p^2-q^2)}{2(p^2 +q^2)}$",
+        "$b=\\frac{2(p^2 +q^2)}{a(p^2-q^2)}$",
+        "$b=\\sqrt\\frac{q}{-p}$",
+        "$b=-\\sqrt\\frac{1+q}{1-p}$"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "id": "363",
+      "question": "The faces of a regular dodecahedron are:",
+      "topic": "Fundamental Mathematics",
+      "subtopic": "Elementary Geometry",
+      "level": "3",
+      "options": [
+        "pentagons and triangles.",
+        "triangles.",
+        "pentagons.",
+        "triangles and squares."
+      ],
+      "correct_answer": 2
+    },
+    {
+      "id": "364",
+      "question": "If the basis of a pyramid is a n-sided polygon, how many faces does the pyramid have?",
+      "topic": "Fundamental Mathematics",
+      "subtopic": "Elementary Geometry",
+      "level": "2",
+      "options": [
+        "It has $n+1$ faces.",
+        "It has $n+2$ faces.",
+        "It has $n$ faces.",
+        "It has $n-1$ faces."
+      ],
+      "correct_answer": 0
+    },
+    {
+      "id": "366",
+      "question": "How many faces does a prism have if the bases are n-sided polygons?",
+      "topic": "Fundamental Mathematics",
+      "subtopic": "Elementary Geometry",
+      "level": "2",
+      "options": [
+        "It has $n$ faces.",
+        "It has $n+2$ faces.",
+        "It has $n+3$ faces.",
+        "It has $n+1$ faces."
+      ],
+      "correct_answer": 1
+    },
+    {
+      "id": "367",
+      "question": "Identify the prisms that have less than $6$ vertices.",
+      "topic": "Fundamental Mathematics",
+      "subtopic": "Elementary Geometry",
+      "level": "3",
+      "options": [
+        "Heptagonal prisms.",
+        "Hexagonal prisms.",
+        "There are no such prisms.",
+        "Pentagonal prisms."
+      ],
+      "correct_answer": 2
+    },
+    {
+      "id": "368",
+      "question": "Identify the true statement.",
+      "topic": "Fundamental Mathematics",
+      "subtopic": "Elementary Geometry",
+      "level": "1",
+      "options": [
+        "The tetrahedron has less than four faces.",
+        "The tetrahedron is a platonic solid.",
+        "The tetrahedron has at least four faces.",
+        "The regular tetrahedron has four geometrically equal faces."
+      ],
+      "correct_answer": 3
+    },
+    {
+      "id": "369",
+      "question": "A quadrilateral is a rectangle when",
+      "topic": "Fundamental Mathematics",
+      "subtopic": "Elementary Geometry",
+      "level": "1",
+      "options": [
+        "it has parallel sides two by two OR it has two pairs of parallel sides.",
+        "it has congruent sides two by two OR it has two pairs of congruent sides.",
+        "all four internal angles are congruent.",
+        "it has congruent internal angles two by two OR it has two pairs of congruent internal angles."
+      ],
+      "correct_answer": 2
+    },
+    {
+      "id": "371",
+      "question": "In a parallelogram",
+      "topic": "Fundamental Mathematics",
+      "subtopic": "Elementary Geometry",
+      "level": "1",
+      "options": [
+        "the two diagonals bisect.",
+        "the four sides are congruent.",
+        "the four angles are congruent.",
+        "the two diagonals are perpendicular."
+      ],
+      "correct_answer": 0
+    },
+    {
+      "id": "456",
+      "question": "In a triangle, the centroid (or barycenter) is the point of intersection of",
+      "topic": "Fundamental Mathematics",
+      "subtopic": "Elementary Geometry",
+      "level": "4",
+      "options": [
+        "the medians of the triangle.",
+        "the triangle altitudes (or their extensions).",
+        "the bisectors of the internal angles of the triangle.",
+        "the perpendicular bisectors of the sides of the triangle."
+      ],
+      "correct_answer": 0
+    },
+    {
+      "id": "458",
+      "question": "Through two points, we can draw one line.\nThrough three points, three lines can be drawn.\nThrough thirty points, how many lines can we draw?",
+      "topic": "Fundamental Mathematics",
+      "subtopic": "Elementary Geometry",
+      "level": "5",
+      "options": [
+        "$445$ lines.",
+        "$455$ lines.",
+        "$435$ lines.",
+        "$465$ lines."
+      ],
+      "correct_answer": 2
+    },
+    {
+      "id": "460",
+      "question": "A polyhedron with $20$ faces and $30$ edges has:",
+      "topic": "Fundamental Mathematics",
+      "subtopic": "Elementary Geometry",
+      "level": "4",
+      "options": [
+        "$18$ vertices.",
+        "$12$ vertices.",
+        "$24$ vertices.",
+        "$6$ vertices."
+      ],
+      "correct_answer": 1
+    },
+    {
+      "id": "461",
+      "question": "Which of the following sentences has only platonic solids?",
+      "topic": "Fundamental Mathematics",
+      "subtopic": "Elementary Geometry",
+      "level": "4",
+      "options": [
+        "Tetrahedron, octahedron, and icosahedron.",
+        "Hexahedron, decahedron, and dodecahedron.",
+        "Tetrahedron, heptahedron, and icosahedron.",
+        "Cone, cylinder, and sphere."
+      ],
+      "correct_answer": 0
+    },
+    {
+      "id": "462",
+      "question": "Select the platonic solid whose sum of the number of faces with the number of vertices is $14$.",
+      "topic": "Fundamental Mathematics",
+      "subtopic": "Elementary Geometry",
+      "level": "3",
+      "options": [
+        "Octahedron.",
+        "Dodecahedron.",
+        "Tetrahedron.",
+        "Icosahedron."
+      ],
+      "correct_answer": 0
+    },
+    {
+      "id": "463",
+      "question": "The sum of the number of faces with the number of vertices of a solid is $17$. \nChoose the correct answer.",
+      "topic": "Fundamental Mathematics",
+      "subtopic": "Elementary Geometry",
+      "level": "3",
+      "options": [
+        "The solid is a pentagonal prism.",
+        "The solid is a hexagonal pyramid.",
+        "The solid is a hexagonal prism.",
+        "The solid is a pentagonal pyramid."
+      ],
+      "correct_answer": 0
+    },
+    {
+      "id": "464",
+      "question": "The number of diagonals of an $n$-sided polygon is",
+      "topic": "Fundamental Mathematics",
+      "subtopic": "Elementary Geometry",
+      "level": "5",
+      "options": [
+        "$2n\\left(n-3\\right)$.",
+        "$2n-2$.",
+        "$\\dfrac{n\\left(n-3\\right)}{2}$.",
+        "$n\\left(n-3\\right)$."
+      ],
+      "correct_answer": 2
+    },
+    {
+      "id": "467",
+      "question": "Choose the true statement.",
+      "topic": "Fundamental Mathematics",
+      "subtopic": "Elementary Geometry",
+      "level": "2",
+      "options": [
+        "A diagonal can join two consecutive vertices of the polygon.",
+        "A convex polygon may have a diagonal outside the polygon.",
+        "The diagonals of a convex polygon are all congruent.",
+        "A concave polygon may have a diagonal outside the polygon."
+      ],
+      "correct_answer": 3
+    },
+    {
+      "id": "493",
+      "question": "Which set of numbers stands for the lengths of the sides of a triangle?",
+      "topic": "Fundamental Mathematics",
+      "subtopic": "Elementary Geometry",
+      "level": "1",
+      "options": [
+        "$\\left\\{3,3,6\\right\\}$.",
+        "$\\left\\{2,4,5\\right\\}$.",
+        "$\\left\\{1,3,7\\right\\}$.",
+        "$\\left\\{2,4,8\\right\\}$."
+      ],
+      "correct_answer": 1
+    },
+    {
+      "id": "494",
+      "question": "The amplitude of an exterior angle of a regular hexagon is",
+      "topic": "Fundamental Mathematics",
+      "subtopic": "Elementary Geometry",
+      "level": "5",
+      "options": [
+        "$120^\\circ$.",
+        "$90^\\circ$.",
+        "$60^\\circ$.",
+        "$30^\\circ$."
+      ],
+      "correct_answer": 2
+    },
+    {
+      "id": "495",
+      "question": "The amplitude of an interior angle of a regular octagon is",
+      "topic": "Fundamental Mathematics",
+      "subtopic": "Elementary Geometry",
+      "level": "3",
+      "options": [
+        "$125^\\circ$.",
+        "$135^\\circ$.",
+        "$130^\\circ$.",
+        "$140^\\circ$."
+      ],
+      "correct_answer": 1
+    },
+    {
+      "id": "496",
+      "question": "Choose the value that corresponds to the sum of the amplitudes of the internal angles of an octagon.",
+      "topic": "Fundamental Mathematics",
+      "subtopic": "Elementary Geometry",
+      "level": "3",
+      "options": [
+        "$900^\\circ$.",
+        "$360^\\circ$.",
+        "$1440^\\circ$.",
+        "$1080^\\circ$."
+      ],
+      "correct_answer": 3
+    },
+    {
+      "id": "497",
+      "question": "Knowing that $P$ is a parallelogram, indicate what you can say about $P$.",
+      "topic": "Fundamental Mathematics",
+      "subtopic": "Elementary Geometry",
+      "level": "2",
+      "options": [
+        "$P$ has two congruent diagonals. ",
+        "The sum of the amplitudes of the internal angles of $P$ is $360^\\circ$.",
+        "$P$ has four acute angles.",
+        "$P$ has four right angles."
+      ],
+      "correct_answer": 1
+    },
+    {
+      "id": "498",
+      "question": "Choose the true statement.",
+      "topic": "Fundamental Mathematics",
+      "subtopic": "Elementary Geometry",
+      "level": "1",
+      "options": [
+        "A scalene triangle can have two congruent angles.",
+        "There is an equilateral triangle with a right angle.",
+        "A scalene triangle can have three acute angles.",
+        "An isosceles triangle can have three geometrically different angles."
+      ],
+      "correct_answer": 2
+    },
+    {
+      "id": "499",
+      "question": "Consider that $T$ is a right-angled triangle. \nChoose the true statement.",
+      "topic": "Fundamental Mathematics",
+      "subtopic": "Elementary Geometry",
+      "level": "3",
+      "options": [
+        "$T$ has three sides with lengths $4 cm$, $3 cm$ and $5 cm$.",
+        "The amplitude of the other angles of $T$ is $45^\\circ$.",
+        "$T$ may have an obtuse angle.",
+        "$T$ has three sides with lengths $4 cm$, $3 cm$ and $6 cm$."
+      ],
+      "correct_answer": 0
+    },
+    {
+      "id": "500",
+      "question": "Choose the true statement.",
+      "topic": "Fundamental Mathematics",
+      "subtopic": "Elementary Geometry",
+      "level": "1",
+      "options": [
+        "If $T$ is a right triangle, then $T$ is a scalene triangle.",
+        "If $T$ is an equilateral triangle, then $T$ is an acute triangle.",
+        "If $T$ is an obtuse triangle, then $T$ is an isosceles triangle.",
+        "If $T$ is an acute triangle, then $T$ is an equilateral triangle."
+      ],
+      "correct_answer": 1
+    },
+    {
+      "id": "501",
+      "question": "The total area (expressed in a given measure unit) of this cylinder is:",
+      "topic": "Fundamental Mathematics",
+      "subtopic": "Elementary Geometry",
+      "level": "5",
+      "options": [
+        "$2\\pi a(a+b)$.",
+        "$2\\pi b(a+b)$.",
+        "$\\pi a (a+2b)$.",
+        "$\\pi a (2a+b)$."
+      ],
+      "correct_answer": 0
+    },
+    {
+      "id": "502",
+      "question": "Consider a dilation (an isotropic scaling) of centre $O$ and scale factor $r$.\nChoose the correct statement.",
+      "topic": "Fundamental Mathematics",
+      "subtopic": "Elementary Geometry",
+      "level": "4",
+      "options": [
+        "If $r>1$ the dilation is an isometry.",
+        "If $r = 2$ the dilation corresponds to a translation.",
+        "The original figure and its transformed are always congruent.",
+        "The original figure and its transformed are always similar."
+      ],
+      "correct_answer": 3
+    },
+    {
+      "id": "503",
+      "question": "Indicate which geometric transformation always preserves the direction and orientation of directed line segments.",
+      "topic": "Fundamental Mathematics",
+      "subtopic": "Elementary Geometry",
+      "level": "3",
+      "options": [
+        "Glide reflection.",
+        "Rotation.",
+        "Reflection.",
+        "Translation."
+      ],
+      "correct_answer": 3
+    },
+    {
+      "id": "504",
+      "question": "Indicate which of the following geometrical transformations is not an isometry.",
+      "topic": "Fundamental Mathematics",
+      "subtopic": "Elementary Geometry",
+      "level": "4",
+      "options": [
+        "Line of reflection $y=x$.",
+        "Dilation (isotropic scaling) of centre $(0,0)$ and scale factor $2$.",
+        "Translation associated to vector $\\stackrel{\\rightarrow}{u} = (2,3)$.",
+        "Rotation of centre $(0,0)$ and amplitude (angle) $90^\\circ$."
+      ],
+      "correct_answer": 1
+    },
+    {
+      "id": "505",
+      "question": "Considering the similarity criteria of triangles, choose the correct statement.",
+      "topic": "Fundamental Mathematics",
+      "subtopic": "Elementary Geometry",
+      "level": "3",
+      "options": [
+        "Two scalene triangles are never similar.",
+        "Two isosceles triangles are similar if the length of two sides of one of them is directly proportional to the length of two sides of the other.",
+        "Two right triangles are always similar.",
+        "Two scalene triangles are similar if two internal angles of one of them are congruent to two of the internal angles of the other."
+      ],
+      "correct_answer": 3
+    },
+    {
+      "id": "506",
+      "question": "Find the correct relationship between the type of triangle and the number of lines of symmetry.",
+      "topic": "Fundamental Mathematics",
+      "subtopic": "Elementary Geometry",
+      "level": "1",
+      "options": [
+        "An equilateral triangle has 6 lines of symmetry.",
+        "An equilateral triangle has 3 lines of symmetry.",
+        "A scalene triangle has 1 line of symmetry.",
+        "An isosceles triangle has 2 lines of symmetry."
+      ],
+      "correct_answer": 1
+    },
+    {
+      "id": "507",
+      "question": "A square allows for:",
+      "topic": "Fundamental Mathematics",
+      "subtopic": "Elementary Geometry",
+      "level": "4",
+      "options": [
+        "4 reflectional symmetries and 4 rotational symmetries.",
+        "8 reflectional symmetries and 8 rotational symmetries.",
+        "4 reflectional symmetries and 8 rotational symmetries.",
+        "8 reflectional symmetries and 4 rotational symmetries."
+      ],
+      "correct_answer": 0
+    },
+    {
+      "id": "508",
+      "question": "A regular pentagon allows for five rotational symmetries. Which are the amplitudes of such rotational symmetries:",
+      "topic": "Fundamental Mathematics",
+      "subtopic": "Elementary Geometry",
+      "level": "4",
+      "options": [
+        "$90^\\circ$, $180^\\circ$, $270^\\circ$, $360^\\circ$, $450^\\circ$.",
+        "$72^\\circ$, $144^\\circ$, $216^\\circ$, $288^\\circ$ and $360^\\circ$.",
+        "$36^\\circ$, $72^\\circ$, $108^\\circ$, $144^\\circ$ and $180^\\circ$.",
+        "$36^\\circ$, $72^\\circ$, $144^\\circ$, $288^\\circ$, $360^\\circ$."
+      ],
+      "correct_answer": 1
+    },
+    {
+      "id": "509",
+      "question": "A regular hexagon allows for:",
+      "topic": "Fundamental Mathematics",
+      "subtopic": "Elementary Geometry",
+      "level": "2",
+      "options": [
+        "$12$ rotational symmetries.",
+        "$9$ reflectional symmetries.",
+        "$6$ rotational symmetries.",
+        "$3$ reflectional symmetries."
+      ],
+      "correct_answer": 2
+    },
+    {
+      "id": "510",
+      "question": "Choose the incorrect statement.",
+      "topic": "Fundamental Mathematics",
+      "subtopic": "Elementary Geometry",
+      "level": "5",
+      "options": [
+        "Rotation and translation are isometries that preserve the orientation of the angles.",
+        "Reflection is the sole isometry that does not preserve the correct direction. ",
+        "A transformation is a similarity.",
+        "An isometry is a geometrical transformation in which the original figure and its transformed are congruent."
+      ],
+      "correct_answer": 1
+    },
+    {
+      "id": "511",
+      "question": "Consider a right-angled triangle, where the hypotenuse and one side measure 10 cm and 6 cm in length, respectively. Indicate the length of the other side.",
+      "topic": "Fundamental Mathematics",
+      "subtopic": "Elementary Geometry",
+      "level": "4",
+      "options": [
+        "7 cm",
+        "3 cm",
+        "4 cm",
+        "8 cm "
+      ],
+      "correct_answer": 3
+    },
+    {
+      "id": "512",
+      "question": "Two triangles are congruent if, from one to the other, they have:",
+      "topic": "Fundamental Mathematics",
+      "subtopic": "Elementary Geometry",
+      "level": "3",
+      "options": [
+        "Two congruent sides. And an angle which is also congruent.",
+        "Two congruent angles.",
+        "Two congruent sides.",
+        "A congruent side and both adjacent angles to that side also congruent."
+      ],
+      "correct_answer": 3
+    },
+    {
+      "id": "513",
+      "question": "Imagine a triangle whose sides are of length $8 cm, 6 cm$ and $3 cm$:",
+      "topic": "Fundamental Mathematics",
+      "subtopic": "Elementary Geometry",
+      "level": "1",
+      "options": [
+        "The triangle only has an angle with amplitude less than $90^\\circ$.",
+        "The triangle is scalene.",
+        "The triangle is acute-angled.",
+        "The triangle is isosceles."
+      ],
+      "correct_answer": 1
+    },
+    {
+      "id": "514",
+      "question": "Imagine a triangle whose amplitude of two of the angles is  $70^\\circ$ and $30^\\circ$:",
+      "topic": "Fundamental Mathematics",
+      "subtopic": "Elementary Geometry",
+      "level": "2",
+      "options": [
+        "The triangle is acute-angled.",
+        "The triangle is isosceles.",
+        "The triangle is straight.",
+        "The triangle is obtuse-angled."
+      ],
+      "correct_answer": 0
+    },
+    {
+      "id": "515",
+      "question": "In quadrilateral $[ABCD]$ the diagonals are congruent, orthogonal, they are bisectors of the internal angles and intersect in the median point which is a symmetry center. $[ABCD]$ is a:",
+      "topic": "Fundamental Mathematics",
+      "subtopic": "Elementary Geometry",
+      "level": "4",
+      "options": [
+        "Square.",
+        "Rectangle.",
+        "Oblique parallelogram.",
+        "Rhombus."
+      ],
+      "correct_answer": 0
+    },
+    {
+      "id": "516",
+      "question": "In a rectangle:",
+      "topic": "Fundamental Mathematics",
+      "subtopic": "Elementary Geometry",
+      "level": "2",
+      "options": [
+        "There are two lines of symmetry and their diagonals are congruent and intersecting the median point which is a symmetry centre.",
+        "There is just one line of symmetry and its diagonals are congruent and intersect in the median point which is a symmetry centre.",
+        "There are four lines of symmetry and their diagonals are congruent and intersect in the median point which is a symmetry centre.",
+        "There are two lines of symmetry and their diagonals are congruent and intersect in the median point."
+      ],
+      "correct_answer": 0
+    },
+    {
+      "id": "517",
+      "question": "In an isosceles trapezoid:",
+      "topic": "Fundamental Mathematics",
+      "subtopic": "Elementary Geometry",
+      "level": "3",
+      "options": [
+        "Diagonals bisect.",
+        "The sides are congruent two by two.",
+        "There are two lines of symmetry.",
+        "The straight line which crosses the median points is a line of symmetry."
+      ],
+      "correct_answer": 3
+    },
+    {
+      "id": "518",
+      "question": "Mark the true statement.",
+      "topic": "Fundamental Mathematics",
+      "subtopic": "Elementary Geometry",
+      "level": "5",
+      "options": [
+        "The sum of the amplitudes of the external angles of a convex quadrilateral is always equal to $540^\\circ$.",
+        "The sum of the amplitudes of the external angles of a convex hexagon is always equal to $900^\\circ$.",
+        "The sum of the amplitudes of the external angles of a convex pentagon is always equal to  $720^\\circ$.",
+        "The sum of the amplitudes of the external angles of any triangle is always equal to $360^\\circ$."
+      ],
+      "correct_answer": 3
+    },
+    {
+      "id": "519",
+      "question": "The sum of the amplitudes of the internal angles of a convex polygon with five sides is:",
+      "topic": "Fundamental Mathematics",
+      "subtopic": "Elementary Geometry",
+      "level": "5",
+      "options": [
+        "$900^\\circ$.",
+        "$540^\\circ$. ",
+        "$720^\\circ$.",
+        "$360^\\circ$."
+      ],
+      "correct_answer": 1
+    },
+    {
+      "id": "520",
+      "question": "Choose the correct statement.",
+      "topic": "Fundamental Mathematics",
+      "subtopic": "Elementary Geometry",
+      "level": "5",
+      "options": [
+        "The sum of the amplitudes of the external angles of any convex polygon is $360^\\circ$.",
+        "The sum of the external angles of any convex polygon is $180^\\circ$.",
+        "The sum of the external angles of any convex polygon is $\\left(n - 2\\right)\\times 180^\\circ$, where $n$ is the number of sides of the polygon.",
+        "The sum of the external angles of any convex polygon is $720^\\circ$."
+      ],
+      "correct_answer": 0
+    },
+    {
+      "id": "521",
+      "question": "A polygon is regular when:",
+      "topic": "Fundamental Mathematics",
+      "subtopic": "Elementary Geometry",
+      "level": "2",
+      "options": [
+        "All its sides have the same length and all angles have the same amplitude.",
+        "All the angles have the same amplitude.",
+        "All the sides have the same length.",
+        "The parallel sides have the same length and opposite angles have the same amplitude."
+      ],
+      "correct_answer": 0
+    },
+    {
+      "id": "522",
+      "question": "Each external angle of a given polygon has $60^\\circ$ amplitude. Which is the sum of the amplitudes of the internal angles of this polygon? ",
+      "topic": "Fundamental Mathematics",
+      "subtopic": "Elementary Geometry",
+      "level": "5",
+      "options": [
+        "$360^\\circ$",
+        "$720^\\circ$ ",
+        "$540^\\circ$",
+        "$180^\\circ$"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "id": "523",
+      "question": "The diagonal of a polygon is:",
+      "topic": "Fundamental Mathematics",
+      "subtopic": "Elementary Geometry",
+      "level": "2",
+      "options": [
+        "A straight line through two non-consecutive vertices.",
+        "A straight line segment uniting the median points of two consecutive sides.",
+        "A semi-straight line whose origin is one of the vertices of the polygon and goes through the opposite vertice.",
+        "A straight line segment whose endpoints are two non-consecutive vertices."
+      ],
+      "correct_answer": 3
+    },
+    {
+      "id": "524",
+      "question": "In a cartesian referential two consecutive vertices $A$ and $B$, of a parallelogram $\\left[ABCD\\right]$ were marked, together with point $M$ corresponding to the intersection of its diagonals. Knowing that the coordinates of points $A$, $B$ and $M$ are  $\\left(-1,-3\\right)$, $\\left(3,-3\\right)$  and $\\left(2,0\\right)$, respectively, the coordinates of points $C$ and $D$ are:",
+      "topic": "Fundamental Mathematics",
+      "subtopic": "Elementary Geometry",
+      "level": "5",
+      "options": [
+        "$C(2,3)$ and $D(1,3)$",
+        "$C(5,3)$ and $D(1,3)$",
+        "$C(5,2)$ and $D(3,2)$",
+        "$C(5,3)$ and $D(3,2)$"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "id": "611",
+      "question": "Simplify:\r\n\r\n$(x+y) +(3x-y)$\r\n\r\n\r\n",
+      "topic": "Fundamental Mathematics",
+      "subtopic": "Algebraic expressions, Equations, and Inequalities",
+      "level": "1",
+      "options": [
+        "$2x$",
+        "$4x$",
+        "$4x+y$",
+        "$2x-y$"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "id": "612",
+      "question": "Simplify:\r\n\r\n$(x^2 +3x +5) +(x-2)^2$",
+      "topic": "Fundamental Mathematics",
+      "subtopic": "Algebraic expressions, Equations, and Inequalities",
+      "level": "1",
+      "options": [
+        "$x^4 +3x+9$",
+        "$2x^2-x+1$",
+        "$2x^2 -x+9$",
+        "$2x^2 +3x +9$"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "id": "613",
+      "question": "Simplify:\r\n\r\n$(x+y)(x^2 -xy+y^2)$",
+      "topic": "Fundamental Mathematics",
+      "subtopic": "Algebraic expressions, Equations, and Inequalities",
+      "level": "1",
+      "options": [
+        "$x^3 +y^3$",
+        "$x-xy+y$",
+        "$x^3 +2x^2y +xy^2 +y^3$",
+        "$x^2 +y^2$"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "id": "614",
+      "question": "Simplify:\r\n\r\n$\\dfrac{(3x +4x)(5x-x)}{(6x-7x)}$",
+      "topic": "Fundamental Mathematics",
+      "subtopic": "Algebraic expressions, Equations, and Inequalities",
+      "level": "1",
+      "options": [
+        "$-13$",
+        "$-28x$",
+        "$-x$",
+        "$-28$"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "id": "615",
+      "question": "Simplify:\r\n\r\n$\\dfrac{(y^4 )(y^{-2})}{y^{-3}}$",
+      "topic": "Fundamental Mathematics",
+      "subtopic": "Algebraic expressions, Equations, and Inequalities",
+      "level": "2",
+      "options": [
+        "$y^5$",
+        "$y^{-5}$",
+        "$y^{-1}$",
+        "$y$"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "id": "662",
+      "question": "Simplify:\r\n\r\n$\\dfrac{(7x^{-3})(5x^2)}{5x^{-4}}$",
+      "topic": "Fundamental Mathematics",
+      "subtopic": "Algebraic expressions, Equations, and Inequalities",
+      "level": "2",
+      "options": [
+        "$7x^{-3}$",
+        "$7x^{-2}$",
+        "$7x^3$",
+        "$7x^{-5}$"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "id": "663",
+      "question": "Simplify:\r\n\r\n$\\dfrac{(x^{\\frac{1}{2}})(x^{\\frac{2}{5}})}{x^{\\frac{1}{4}}}$",
+      "topic": "Fundamental Mathematics",
+      "subtopic": "Algebraic expressions, Equations, and Inequalities",
+      "level": "3",
+      "options": [
+        "$x^\\frac{11}{20}$",
+        "$x^\\frac{8}{10}$",
+        "$x^\\frac{27}{40}$",
+        "$x^\\frac{13}{20}$"
+      ],
+      "correct_answer": 3
+    },
+    {
+      "id": "664",
+      "question": "Simplify:\r\n\r\n$\\dfrac{(\\sqrt{y^3})(\\sqrt{y})}{y^{-2}}$",
+      "topic": "Fundamental Mathematics",
+      "subtopic": "Algebraic expressions, Equations, and Inequalities",
+      "level": "3",
+      "options": [
+        "$y^{-2}$",
+        "$y^2$",
+        "$y^{-4}$",
+        "$y^4$"
+      ],
+      "correct_answer": 3
+    },
+    {
+      "id": "665",
+      "question": "Consider that $F \\neq0$. Solve for $C$:\n\n$F=\\dfrac{9}{5}C+32$",
+      "topic": "Fundamental Mathematics",
+      "subtopic": "Algebraic expressions, Equations, and Inequalities",
+      "level": "2",
+      "options": [
+        "$C= \\dfrac{5}{9}(F+32)$",
+        "$C= \\dfrac{9}{5}(F-32)$",
+        "$C= \\dfrac{5}{9}(32-F)$",
+        "$C= \\dfrac{5}{9}(F-32)$"
+      ],
+      "correct_answer": 3
+    },
+    {
+      "id": "666",
+      "question": "Solve for $x$:\n\n$\\sqrt{ \\dfrac{x}{2}}+3=5$",
+      "topic": "Fundamental Mathematics",
+      "subtopic": "Algebraic expressions, Equations, and Inequalities",
+      "level": "2",
+      "options": [
+        "$x=32$",
+        "$x=5.56$",
+        "$x=2$",
+        "$x=8$"
+      ],
+      "correct_answer": 3
+    },
+    {
+      "id": "667",
+      "question": "Solve for $x$:\n\n$\\dfrac{x}{3}= \\dfrac{3}{x}$",
+      "topic": "Fundamental Mathematics",
+      "subtopic": "Algebraic expressions, Equations, and Inequalities",
+      "level": "2",
+      "options": [
+        "$x=3$",
+        "$x= \\pm3$",
+        "$x=0$",
+        "$x=1$"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "id": "668",
+      "question": "Solve for $t$:\n\n$\\dfrac {15}{3t^2}= \\dfrac{2}{5}$",
+      "topic": "Fundamental Mathematics",
+      "subtopic": "Algebraic expressions, Equations, and Inequalities",
+      "level": "2",
+      "options": [
+        "$t=3.54$",
+        "$t=\\pm3.54$",
+        "$t=\\pm0.71$",
+        "$t=0.71$"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "id": "690",
+      "question": "Solve the inequality:\n\\[\n|\\sin x|< x.\n\\]",
+      "topic": "Fundamental Mathematics",
+      "subtopic": "Algebraic expressions, Equations, and Inequalities",
+      "level": "2",
+      "options": [
+        "$x\\in\\mathbb{R}$",
+        "$x \\neq 0$",
+        "$x < 0$",
+        "$x>0$"
+      ],
+      "correct_answer": 3
+    },
+    {
+      "id": "691",
+      "question": "Solve the inequality\r\n\\[\r\n\\frac{|\\sin (x)|}{x}<1.\r\n\\]",
+      "topic": "Fundamental Mathematics",
+      "subtopic": "Algebraic expressions, Equations, and Inequalities",
+      "level": "2",
+      "options": [
+        "$x \\neq 0$",
+        "$x\\in\\mathbb{R}$ ",
+        "$x>0$",
+        "$x < 0$ "
+      ],
+      "correct_answer": 0
+    },
+    {
+      "id": "786",
+      "question": "Solve for $x$:\r\n\r\n$x^4-10=6$",
+      "topic": "Fundamental Mathematics",
+      "subtopic": "Algebraic expressions, Equations, and Inequalities",
+      "level": "3",
+      "options": [
+        "$x=15$",
+        "$x=\\pm1$",
+        "$x=\\dfrac{6}{10}$",
+        "$x=\\pm2$"
+      ],
+      "correct_answer": 3
+    },
+    {
+      "id": "787",
+      "question": "Solve for $x$:\r\n\r\n$5= 4 e^{3x}$",
+      "topic": "Fundamental Mathematics",
+      "subtopic": "Algebraic expressions, Equations, and Inequalities",
+      "level": "4",
+      "options": [
+        "$x=0.6694$",
+        "$x=0.0744$",
+        "$x=0.924$",
+        "$x=-0.6694$"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "id": "788",
+      "question": "Solve for $x$:\r\n\r\n$5^{x+1}=2^{3x-2}$",
+      "topic": "Fundamental Mathematics",
+      "subtopic": "Algebraic expressions, Equations, and Inequalities",
+      "level": "4",
+      "options": [
+        "$x=0.48$",
+        "$x=0.81$",
+        "$x=0.16$",
+        "$x=6.38$"
+      ],
+      "correct_answer": 3
+    },
+    {
+      "id": "789",
+      "question": "Solve for $x$:\r\n\r\n$3^x=5$",
+      "topic": "Fundamental Mathematics",
+      "subtopic": "Algebraic expressions, Equations, and Inequalities",
+      "level": "3",
+      "options": [
+        "$x=0.6$",
+        "$x=0.06$",
+        "$x=-1.47$",
+        "$x=1.47$"
+      ],
+      "correct_answer": 3
+    },
+    {
+      "id": "790",
+      "question": "Solve for $x$:\r\n\r\n$\\log_{10}{(x+3)} +\\log_{10}{(x-1)}= 2\\log_{10}{(x+2)}$",
+      "topic": "Fundamental Mathematics",
+      "subtopic": "Algebraic expressions, Equations, and Inequalities",
+      "level": "5",
+      "options": [
+        "$x=\\dfrac{7}{2}$",
+        "$x=-\\dfrac{7}{2}$",
+        "$x=\\dfrac{1}{2}$",
+        "$x=-\\dfrac{1}{6}$"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "id": "791",
+      "question": "Evaluate:\r\n\r\n$\\dfrac{\\log_{10}{16}-\\log_{10}{32}+\\dfrac{1}{3}\\log_{10}{64}}{2\\log_{10}{2}}$",
+      "topic": "Fundamental Mathematics",
+      "subtopic": "Algebraic expressions, Equations, and Inequalities",
+      "level": "5",
+      "options": [
+        "$\\dfrac{1}{4}$",
+        "$\\dfrac{1}{2}$",
+        "$2$",
+        "$1$"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "id": "792",
+      "question": "Solve for $x$:\r\n\r\n$\\log_{3}{x}=5$",
+      "topic": "Fundamental Mathematics",
+      "subtopic": "Algebraic expressions, Equations, and Inequalities",
+      "level": "3",
+      "options": [
+        "$x=\\pm 125$",
+        "$x=243$",
+        "$x=\\pm 243$",
+        "$x=125$"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "id": "793",
+      "question": "Solve for $x$:\r\n\r\n$\\frac{3}{7} x^2-1=5$",
+      "topic": "Fundamental Mathematics",
+      "subtopic": "Algebraic expressions, Equations, and Inequalities",
+      "level": "2",
+      "options": [
+        "$x=\\pm 3.74$",
+        "$x=- 1.6$",
+        "$x=\\pm 1.6$",
+        "$x=3.74$"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "id": "794",
+      "question": "Solve for $x$:\r\n\r\n$\\frac{x}{3} +2=6x$",
+      "topic": "Fundamental Mathematics",
+      "subtopic": "Algebraic expressions, Equations, and Inequalities",
+      "level": "1",
+      "options": [
+        "$x=0.35$",
+        "$x=2.83$",
+        "$x=0$",
+        "$x=4.34$"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "id": "795",
+      "question": "Solve for $x$:\r\n\r\n$\\frac{2x}{4}=3x^3$",
+      "topic": "Fundamental Mathematics",
+      "subtopic": "Algebraic expressions, Equations, and Inequalities",
+      "level": "2",
+      "options": [
+        "$x=\\pm 1.5$",
+        "$x=0$",
+        "$x\\in\\{0,\\pm 0.17\\}$",
+        "$x=\\pm 1.23$"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "id": "796",
+      "question": "Solve for $x$:\r\n\r\n$3^{x^2-1}=27$",
+      "topic": "Fundamental Mathematics",
+      "subtopic": "Algebraic expressions, Equations, and Inequalities",
+      "level": "4",
+      "options": [
+        "$x=0.3$",
+        "$x=3$",
+        "$x=\\pm 0.5$",
+        "$x=\\pm 2$"
+      ],
+      "correct_answer": 3
+    },
+    {
+      "id": "797",
+      "question": "Simplify: \r\n\r\n$(p^\\frac{1}{2}q^2r^{-2})(p^\\frac{1}{6}q^\\frac{1}{2}r)$",
+      "topic": "Fundamental Mathematics",
+      "subtopic": "Algebraic expressions, Equations, and Inequalities",
+      "level": "3",
+      "options": [
+        "$p^\\frac{3}{2}q^\\frac{2}{5}r^{-1}$",
+        "$p^\\frac{1}{12}qr^{-2}$",
+        "$p^\\frac{2}{3}q^\\frac{5}{2}r^{-1}$",
+        "$p^\\frac{4}{6}q^\\frac{2}{5}r^{-1}$"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "id": "798",
+      "question": "Simplify:\r\n\r\n$(x^2)^\\frac{1}{2} (y^2)^3(z^\\frac{1}{2})^3$",
+      "topic": "Fundamental Mathematics",
+      "subtopic": "Algebraic expressions, Equations, and Inequalities",
+      "level": "3",
+      "options": [
+        "$xy^6z^\\frac{3}{2}$",
+        "$xy^5z^\\frac{2}{3}$",
+        "$xy^5z^\\frac{3}{2}$",
+        "$x^\\frac{5}{2}y^8z^\\frac{3}{2}$"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "id": "799",
+      "question": "Simplify:\r\n\r\n$\\frac{a^3b^2}{ab^2-a^2b}$",
+      "topic": "Fundamental Mathematics",
+      "subtopic": "Algebraic expressions, Equations, and Inequalities",
+      "level": "4",
+      "options": [
+        "$ab^4$",
+        "$\\frac{ab^5}{ab}$",
+        "$\\frac{a^2b}{b-a}$",
+        "$a^2b$"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "id": "800",
+      "question": "Simplify:\r\n\r\n$(p^3)^\\frac{1}{2}(q^2)^4$",
+      "topic": "Fundamental Mathematics",
+      "subtopic": "Algebraic expressions, Equations, and Inequalities",
+      "level": "3",
+      "options": [
+        "$p^\\frac{3}{2}q^6$",
+        "$p^\\frac{3}{2}q^8$",
+        "$p^\\frac{2}{3}q^2$",
+        "$p^2q^{16}$"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "id": "801",
+      "question": "Simplify:\r\n\r\n$\\frac{(ab^2)^3}{(a^\\frac{1}{2}b^\\frac{1}{4})^4}$",
+      "topic": "Fundamental Mathematics",
+      "subtopic": "Algebraic expressions, Equations, and Inequalities",
+      "level": "4",
+      "options": [
+        "$\\frac{ab}{a^2b}$",
+        "$ab^5$",
+        "$\\frac{a^3b^9}{a^2b}$",
+        "$\\frac{a^3b^6}{a^2b}$"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "id": "802",
+      "question": "Simplify \r\n\r\n$\\frac{(p^3x^\\frac{1}{2}y^{-\\frac{1}{2}})(px)^\\frac{1}{3}}{(\\sqrt{p^3}\\sqrt{x} y)}$\r\n\r\n expressing the answer with positive indices only.\r\n\r\n",
+      "topic": "Fundamental Mathematics",
+      "subtopic": "Algebraic expressions, Equations, and Inequalities",
+      "level": "5",
+      "options": [
+        "$\\frac{\\sqrt[3]{p^{10}}\\sqrt[6]{x^5}\\sqrt[2]{y^{-1}}}{\\sqrt[2]{p^3}\\sqrt[2]{x}{y}}$\r\n",
+        "$\\frac{p^\\frac{10}{3}x^\\frac{5}{6}y-{^\\frac{1}{2}}}{p^\\frac{3}{2}x^\\frac{1}{2}y}$",
+        "$\\frac{\\sqrt[6]{p^{11}}\\sqrt[3]{x}}{{\\sqrt{y^3}}}$",
+        "$\\frac{\\sqrt[6]{p^{11}}\\sqrt[3]{x}}{{\\sqrt{y}}}$"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "id": "803",
+      "question": "Simplify\r\n\r\n$\\frac{{a^2b^2c^\\frac{1}{2}}}{{({a^\\frac{3}{2}}bc^\\frac{5}{2}})^2}$\r\n\r\nexpressing the answer with positive indices only.",
+      "topic": "Fundamental Mathematics",
+      "subtopic": "Algebraic expressions, Equations, and Inequalities",
+      "level": "4",
+      "options": [
+        "$\\frac{1}{ac^\\frac{9}{2}}$",
+        "$\\frac{{a^2b^2c^\\frac{1}{2}}}{a^2b^2c^5}$",
+        "$\\frac{{a^2b^2\\sqrt[2]{c}}}{a^2b^2c^5}$",
+        "$\\frac{1}{a^\\frac{3}{2}c^\\frac{8}{2}}$"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "id": "1256",
+      "question": "If a triangle has a square angle and the two adjacent sides are equal in length, what are the other two angles in the triangle?",
+      "topic": "Fundamental Mathematics",
+      "subtopic": "Elementary Geometry",
+      "level": "1",
+      "options": [
+        "90 degrees each",
+        "90 degrees and 0 degrees",
+        "45 degrees each",
+        "33 degrees each"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "id": "1257",
+      "question": "How many sides does a square have?",
+      "topic": "Fundamental Mathematics",
+      "subtopic": "Elementary Geometry",
+      "level": "1",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "12"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "id": "1517",
+      "question": "The solution of the equation $$-3x\\left(x-\\dfrac{1}{3}\\right)=0$$ is:",
+      "topic": "Fundamental Mathematics",
+      "subtopic": "Algebraic expressions, Equations, and Inequalities",
+      "level": "3",
+      "options": [
+        "$x=\\dfrac{1}{3}$",
+        "$x=1 \\ \\vee \\ x=\\dfrac{1}{3}$",
+        "$x=0 \\ \\vee \\ x=3$",
+        "$x=0 \\ \\vee \\ x=\\dfrac{1}{3}$"
+      ],
+      "correct_answer": 3
+    },
+    {
+      "id": "1518",
+      "question": "The solution of the equation $$x^3\\left(2x-\\dfrac{1}{2}\\right)(x-1)=0$$ is:",
+      "topic": "Fundamental Mathematics",
+      "subtopic": "Algebraic expressions, Equations, and Inequalities",
+      "level": "5",
+      "options": [
+        "$x=0 \\ \\vee \\ x=2 \\ \\vee \\ x=-1$",
+        "$x=0 \\ \\vee \\ x=\\dfrac{1}{4} \\ \\vee \\ x=-1$\r\n   ",
+        "$x=0 \\ \\vee \\ x=\\dfrac{1}{2} \\ \\vee \\ x=1$\r\n    ",
+        "$x=0 \\ \\vee \\ x=\\dfrac{1}{4} \\ \\vee \\ x=1$\r\n"
+      ],
+      "correct_answer": 3
+    },
+    {
+      "id": "1519",
+      "question": "The solution of the equation $$\\left(x-\\sqrt{3}\\right)\\left(\\sqrt{2}+2x\\right)=0$$ is:",
+      "topic": "Fundamental Mathematics",
+      "subtopic": "Algebraic expressions, Equations, and Inequalities",
+      "level": "4",
+      "options": [
+        "$x=-\\dfrac{\\sqrt{3}}{2} \\ \\vee \\ x=\\sqrt{2}$\r\n",
+        "$x=-\\sqrt{3} \\ \\vee \\ x=\\dfrac{\\sqrt{2}}{2}$\r\n",
+        "$x=-\\dfrac{\\sqrt{2}}{2} \\ \\vee \\ x=\\sqrt{3}$\r\n",
+        "$x=-\\sqrt{2} \\ \\vee \\ x=\\dfrac{\\sqrt{3}}{2}$"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "id": "1520",
+      "question": "The solution of the equation $$\\left(\\dfrac{x}{2}-\\sqrt{2}\\right)(2\\sqrt{2}-x)=0$$ is:",
+      "topic": "Fundamental Mathematics",
+      "subtopic": "Algebraic expressions, Equations, and Inequalities",
+      "level": "4",
+      "options": [
+        "$x=\\sqrt{2}$",
+        "$x=2\\sqrt{2}$",
+        "$x=\\sqrt{2} \\ \\vee \\ x=2\\sqrt{2}$",
+        "$x=-2\\sqrt{2} \\ \\vee \\ x=2\\sqrt{2}$"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "id": "1521",
+      "question": "The solution of the equation $$(3x-1)\\left(\\dfrac{1}{2}x-1\\right)=0$$ is:",
+      "topic": "Fundamental Mathematics",
+      "subtopic": "Algebraic expressions, Equations, and Inequalities",
+      "level": "3",
+      "options": [
+        "$x=-\\dfrac{1}{3} \\ \\vee \\ x=2$",
+        "$x=\\dfrac{1}{3} \\ \\vee \\ x=2$",
+        "$x=\\dfrac{1}{3} \\ \\vee \\ x=\\dfrac{1}{2}$",
+        "$x=-\\dfrac{1}{3} \\ \\vee \\ x=\\dfrac{1}{2}$"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "id": "1522",
+      "question": "The solution of the equation $$x(2x-3)\\left(x-\\dfrac{5}{2}\\right)=0$$ is:",
+      "topic": "Fundamental Mathematics",
+      "subtopic": "Algebraic expressions, Equations, and Inequalities",
+      "level": "4",
+      "options": [
+        "$x=0 \\ \\vee \\ x=\\dfrac{3}{2} \\ \\vee \\ x=\\dfrac{5}{2}$",
+        "$x=-\\dfrac{5}{2} \\ \\vee \\ x=0 \\ \\vee \\ x=\\dfrac{3}{2}$",
+        "$x=0 \\ \\vee \\ x=\\dfrac{2}{3} \\ \\vee \\ x=\\dfrac{5}{2}$",
+        "$x=-\\dfrac{3}{2} \\ \\vee \\ x=0 \\ \\vee \\ x=\\dfrac{5}{2}$"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "id": "1523",
+      "question": "The solution of the equation $$16x^2-\\dfrac{1}{25}=0$$ is:",
+      "topic": "Fundamental Mathematics",
+      "subtopic": "Algebraic expressions, Equations, and Inequalities",
+      "level": "2",
+      "options": [
+        "$x=-\\dfrac{4}{5} \\ \\vee \\ x=\\dfrac{4}{5}$",
+        "$x=-\\dfrac{1}{20} \\ \\vee \\ x=\\dfrac{1}{20}$",
+        "$x=-\\dfrac{1}{4} \\ \\vee \\ x=\\dfrac{1}{4}$",
+        "$x=-\\dfrac{1}{5} \\ \\vee \\ x=\\dfrac{1}{5}$"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "id": "1524",
+      "question": "The solution of the equation $$3x^2-\\dfrac{16}{3}=0$$ is:",
+      "topic": "Fundamental Mathematics",
+      "subtopic": "Algebraic expressions, Equations, and Inequalities",
+      "level": "2",
+      "options": [
+        "$x=-\\dfrac{4}{3} \\ \\vee \\ x=\\dfrac{4}{3}$",
+        "$x=-\\dfrac{10}{3} \\ \\vee \\ x=\\dfrac{10}{3}$",
+        "$x=-\\dfrac{2}{3} \\ \\vee \\ x=\\dfrac{2}{3}$",
+        "$x=-3 \\ \\vee \\ x=3$"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "id": "1525",
+      "question": "The solution of the equation $$1+6x+9x^2=0$$ is:",
+      "topic": "Fundamental Mathematics",
+      "subtopic": "Algebraic expressions, Equations, and Inequalities",
+      "level": "3",
+      "options": [
+        "$x=\\dfrac{1}{3}$",
+        "$x=-\\dfrac{1}{3}$",
+        "$x=-\\dfrac{1}{9}$",
+        "$x=\\dfrac{1}{9}$"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "id": "1526",
+      "question": "The solution of the equation $$4x^2+12x+9=0$$ is:",
+      "topic": "Fundamental Mathematics",
+      "subtopic": "Algebraic expressions, Equations, and Inequalities",
+      "level": "3",
+      "options": [
+        "$x=-\\dfrac{2}{3}$",
+        "$x=\\dfrac{3}{2}$",
+        "$x=-\\dfrac{3}{2}$",
+        "$x=\\dfrac{2}{3}$"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "id": "1527",
+      "question": "The solution of the equation $$\\dfrac{x^2}{4}-\\dfrac{x}{3}+\\dfrac{1}{9}=0$$ is:",
+      "topic": "Fundamental Mathematics",
+      "subtopic": "Algebraic expressions, Equations, and Inequalities",
+      "level": "4",
+      "options": [
+        "$x=\\dfrac{4}{3}$",
+        "$x=3$",
+        "$x=2$",
+        "$x=\\dfrac{2}{3}$"
+      ],
+      "correct_answer": 3
+    },
+    {
+      "id": "1528",
+      "question": "The solution of the equation $$\\left(\\dfrac{1}{2}x-3\\right)^2-9=0$$ is:",
+      "topic": "Fundamental Mathematics",
+      "subtopic": "Algebraic expressions, Equations, and Inequalities",
+      "level": "4",
+      "options": [
+        "$x=\\dfrac{3}{2} \\ \\vee \\ x=6$",
+        "$x=0 \\ \\vee \\ x=6$",
+        "$x=0 \\ \\vee \\ x=12$",
+        "$x=\\dfrac{3}{2} \\ \\vee \\ x=12$"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "id": "1529",
+      "question": "The solution of the equation $$\\dfrac{9}{16}-(2x-1)^2=0$$ is:",
+      "topic": "Fundamental Mathematics",
+      "subtopic": "Algebraic expressions, Equations, and Inequalities",
+      "level": "3",
+      "options": [
+        "$x=\\dfrac{3}{8} \\ \\vee \\ x=\\dfrac{5}{8}$",
+        "$x=\\dfrac{1}{8} \\ \\vee \\ x=\\dfrac{5}{8}$",
+        "$x=\\dfrac{3}{8} \\ \\vee \\ x=\\dfrac{7}{8}$",
+        "$x=\\dfrac{1}{8} \\ \\vee \\ x=\\dfrac{7}{8}$"
+      ],
+      "correct_answer": 3
+    },
+    {
+      "id": "1530",
+      "question": "The solution of the equation $$(2x+1)^2-(5x+1)^2=0$$ is:",
+      "topic": "Fundamental Mathematics",
+      "subtopic": "Algebraic expressions, Equations, and Inequalities",
+      "level": "4",
+      "options": [
+        "$x=-\\dfrac{2}{7} \\ \\vee \\ x=0$",
+        "$x=-\\dfrac{5}{7} \\ \\vee \\ x=0$",
+        "$x=0 \\ \\vee \\ x=\\dfrac{2}{7}$",
+        "$x=0 \\ \\vee \\ x=\\dfrac{5}{7}$"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "id": "1531",
+      "question": "The solution of the equation $$x^2-25-3(x-5)=0$$ is:",
+      "topic": "Fundamental Mathematics",
+      "subtopic": "Algebraic expressions, Equations, and Inequalities",
+      "level": "2",
+      "options": [
+        "$x=-5 \\ \\vee \\ x=3$",
+        "$x= -2 \\ \\vee \\ x=3$",
+        "$x=-2 \\ \\vee \\ x=5$",
+        "$x=-5 \\ \\vee \\ x=5$"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "id": "1532",
+      "question": "The solution of the equation $$2x(x+5)-(x+5)^2=0$$ is:",
+      "topic": "Fundamental Mathematics",
+      "subtopic": "Algebraic expressions, Equations, and Inequalities",
+      "level": "4",
+      "options": [
+        "$x=-1 \\ \\vee \\ x=2$",
+        "$x=-1 \\ \\vee \\ x=0$",
+        "$x=-5 \\ \\vee \\ x=5$",
+        "$x=-2 \\ \\vee \\ x=2$"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "id": "1533",
+      "question": "The solution of the equation $$|3-x|=2$$ is:",
+      "topic": "Fundamental Mathematics",
+      "subtopic": "Algebraic expressions, Equations, and Inequalities",
+      "level": "2",
+      "options": [
+        "$x=1 \\ \\vee \\ x=7$",
+        "$x=3 \\ \\vee \\ x=7$",
+        "$x=3 \\ \\vee \\ x=5$",
+        "$x=1 \\ \\vee \\ x=5$"
+      ],
+      "correct_answer": 3
+    },
+    {
+      "id": "1534",
+      "question": "The solution of the equation $$|2x+4|=1$$ is:",
+      "topic": "Fundamental Mathematics",
+      "subtopic": "Algebraic expressions, Equations, and Inequalities",
+      "level": "3",
+      "options": [
+        "$x=\\dfrac{5}{2} \\ \\vee \\ x=\\dfrac{3}{2}$",
+        "$x=-\\dfrac{5}{2} \\ \\vee \\ x=\\dfrac{3}{2}$",
+        "$x=\\dfrac{5}{2} \\ \\vee \\ x=-\\dfrac{3}{2}$",
+        "$x=-\\dfrac{5}{2} \\ \\vee \\ x=-\\dfrac{3}{2}$"
+      ],
+      "correct_answer": 3
+    },
+    {
+      "id": "1536",
+      "question": "The solution of the equation $$|x+3|+2=0$$ is:",
+      "topic": "Fundamental Mathematics",
+      "subtopic": "Algebraic expressions, Equations, and Inequalities",
+      "level": "3",
+      "options": [
+        "$x=-3 \\ \\vee \\ x=2$",
+        "$x\\in\\emptyset$",
+        "$x\\in\\mathbb{R}$",
+        "$x=-2 \\ \\vee \\ x=3$"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "id": "1537",
+      "question": "The solution of the equation $$3-2|3x-1|=1$$ is:",
+      "topic": "Fundamental Mathematics",
+      "subtopic": "Algebraic expressions, Equations, and Inequalities",
+      "level": "3",
+      "options": [
+        "$x=-\\dfrac{2}{3} \\ \\vee \\ x=0$",
+        "$x=0 \\ \\vee \\ x=\\dfrac{2}{3}$",
+        "$x=0 \\ \\vee \\ x=\\dfrac{3}{2}$",
+        "$x=-\\dfrac{3}{2} \\ \\vee \\ x=0$"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "id": "1538",
+      "question": "The solution of the equation $$|x^2-3|=1$$ is:",
+      "topic": "Fundamental Mathematics",
+      "subtopic": "Algebraic expressions, Equations, and Inequalities",
+      "level": "4",
+      "options": [
+        "$x=-2 \\ \\vee \\ x=-\\sqrt{2} \\ \\vee \\ x=\\sqrt{2} \\ \\vee \\ x=2$",
+        "$x=-3 \\ \\vee \\ x=-\\sqrt{3} \\ \\vee \\ x=\\sqrt{3} \\ \\vee \\ x=3$",
+        "$x=-2 \\ \\vee \\ x=-\\sqrt{3} \\ \\vee \\ x=\\sqrt{3} \\ \\vee \\ x=2$",
+        "$x=-3 \\ \\vee \\ x=-\\sqrt{2} \\ \\vee \\ x=\\sqrt{2} \\ \\vee \\ x=3$"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "id": "1539",
+      "question": "The solution of the condition $$x^2-9>0$$ is:",
+      "topic": "Fundamental Mathematics",
+      "subtopic": "Algebraic expressions, Equations, and Inequalities",
+      "level": "2",
+      "options": [
+        "$x \\in \\ (-\\infty,-3) \\ \\cup \\ (3,+\\infty)$",
+        "$x\\in \\ (-3,3)$",
+        "$x\\in \\ (-\\infty,-3]\\ \\cup \\ [3,+\\infty)$",
+        "$x\\in \\ [-3,3]$"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "id": "1540",
+      "question": "The solution of the condition $$-2x^2+x-1 \\ \\leq \\ 0$$ is:",
+      "topic": "Fundamental Mathematics",
+      "subtopic": "Algebraic expressions, Equations, and Inequalities",
+      "level": "4",
+      "options": [
+        "$x\\in \\ (-\\infty,-2]\\ \\cup \\ [-1,+\\infty)$",
+        "$x\\in \\ (-\\infty,-2]\\ \\cup \\ [1,+\\infty)$",
+        "$x\\in\\emptyset$",
+        "$x\\in\\mathbb{R}$"
+      ],
+      "correct_answer": 3
+    },
+    {
+      "id": "1541",
+      "question": "The solution of the condition $$-x(x-3) \\ \\geq \\ 0$$ is:",
+      "topic": "Fundamental Mathematics",
+      "subtopic": "Algebraic expressions, Equations, and Inequalities",
+      "level": "3",
+      "options": [
+        "$x\\in(0,3)$",
+        "$x\\in[0,3]$",
+        "$x\\in(-3,0)$",
+        "$x\\in[-3,0]$"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "id": "1542",
+      "question": "The solution of the condition $$2(1-3x^2) \\ \\leq \\ x$$ is:",
+      "topic": "Fundamental Mathematics",
+      "subtopic": "Algebraic expressions, Equations, and Inequalities",
+      "level": "4",
+      "options": [
+        "$x \\in \\bigg(-\\infty,-\\dfrac{2}{3}\\bigg)\\ \\cup \\ \\bigg(\\dfrac{1}{2},+\\infty\\bigg)$",
+        "$x \\in \\bigg(-\\infty,-\\dfrac{1}{2}\\bigg)\\ \\cup \\ \\bigg(\\dfrac{2}{3},+\\infty\\bigg)$",
+        "$x \\in \\bigg(-\\infty,-\\dfrac{2}{3}\\bigg]\\ \\cup \\ \\bigg[\\dfrac{1}{2},+\\infty\\bigg)$",
+        "$x \\in \\bigg(-\\infty,-\\dfrac{1}{2}\\bigg]\\ \\cup \\ \\bigg[\\dfrac{2}{3},+\\infty\\bigg)$"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "id": "1543",
+      "question": "The solution of the condition $$5+\\dfrac{(x-2)(x+2)}{4}>3-x$$ is:",
+      "topic": "Fundamental Mathematics",
+      "subtopic": "Algebraic expressions, Equations, and Inequalities",
+      "level": "4",
+      "options": [
+        "$x\\in\\mathbb{R}\\backslash\\{6\\}$",
+        "$x\\in\\mathbb{R}\\backslash\\{-2\\}$",
+        "$x\\in\\mathbb{R}\\backslash\\{4\\}$",
+        "$x\\in\\mathbb{R}\\backslash\\{2\\}$"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "id": "1544",
+      "question": "The solution of the condition $$x^2+2x>\\dfrac{x+2}{3}$$ is:",
+      "topic": "Fundamental Mathematics",
+      "subtopic": "Algebraic expressions, Equations, and Inequalities",
+      "level": "3",
+      "options": [
+        "$x\\in (-\\infty,-1) \\ \\cup \\ \\bigg(\\dfrac{2}{3},+\\infty\\bigg)$",
+        "$x\\in (-\\infty,-1) \\ \\cup \\ \\bigg(\\dfrac{1}{3},+\\infty\\bigg)$",
+        "$x\\in \\ (-\\infty,-2) \\ \\cup \\ \\bigg(\\dfrac{1}{3},+\\infty\\bigg)$ ",
+        "$x\\in (-\\infty,-2)\\ \\cup \\ \\bigg(\\dfrac{2}{3},+\\infty\\bigg)$"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "id": "1545",
+      "question": "The solution of the condition $$\\dfrac{(2x+1)^2}{3}\\geq x+2$$ is:",
+      "topic": "Fundamental Mathematics",
+      "subtopic": "Algebraic expressions, Equations, and Inequalities",
+      "level": "4",
+      "options": [
+        "$x\\in\\bigg(-\\infty,-\\dfrac{5}{4}\\bigg]\\ \\cup \\ [1,+\\infty)$",
+        "$x\\in\\bigg(-\\infty,-\\dfrac{3}{4}\\bigg]\\ \\cup \\ [1,+\\infty)$",
+        "$x\\in\\bigg(-\\infty,-\\dfrac{3}{4}\\bigg]\\ \\cup \\ [3,+\\infty)$",
+        "$x\\in\\bigg(-\\infty,-\\dfrac{5}{4}\\bigg]\\ \\cup \\ [3,+\\infty)$"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "id": "1546",
+      "question": "The solution of the condition $$x(x-1)<\\dfrac{(x-1)(x+1)}{2}$$ is:",
+      "topic": "Fundamental Mathematics",
+      "subtopic": "Algebraic expressions, Equations, and Inequalities",
+      "level": "5",
+      "options": [
+        "$x\\in\\emptyset$",
+        "$x\\in\\mathbb{R}$",
+        "$x\\in (-1,1)$",
+        "$x\\in (-\\infty,-1) \\ \\cup \\ (1,+\\infty)$"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "id": "1547",
+      "question": "The solution of the condition $$2x^2-8x \\ \\leq \\ 0$$ is:",
+      "topic": "Fundamental Mathematics",
+      "subtopic": "Algebraic expressions, Equations, and Inequalities",
+      "level": "2",
+      "options": [
+        "$x\\in[0,8]$",
+        "$x\\in[0,6]$",
+        "$x\\in[0,2]$",
+        "$x\\in[0,4]$"
+      ],
+      "correct_answer": 3
+    },
+    {
+      "id": "1548",
+      "question": "The solution of the condition $$x^2+2x+5>0$$ is:",
+      "topic": "Fundamental Mathematics",
+      "subtopic": "Algebraic expressions, Equations, and Inequalities",
+      "level": "3",
+      "options": [
+        "$x\\in(2,5)$",
+        "$x\\in(0,3)$",
+        "$x\\in\\mathbb{R}$",
+        "$x\\in (-2,1)$"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "id": "1549",
+      "question": "The solution of the condition $$x^2+4x-12>0$$ is:",
+      "topic": "Fundamental Mathematics",
+      "subtopic": "Algebraic expressions, Equations, and Inequalities",
+      "level": "4",
+      "options": [
+        "$x\\in(-\\infty,-3)\\ \\cup \\ (2,+\\infty)$",
+        "$x\\in(-\\infty,-3)\\ \\cup \\ (1,+\\infty)$",
+        "$x\\in(-\\infty,-6)\\ \\cup \\ (1,+\\infty)$",
+        "$x\\in(-\\infty,-6)\\ \\cup \\ (2,+\\infty)$"
+      ],
+      "correct_answer": 3
+    },
+    {
+      "id": "1550",
+      "question": "The solution of the condition $$x^2+4x-12>x^2+4x-4$$ is:",
+      "topic": "Fundamental Mathematics",
+      "subtopic": "Algebraic expressions, Equations, and Inequalities",
+      "level": "3",
+      "options": [
+        "$x\\in\\emptyset$",
+        "$x\\in(-4,12)$",
+        "$x\\in\\mathbb{R}$",
+        "$x\\in(-12,4)$"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "id": "1551",
+      "question": "The solution of the condition $$2x^2-8x\\leq x^2+4x-20$$ is:",
+      "topic": "Fundamental Mathematics",
+      "subtopic": "Algebraic expressions, Equations, and Inequalities",
+      "level": "3",
+      "options": [
+        "$x\\in[2,10]$",
+        "$x\\in\\emptyset$",
+        "$x\\in[4,8]$",
+        "$x\\in\\mathbb{R}$"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "id": "1552",
+      "question": "The solution of the condition $$|x-3| \\ \\leq \\ 2$$ is:",
+      "topic": "Fundamental Mathematics",
+      "subtopic": "Algebraic expressions, Equations, and Inequalities",
+      "level": "3",
+      "options": [
+        "$x\\in[2,6]$",
+        "$x\\in[2,5]$",
+        "$x\\in[1,6]$",
+        "$x\\in[1,5]$"
+      ],
+      "correct_answer": 3
+    },
+    {
+      "id": "1553",
+      "question": "The solution of the condition $$|x-2|>1$$ is:",
+      "topic": "Fundamental Mathematics",
+      "subtopic": "Algebraic expressions, Equations, and Inequalities",
+      "level": "3",
+      "options": [
+        "$x\\in(-\\infty,1)\\ \\cup \\ (2,+\\infty)$",
+        "$x\\in(-\\infty,1)\\ \\cup \\ (3,+\\infty)$",
+        "$x\\in(-\\infty,-1)\\ \\cup \\ (3,+\\infty)$",
+        "$x\\in(-\\infty,-1)\\ \\cup \\ (2,+\\infty)$"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "id": "1554",
+      "question": "The solution of the condition $$|1-5x|+3 \\ \\geq \\ 1$$ is:",
+      "topic": "Fundamental Mathematics",
+      "subtopic": "Algebraic expressions, Equations, and Inequalities",
+      "level": "4",
+      "options": [
+        "$x\\in(-\\infty,-5]\\ \\cup \\ [-3,+\\infty)$",
+        "$x\\in\\mathbb{R}$",
+        "$x\\in\\emptyset$",
+        "$x\\in(-\\infty,3]\\ \\cup \\ [5,+\\infty)$"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "id": "1555",
+      "question": "The solution of the condition $$1-|1-x| \\ \\geq \\ -2$$ is:",
+      "topic": "Fundamental Mathematics",
+      "subtopic": "Algebraic expressions, Equations, and Inequalities",
+      "level": "4",
+      "options": [
+        "$x\\in[2,6]$",
+        "$x\\in[2,4]$",
+        "$x\\in[-2,6]$",
+        "$x\\in[-2,4]$"
+      ],
+      "correct_answer": 3
+    },
+    {
+      "id": "1556",
+      "question": "The solution of the condition $$|2x+3|>5$$ is:",
+      "topic": "Fundamental Mathematics",
+      "subtopic": "Algebraic expressions, Equations, and Inequalities",
+      "level": "4",
+      "options": [
+        "$x\\in\\mathbb{R}$",
+        "$x\\in\\emptyset$",
+        "$x\\in(-\\infty,-3)\\ \\cup \\ (0,+\\infty)$",
+        "$x\\in(-\\infty,-4)\\ \\cup \\ (1,+\\infty)$"
+      ],
+      "correct_answer": 3
+    },
+    {
+      "id": "1557",
+      "question": "The solution of the condition $$3-|x+3|>5$$ is:",
+      "topic": "Fundamental Mathematics",
+      "subtopic": "Algebraic expressions, Equations, and Inequalities",
+      "level": "4",
+      "options": [
+        "$x\\in\\mathbb{R}$",
+        "$x\\in(-1,3)$",
+        "$x\\in\\emptyset$",
+        "$x\\in(-3,5)$"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "id": "1558",
+      "question": "The solution of the condition $$x^3-9x > 0$$ is:",
+      "topic": "Fundamental Mathematics",
+      "subtopic": "Algebraic expressions, Equations, and Inequalities",
+      "level": "4",
+      "options": [
+        "$(-\\infty,-3) \\ \\cup \\ (0,3)$",
+        "$(-3,0) \\ \\cup \\ (3,+\\infty)$",
+        "$(-\\infty,3)$",
+        "$(3,+\\infty)$"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "id": "1559",
+      "question": "The solution of the condition $$x^3+6x^2-6 > 2x^3-x$$ is:",
+      "topic": "Fundamental Mathematics",
+      "subtopic": "Algebraic expressions, Equations, and Inequalities",
+      "level": "4",
+      "options": [
+        "$x \\in (-\\infty,-3)$",
+        "$x \\in (-\\infty,-3) \\ \\cup \\ (-2,1)$",
+        "$x \\in (-3,-2) \\ \\cup \\ (1,+\\infty)$",
+        "$x \\in (1,+\\infty)$"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "id": "1560",
+      "question": "The solution of the condition $$(x+4)(x-2)(x-7)>0$$ is:",
+      "topic": "Fundamental Mathematics",
+      "subtopic": "Algebraic expressions, Equations, and Inequalities",
+      "level": "2",
+      "options": [
+        "$x \\in (-\\infty,2)$",
+        "$x \\in (-4,-2) \\ \\cup \\ (7,+\\infty)$",
+        "$x \\in (-4,7)$",
+        "$x \\in (-\\infty,-4) \\ \\cup \\ (2,7)$"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "id": "1561",
+      "question": "The solution of the condition $$\\left(x-\\frac{7}{2}\\right)^2(3x+3)(2x-1)>0$$ is:",
+      "topic": "Fundamental Mathematics",
+      "subtopic": "Algebraic expressions, Equations, and Inequalities",
+      "level": "5",
+      "options": [
+        "$x \\in \\left(-1,\\frac{1}{2}\\right)$",
+        "$x \\in \\left(-1,\\frac{7}{2}\\right)$",
+        "$x \\in (-\\infty,-1) \\ \\cup \\ \\left( \\frac{1}{2},\\frac{7}{2}\\right) \\ \\cup \\ \\left(\\frac{7}{2},+\\infty \\right) $",
+        "$x \\in (-1,+\\infty)$"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "id": "1562",
+      "question": "The solution of the condition $$7x^4 > 2x^3+9x^2$$ is:",
+      "topic": "Fundamental Mathematics",
+      "subtopic": "Algebraic expressions, Equations, and Inequalities",
+      "level": "5",
+      "options": [
+        "$x \\in (-\\infty,-1) \\ \\cup \\ \\left(0,\\frac{9}{7} \\right)$",
+        "$x \\in \\left(-1,\\frac{9}{7}\\right)$",
+        "$x \\in (-1,0) \\ \\cup \\ \\left(\\frac{9}{7},+\\infty \\right)$",
+        "$x \\in (-\\infty,-1) \\ \\cup \\ \\left(\\frac{9}{7},+\\infty \\right)$"
+      ],
+      "correct_answer": 3
+    },
+    {
+      "id": "1563",
+      "question": "The solution of the condition $$x^6+x^2 > -2x^4+4$$ is:",
+      "topic": "Fundamental Mathematics",
+      "subtopic": "Algebraic expressions, Equations, and Inequalities",
+      "level": "5",
+      "options": [
+        "$x \\in (1,+\\infty)$",
+        "$x \\in (-1,1)$",
+        "$x \\in (-\\infty,1)$",
+        "$x \\in (-\\infty,-1) \\ \\cup \\ (1,+\\infty)$"
+      ],
+      "correct_answer": 3
+    },
+    {
+      "id": "1564",
+      "question": "The solution of the condition $$2x^6-2 > -3x^3$$ is:",
+      "topic": "Fundamental Mathematics",
+      "subtopic": "Algebraic expressions, Equations, and Inequalities",
+      "level": "3",
+      "options": [
+        "$x \\in \\left(-\\infty,-\\sqrt[3]{2}\\right) \\ \\cup \\ \\left( \\frac{1}{\\sqrt[3]{2}},+\\infty\\right)$",
+        "$x \\in \\left(-\\sqrt[3]{2},\\frac{1}{\\sqrt[3]{2}} \\right)$",
+        "$x \\in (-\\infty,-2) \\ \\cup \\ \\left(\\frac{1}{2},+\\infty\\right)$",
+        "$x \\in \\left(-2,\\frac{1}{2}\\right)$"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "id": "1565",
+      "question": "The solution of the condition $$\\frac{x}{x+1} > 2$$ is:",
+      "topic": "Fundamental Mathematics",
+      "subtopic": "Algebraic expressions, Equations, and Inequalities",
+      "level": "3",
+      "options": [
+        "$x \\in (-2,+\\infty)$",
+        "$x \\in (-2,-1)$",
+        "$x \\in (-\\infty,-2) \\ \\cup \\ (-1,+\\infty)$",
+        "$x \\in (-\\infty,2)$"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "id": "1566",
+      "question": "The solution of the condition $$\\frac{2}{x^2+x} \\geq 1$$ is:",
+      "topic": "Fundamental Mathematics",
+      "subtopic": "Algebraic expressions, Equations, and Inequalities",
+      "level": "3",
+      "options": [
+        "$x \\in [-2,1]$",
+        "$x \\in [-2,-1) \\ \\cup \\ (0,1]$",
+        "$x \\in (-2,1)$",
+        "$x \\in (0,2]$"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "id": "1567",
+      "question": "The solution of the condition $$\\frac{x-3}{x^2-4} > \\frac{x}{x-2}$$ is:",
+      "topic": "Fundamental Mathematics",
+      "subtopic": "Algebraic expressions, Equations, and Inequalities",
+      "level": "5",
+      "options": [
+        "$x \\in (-\\infty,-2) \\ \\cup \\ (2,+\\infty)$",
+        "$x \\in (-\\infty,2)$",
+        "$x \\in (-2,2)$",
+        "$\\emptyset$"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "id": "1568",
+      "question": "The solution of the equation $$\\frac{x}{|x|}=0$$ is:",
+      "topic": "Fundamental Mathematics",
+      "subtopic": "Algebraic expressions, Equations, and Inequalities",
+      "level": "3",
+      "options": [
+        "$x \\in \\mathbb{R}$",
+        "$x=0$",
+        "$x \\in \\mathbb{R} \\setminus \\{0\\}$",
+        "$x \\in \\emptyset$"
+      ],
+      "correct_answer": 3
+    },
+    {
+      "id": "1570",
+      "question": "The solution of the equation $$\\frac{x^2-9}{|x+3|}=0$$ is:",
+      "topic": "Fundamental Mathematics",
+      "subtopic": "Algebraic expressions, Equations, and Inequalities",
+      "level": "4",
+      "options": [
+        "$x \\in \\emptyset$",
+        "$x \\in \\{3\\}$",
+        "$x \\in \\{-3\\}$",
+        "$x \\in \\{-3,3\\}$"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "id": "1571",
+      "question": "The solution of the equation $$\\frac{2x^2-8}{|x+3|}=1$$ is:",
+      "topic": "Fundamental Mathematics",
+      "subtopic": "Algebraic expressions, Equations, and Inequalities",
+      "level": "4",
+      "options": [
+        "$x \\in \\bigg\\{ -2,\\frac{3}{2},\\frac{5}{2} \\bigg\\}$",
+        "$x \\in \\{-2\\}$",
+        "$x \\in \\bigg\\{ \\frac{5}{2} \\bigg\\}$",
+        "$x \\in \\emptyset$"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "id": "1572",
+      "question": "The solution of the condition $$\\frac{x^3+9x^2-36x}{|x^3-1|} \\leq 0$$ is:",
+      "topic": "Fundamental Mathematics",
+      "subtopic": "Algebraic expressions, Equations, and Inequalities",
+      "level": "5",
+      "options": [
+        "$x \\in \\{-12,0,3\\}$",
+        "$x \\in (-\\infty,-12] \\ \\cup \\ [0,3]$",
+        "$x \\in (-\\infty,-12] \\ \\cup \\ [0,1) \\ \\cup \\ (1,3]$",
+        "$x \\in [-12,0] \\ \\cup \\ [3, +\\infty)$"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "id": "1573",
+      "question": "The solution of the condition $$\\frac{|x+1|}{|x+2|} > 0$$ is:",
+      "topic": "Fundamental Mathematics",
+      "subtopic": "Algebraic expressions, Equations, and Inequalities",
+      "level": "5",
+      "options": [
+        "$x \\in \\mathbb{R}$",
+        "$x \\in (-\\infty,-2) \\ \\cup \\ (-2,-1) \\ \\cup \\ (-1,+\\infty)$",
+        "$x \\in (-\\infty,-2) \\ \\cup \\ (-2,+\\infty)$",
+        "$x \\in (-\\infty,-1) \\ \\cup \\ (-1,+\\infty)$"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "id": "1574",
+      "question": "The solution of the equation $$\\frac{x^3+6x^2-3x-4}{|x^2-1|}=0$$ is:",
+      "topic": "Fundamental Mathematics",
+      "subtopic": "Algebraic expressions, Equations, and Inequalities",
+      "level": "5",
+      "options": [
+        "$x \\in \\{1,\\frac{-7-\\sqrt{33}}{8},\\frac{-7+\\sqrt{33}}{8} \\}$",
+        "$x \\in \\{\\frac{-7-\\sqrt{33}}{8},\\frac{-7+\\sqrt{33}}{8} \\}$",
+        "$x \\in \\{\\frac{-7-\\sqrt{33}}{2},\\frac{-7+\\sqrt{33}}{2} \\}$",
+        "$x \\in \\{1,\\frac{-7-\\sqrt{33}}{2},\\frac{-7+\\sqrt{33}}{2} \\}$"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "id": "1575",
+      "question": "The solution of the equation $$\\frac{\\log(x)}{x-1}=0$$ is:",
+      "topic": "Fundamental Mathematics",
+      "subtopic": "Algebraic expressions, Equations, and Inequalities",
+      "level": "5",
+      "options": [
+        "$x \\in \\{0\\}$",
+        "$x \\in \\{e\\}$",
+        "$x \\in \\emptyset$",
+        "$x \\in \\{1\\}$"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "id": "1645",
+      "question": "Which are the polygons? Mark the correct answer.",
+      "topic": "Fundamental Mathematics",
+      "subtopic": "Elementary Geometry",
+      "level": "1",
+      "options": [
+        "D, E and G.",
+        "B, C and F.",
+        "B, D, E, F and G.",
+        "A, D, E, G and H."
+      ],
+      "correct_answer": 2
+    },
+    {
+      "id": "1658",
+      "question": "Find the root of $f(x)=4x-12$.",
+      "topic": "Fundamental Mathematics",
+      "subtopic": "Algebraic expressions, Equations, and Inequalities",
+      "level": "1",
+      "options": [
+        "$x=-3$",
+        "$x=16$",
+        "$x=3$",
+        "$x=4$"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "id": "1703",
+      "question": "Simplify $\\displaystyle \\frac{3}{2}-\\frac{5}{5}$",
+      "topic": "Fundamental Mathematics",
+      "subtopic": "Algebraic expressions, Equations, and Inequalities",
+      "level": "1",
+      "options": [
+        "$\\displaystyle - \\frac{5}{10}$",
+        "$\\displaystyle \\frac{2}{3}$",
+        "$\\displaystyle \\frac{5}{10}$",
+        "$\\displaystyle -\\frac{2}{3}$"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "id": "1782",
+      "question": "T is an isosceles right triangle. Select the option that corresponds to the length of the sides of T.",
+      "topic": "Fundamental Mathematics",
+      "subtopic": "Elementary Geometry",
+      "level": "2",
+      "options": [
+        "$2cm$, $2cm$, $8cm$.",
+        "$2cm$, $2cm$, $4cm$.",
+        "$2cm$, $2cm$, $2\\sqrt{2}cm$.",
+        "$2cm$, $2cm$, $\\sqrt{2}cm$."
+      ],
+      "correct_answer": 2
+    },
+    {
+      "id": "1785",
+      "question": "The sum of the number of faces with the number of vertices of a solid is 20. Choose the right answer.",
+      "topic": "Fundamental Mathematics",
+      "subtopic": "Elementary Geometry",
+      "level": "3",
+      "options": [
+        "The solid is a decagonal pyramid.",
+        "The solid is a decagonal prism.",
+        "The solid is a enneagonal prism.",
+        "The solid is a enneagonal pyramid. "
+      ],
+      "correct_answer": 3
+    },
+    {
+      "id": "1794",
+      "question": "Select the correct statement.",
+      "topic": "Fundamental Mathematics",
+      "subtopic": "Elementary Geometry",
+      "level": "3",
+      "options": [
+        "If a polygon is regular, then their diagonals are congruent. \r\n \r\n",
+        "If a polygon is not regular, then it doesn’t have reflection symmetries.",
+        " If a polygon has two pairs of parallel sides, then it is a parallelogram.",
+        " If a polygon has four right angles, then it is a rectangle."
+      ],
+      "correct_answer": 0
+    },
+    {
+      "id": "1797",
+      "question": "How many diagonals can we trace on a decagon?",
+      "topic": "Fundamental Mathematics",
+      "subtopic": "Elementary Geometry",
+      "level": "2",
+      "options": [
+        "23",
+        "12",
+        "35\r\n",
+        "20"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "id": "1799",
+      "question": " Indicate which of the following geometrical transformations is not an isometry.\r\n",
+      "topic": "Fundamental Mathematics",
+      "subtopic": "Elementary Geometry",
+      "level": "5",
+      "options": [
+        " Rotation of centre $\\left(0,0\\right)$ and amplitude $180^\\circ$.",
+        "Homotetia of centre $\\left(-2, 2\\right)$ and ratio $-1$. ",
+        "Homotetia of centre $\\left(0, 0\\right)$ and ratio 4.\r\n",
+        "Rotation of centre $\\left(-2,2\\right)$ and amplitude $45^\\circ$."
+      ],
+      "correct_answer": 2
+    },
+    {
+      "id": "1809",
+      "question": "Select the wrong statement.",
+      "topic": "Fundamental Mathematics",
+      "subtopic": "Elementary Geometry",
+      "level": "4",
+      "options": [
+        "All cubes are prisms.",
+        "The lateral faces of a quadrangular prism are always perpendicular to the bases. \r\n\r\n\r\n",
+        "The lateral faces of all prisms are parallelograms.",
+        " All the opposite faces of any parallelepiped are parallel."
+      ],
+      "correct_answer": 1
+    },
+    {
+      "id": "1814",
+      "question": "Select the wrong statement.",
+      "topic": "Fundamental Mathematics",
+      "subtopic": "Elementary Geometry",
+      "level": "4",
+      "options": [
+        " The lateral faces of any pyramid are triangles.",
+        "The base of a pyramid can be any polygon.",
+        "The base of a pyramid must be convex polygon.\r\n\r\n",
+        "The apex of a pyramid is the intersection point of all the lateral edges."
+      ],
+      "correct_answer": 2
+    },
+    {
+      "id": "1820",
+      "question": "Select the true statement.",
+      "topic": "Fundamental Mathematics",
+      "subtopic": "Elementary Geometry",
+      "level": "2",
+      "options": [
+        " Prisms and pyramids are regular polyhedrons.",
+        " All pyramids with three lateral faces are platonic solids.",
+        "Prisms and pyramids can be non-convex polyhedrons.",
+        "The bases of prisms and pyramids are always regular polygons.\r\n"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "id": "1831",
+      "question": "Choose the wrong statement.",
+      "topic": "Fundamental Mathematics",
+      "subtopic": "Elementary Geometry",
+      "level": "4",
+      "options": [
+        " Translation, rotations, reflections and sliding reflections are isometries.",
+        "In a translation, the orientation of the angles is inverted.\r\n \r\n",
+        "There are homotheties that preserve the orientation of directed line segments.",
+        "In sliding reflections the orientation of the angles is inverted."
+      ],
+      "correct_answer": 1
+    },
+    {
+      "id": "1854",
+      "question": "Consider $b\\neq 0$. Make $c$ the subject of the expression\r\n\r\n$ a=bc+q$",
+      "topic": "Fundamental Mathematics",
+      "subtopic": "Algebraic expressions, Equations, and Inequalities",
+      "level": "1",
+      "options": [
+        "$c=\\dfrac{a+q}{b}$",
+        "$c=\\dfrac{a-q}{b}$",
+        "$c=\\dfrac{q-a}{b}$",
+        "$c=\\dfrac{b+q}{a}$"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "id": "1856",
+      "question": "Simplify:\r\n\r\n$(x-y)(x^3-xy-y^2)$",
+      "topic": "Fundamental Mathematics",
+      "subtopic": "Algebraic expressions, Equations, and Inequalities",
+      "level": "1",
+      "options": [
+        "$x^4-x^5y+y^3$",
+        "$x^4-x^2y-x^3y-y^3$",
+        "$x^4-x^2y-x^3y+y^3$",
+        "$x^4+y^3$"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "id": "1858",
+      "question": "Simplify:\r\n\r\n$(x-2y)+(4x+y)$",
+      "topic": "Fundamental Mathematics",
+      "subtopic": "Algebraic expressions, Equations, and Inequalities",
+      "level": "1",
+      "options": [
+        "$5x+y$",
+        "$-7xy$",
+        "$5x-y$",
+        "$4x^2-2y^2$"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "id": "1860",
+      "question": "Simplify:\r\n\r\n$\\dfrac{(7x+2x)(3x-x)}{(4x+5x)}$",
+      "topic": "Fundamental Mathematics",
+      "subtopic": "Algebraic expressions, Equations, and Inequalities",
+      "level": "1",
+      "options": [
+        "-2$x$",
+        "2$x$",
+        "-2",
+        "2"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "id": "1862",
+      "question": "Solve for $\\dfrac{2}{5} x^2 +1 =8$",
+      "topic": "Fundamental Mathematics",
+      "subtopic": "Algebraic expressions, Equations, and Inequalities",
+      "level": "2",
+      "options": [
+        "$x \\approx \\pm 4.36$",
+        "$x \\approx -4.36$",
+        "$x \\approx 4.18$",
+        "$x \\approx \\pm 4.18$"
+      ],
+      "correct_answer": 3
+    },
+    {
+      "id": "1864",
+      "question": "Consider $t \\neq 0$. Make $a$ the subject of the expression $s=ut +\\frac{1}{2}at^2$\r\n",
+      "topic": "Fundamental Mathematics",
+      "subtopic": "Algebraic expressions, Equations, and Inequalities",
+      "level": "2",
+      "options": [
+        "$a=ut+ \\dfrac{t^2}{2}-s$",
+        "$a=\\dfrac{s-ut}{2t^2}$",
+        "$a=\\dfrac{2(s-ut)}{t^2}$",
+        "$a=\\dfrac{(ut-s)t^2}{2}$"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "id": "1866",
+      "question": "Solve $4^x =9$",
+      "topic": "Fundamental Mathematics",
+      "subtopic": "Algebraic expressions, Equations, and Inequalities",
+      "level": "3",
+      "options": [
+        "$x=\\dfrac{\\ln(9)}{\\ln(4)}$",
+        "$x=\\ln(9)$",
+        "$x=\\ln(4)$",
+        "$x=\\dfrac{\\ln(4)}{\\ln(9)}$"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "id": "1867",
+      "question": "Solve for $t$ : \n\n$\\sqrt{\\dfrac{t}{6}} -2=8$",
+      "topic": "Fundamental Mathematics",
+      "subtopic": "Algebraic expressions, Equations, and Inequalities",
+      "level": "2",
+      "options": [
+        "$t=96$",
+        "$t=6$",
+        "$t=600$",
+        "$t=360$"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "id": "1869",
+      "question": "Solve for $x$ :\n\n$\\dfrac{3x}{2} =4x^2$",
+      "topic": "Fundamental Mathematics",
+      "subtopic": "Algebraic expressions, Equations, and Inequalities",
+      "level": "2",
+      "options": [
+        "$x = 0, x=\\frac{3}{6}$",
+        "$x= 0, x=\\frac{4}{6} $",
+        "$x = 0, x=\\frac{3}{8}$",
+        "$x = 0, x=\\frac{5}{8}$"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "id": "1870",
+      "question": "Make $p$ the subject of the expression: \n\n$\\dfrac{t}{h}=\\displaystyle \\sqrt\\frac{p-q}{p+q}$",
+      "topic": "Fundamental Mathematics",
+      "subtopic": "Algebraic expressions, Equations, and Inequalities",
+      "level": "2",
+      "options": [
+        "$p=\\dfrac{(h^2 +t)}{q(h^2-t^2)}$",
+        "$p=\\dfrac{-q(h^2 +t^2)}{(t^2-h^2)}$",
+        "$p=\\dfrac{q(h^2 -t)}{(h^2-t^2)}$",
+        "$p=\\dfrac{(h^2 -t)}{q(h^2+t^2)}$"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "id": "1871",
+      "question": "Consider $t \\neq 0$. Make $g$ the subject of the expression $t=2\\pi\\sqrt\\frac{l}{g}$",
+      "topic": "Fundamental Mathematics",
+      "subtopic": "Algebraic expressions, Equations, and Inequalities",
+      "level": "2",
+      "options": [
+        "$g=\\dfrac{t^2}{2\\pi l}$",
+        "$g=\\dfrac{2\\pi l}{t^2}$",
+        "$g=\\dfrac{t^2}{4\\pi^2l}$",
+        "$g=\\dfrac{4\\pi^2l}{t^2}$"
+      ],
+      "correct_answer": 3
+    },
+    {
+      "id": "1873",
+      "question": "Simplify\r\n\r\n$\\frac{(\\sqrt x^4)(\\sqrt x^2)}{x^{-2}}$",
+      "topic": "Fundamental Mathematics",
+      "subtopic": "Algebraic expressions, Equations, and Inequalities",
+      "level": "3",
+      "options": [
+        "$x^{-1}$",
+        "$x^4$",
+        "$x$",
+        "$x^5$"
+      ],
+      "correct_answer": 3
+    },
+    {
+      "id": "1874",
+      "question": "Simplify \r\n \r\n$\\frac{(y^3)(y^{\\frac{1}{5}})}{y^\\frac{1}{2}}$",
+      "topic": "Fundamental Mathematics",
+      "subtopic": "Algebraic expressions, Equations, and Inequalities",
+      "level": "3",
+      "options": [
+        "$y^\\frac{64}{10}$",
+        "$y^2$",
+        "$y^\\frac{33}{10}$",
+        "$y^\\frac{27}{10}$"
+      ],
+      "correct_answer": 3
+    },
+    {
+      "id": "1876",
+      "question": "Evaluate:\n\n$\\dfrac{\\log_{10}625 +\\dfrac{1}{2}log_{10}25 +\\dfrac{1}{3}log_{10}125}{3log_{10}5}$",
+      "topic": "Fundamental Mathematics",
+      "subtopic": "Algebraic expressions, Equations, and Inequalities",
+      "level": "4",
+      "options": [
+        "$1$",
+        "$\\dfrac{4}{3}$",
+        "$\\dfrac{3}{4}$",
+        "$2$"
+      ],
+      "correct_answer": 3
+    },
+    {
+      "id": "1878",
+      "question": "Solve $\\log_{4} x=2$",
+      "topic": "Fundamental Mathematics",
+      "subtopic": "Algebraic expressions, Equations, and Inequalities",
+      "level": "3",
+      "options": [
+        "$x=8$",
+        "$x=16$",
+        "$\\pm8$",
+        "$\\pm16$"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "id": "1881",
+      "question": "Simplify:\n\n$\\dfrac {a^3 b}{ab^3-ab}$",
+      "topic": "Fundamental Mathematics",
+      "subtopic": "Algebraic expressions, Equations, and Inequalities",
+      "level": "3",
+      "options": [
+        "$a^3b$",
+        "$\\dfrac {a^2 }{b}$",
+        "$\\dfrac {a^2 }{b^2-1}$",
+        "$\\dfrac {a^3 b}{b^2}$"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "id": "1883",
+      "question": "Simplify:\n\n$(p^5)^{\\frac{1}{3}}(q^3)^2$",
+      "topic": "Fundamental Mathematics",
+      "subtopic": "Algebraic expressions, Equations, and Inequalities",
+      "level": "3",
+      "options": [
+        "$p^\\frac{5}{3}q^5$",
+        "$p^\\frac{10}{3}q^2$",
+        "$p^\\frac{14}{3}q$",
+        "$p^\\frac{5}{3}q^6$"
+      ],
+      "correct_answer": 3
+    },
+    {
+      "id": "1885",
+      "question": "Simplify:\n\n$\\frac{a^3  bc^{\\frac{1}{4}}}{(a^\\frac{1}{2} b^2 c^\\frac{2}{3})^3}$\n\nexpressing the answer with positive indices only",
+      "topic": "Fundamental Mathematics",
+      "subtopic": "Algebraic expressions, Equations, and Inequalities",
+      "level": "4",
+      "options": [
+        "$\\frac{a^\\frac{3}{2} c^\\frac{7}{4}}{b^5}$",
+        "$\\frac{a^\\frac{3}{2} b^5}{c^\\frac{7}{4}}$",
+        "$\\frac{a^\\frac{9}{2} b^\\frac{1}{3}}{c^\\frac{7}{4}}$",
+        "$\\frac{a^\\frac{3}{2}}{b^5 c^\\frac{7}{4}}$"
+      ],
+      "correct_answer": 3
+    },
+    {
+      "id": "2052",
+      "question": "Simplify , expressing the answer with the positive indices only:\r\n\r\n$\\dfrac{(6x^2  \\times  4x^{-2})}{2x^{-1}}$ ",
+      "topic": "Fundamental Mathematics",
+      "subtopic": "Algebraic expressions, Equations, and Inequalities",
+      "level": "2",
+      "options": [
+        "12$x$",
+        "$3x^{-1}$",
+        "3$x$",
+        "$12x^{-1}$"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "id": "2054",
+      "question": "Simplify\r\n\r\n$(x^\\frac{1}{2} y^3  z^{-3})(x^\\frac{1}{4} y^\\frac{1}{2} z^2)$",
+      "topic": "Fundamental Mathematics",
+      "subtopic": "Algebraic expressions, Equations, and Inequalities",
+      "level": "2",
+      "options": [
+        "$x^\\frac{1}{6} y^\\frac{3}{2}  z^{-1}$",
+        "$x^\\frac{1}{8} y^\\frac{7}{2}  z^{-1}$",
+        "$x^\\frac{1}{8} y^\\frac{7}{2}  z^{5}$",
+        "$x^\\frac{3}{4} y^\\frac{7}{2}  z^{-1}$"
+      ],
+      "correct_answer": 3
+    },
+    {
+      "id": "2062",
+      "question": "Solve for $x$:\r\n$\\log_{10}(x^2+6) -\\log_{10}(x^2-1)=1$",
+      "topic": "Fundamental Mathematics",
+      "subtopic": "Algebraic expressions, Equations, and Inequalities",
+      "level": "5",
+      "options": [
+        "$\\sqrt6$",
+        "$\\pm\\frac{3}{4}$",
+        "$\\pm\\frac{4}{3}$",
+        "$\\sqrt3$"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "id": "2064",
+      "question": "Solve the following equation for $x$:\r\n$4\\log_{x}(2)-\\log_{2}(x)-3=0$",
+      "topic": "Fundamental Mathematics",
+      "subtopic": "Algebraic expressions, Equations, and Inequalities",
+      "level": "5",
+      "options": [
+        "$x\\in \\left\\{\\dfrac{1}{4},1\\right\\}$",
+        "$x\\in \\left\\{\\dfrac{1}{16},1\\right\\}$",
+        "$x\\in \\left\\{\\dfrac{1}{4},2\\right\\}$",
+        "$x \\in \\left\\{\\dfrac{1}{16},2\\right\\}$"
+      ],
+      "correct_answer": 3
+    },
+    {
+      "id": "2107",
+      "question": "A triangle has no diagonals. A quadrilateral has two diagonals. A pentagon has five diagonals. How many diagonals a fifty side polygon have?",
+      "topic": "Fundamental Mathematics",
+      "subtopic": "Elementary Geometry",
+      "level": "5",
+      "options": [
+        "1075 diagonals \r\n\r\n",
+        "1175 diagonals",
+        " 1125 diagonals",
+        "1225 diagonals"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "id": "2109",
+      "question": "Consider that to a square of side size 4cm one applies a centre homotetia isotropic scaling on the square's vertexes and ratio $r$. Select the wrong statement.",
+      "topic": "Fundamental Mathematics",
+      "subtopic": "Elementary Geometry",
+      "level": "4",
+      "options": [
+        "If $r >1$ the perimeter of the resulting square is r times bigger than the perimeter of the original square\r\n",
+        "If $\\left|r\\right|>1$ the length of the size of the transformed square is $4\\left|r\\right|$cm.",
+        "If $\\left|r\\right|=1$ the homotetia is an isometry",
+        "If $r=3$ the area of the resulting square is triple of the starting square."
+      ],
+      "correct_answer": 3
+    },
+    {
+      "id": "2111",
+      "question": "Select the true statement.",
+      "topic": "Fundamental Mathematics",
+      "subtopic": "Elementary Geometry",
+      "level": "4",
+      "options": [
+        "An isometry always respects the orientation of the angles.",
+        "Rotation and reflection may not be isometries. ",
+        "In the sliding reflection the translation vector has the direction of the reflection axis.",
+        "Translation preserves the direction of straight line segments but cannot preserve it's orientation.\r\n"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "id": "2113",
+      "question": "A square allows for four rotation symmetries. What are the amplitudes of such rotation symmetries:",
+      "topic": "Fundamental Mathematics",
+      "subtopic": "Elementary Geometry",
+      "level": "4",
+      "options": [
+        "$90^\\circ$, $180^\\circ$, $360^\\circ$ and $720^\\circ$.",
+        "$90^\\circ$, $180^\\circ$, $270^\\circ$ and $360^\\circ$.",
+        "$45^\\circ$, $90^\\circ$, $135^\\circ$ and $180^\\circ$.",
+        "$45^\\circ$, $90^\\circ$, $135^\\circ$ and $180^\\circ$.\r\n"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "id": "2115",
+      "question": "A regular pentagon allows for:",
+      "topic": "Fundamental Mathematics",
+      "subtopic": "Elementary Geometry",
+      "level": "3",
+      "options": [
+        "5 reflection symmetries and 10 rotation symmetries.\r\n",
+        "5 reflection symmetries and 5 rotation symmetries.",
+        "10 reflection symmetries and 5 rotation symmetries.",
+        "10 reflection symmetries and 10 rotation symmetries."
+      ],
+      "correct_answer": 1
+    },
+    {
+      "id": "2117",
+      "question": "Consider the $ABC$ triangle whose perimeter is 39 units. Knowing that $\\overline{AB}=3x-2$, $\\overline{BC}=4x+1$ and $\\overline{AC}=2x+4$, state which of the triangles angles has the largest amplitude.",
+      "topic": "Fundamental Mathematics",
+      "subtopic": "Elementary Geometry",
+      "level": "5",
+      "options": [
+        "$\\angle CAB$.",
+        " All angles have the same amplitude. ",
+        "$\\angle BCA$.",
+        "$\\angle ABC$.\r\n"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "id": "2119",
+      "question": "Mark the wrong statement:",
+      "topic": "Fundamental Mathematics",
+      "subtopic": "Elementary Geometry",
+      "level": "2",
+      "options": [
+        "The sum of the amplitudes of the external angles of a triangle always equals $180^\\circ$.",
+        "In a triangle the longest size is always opposed to the angle with the biggest amplitude.",
+        "The amplitude of each external angle of a triangle equals the the sum of the amplitudes of both nonadjacent internal angles.",
+        "The sum of the amplitudes of the internal angles of a triangle always equals $180^\\circ$.\r\n"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "id": "2121",
+      "question": "In a quadrilateral $[ABCD]$ the diagonals are orthogonal, they bisect the internal angles, they are the only symmetry axis and intersect in the median point which is a symmetry center. $[ABCD]$ is a:",
+      "topic": "Fundamental Mathematics",
+      "subtopic": "Elementary Geometry",
+      "level": "5",
+      "options": [
+        "Rectangle.",
+        "Rhombus.",
+        "Oblique parallelogram.",
+        "Square.\r\n\r\n"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "id": "2123",
+      "question": "The sum of the internal angles $\\left(S_i\\right)$ of any convex polygon is:",
+      "topic": "Fundamental Mathematics",
+      "subtopic": "Elementary Geometry",
+      "level": "5",
+      "options": [
+        "$S_i = \\left(n - 2\\right)\\times 360^\\circ$, where $n$ is the number of sides of the polygon.",
+        " $S_i = n\\times 180^\\circ$, where $n$ is the number of sides of the polygon.\r\n",
+        "$S_i = \\left(n + 2\\right)\\times 180^\\circ$, where $n$ is the number of sides of the polygon.",
+        "$S_i = \\left(n - 2\\right)\\times 180^\\circ$, where $n$ is the number of sides of the polygon. "
+      ],
+      "correct_answer": 3
+    },
+    {
+      "id": "2125",
+      "question": "Choose the correct statement.",
+      "topic": "Fundamental Mathematics",
+      "subtopic": "Elementary Geometry",
+      "level": "3",
+      "options": [
+        "An external angle of a regular polygon can measure $15^\\circ$.",
+        "If a given polygon is regular. The external angles may not all have the same amplitude.",
+        "There is a five-sided convex polygon whose internal angles have amplitudes equal to $95^\\circ$, $100^\\circ$, $115^\\circ$, $70^\\circ$ and $120^\\circ$.\r\n",
+        "An internal angle of a regular polygon can measure $50^\\circ$."
+      ],
+      "correct_answer": 0
+    }
+  ]
+}

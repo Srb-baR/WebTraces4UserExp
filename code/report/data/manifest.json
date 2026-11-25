@@ -1,0 +1,527 @@
+[
+  {
+    "path": "LLM evaluators/quizcomp/deepseek-v3.2.sqlite",
+    "bytes": 24576,
+    "sha256": "9b43d7747968f00b57cecb1b857d7c52bed74753d9fbe81c0c54a1b3cc76f4ed"
+  },
+  {
+    "path": "LLM evaluators/quizcomp/deepseek-v3.2__no_trace.sqlite",
+    "bytes": 20480,
+    "sha256": "e8d41a5afa4646bcb0a3e56706662170ed8bd9d6cae936c2c5b9146442b03bf3"
+  },
+  {
+    "path": "LLM evaluators/quizcomp/gpt-oss-120b.sqlite",
+    "bytes": 24576,
+    "sha256": "38ec20efc617df668e0a7e82a192b8827b7b22863fc6a83fda3100a47581b614"
+  },
+  {
+    "path": "LLM evaluators/quizcomp/gpt-oss-120b__no_trace.sqlite",
+    "bytes": 20480,
+    "sha256": "75a2a83cba47d800a8afe4672380358e9716af3d92f81a87a4368e013208885f"
+  },
+  {
+    "path": "LLM evaluators/quizcomp/llama-4-scout.sqlite",
+    "bytes": 24576,
+    "sha256": "615bd8d125df2f328e3aa3d07060fec16d4f1d655d9694bea350260fa62fdf1d"
+  },
+  {
+    "path": "LLM evaluators/quizcomp/llama-4-scout__no_trace.sqlite",
+    "bytes": 24576,
+    "sha256": "2c5626aa1540b3389b3a95db5862c482686f2946edf7a4acc621103d019ab8c9"
+  },
+  {
+    "path": "LLM evaluators/quizcomp/mistral-small-3.2.sqlite",
+    "bytes": 24576,
+    "sha256": "f19c88b2d3efc64a2ee93591ce2040ca1e46897e716dda9742e38a24522de95f"
+  },
+  {
+    "path": "LLM evaluators/quizcomp/mistral-small-3.2__no_trace.sqlite",
+    "bytes": 24576,
+    "sha256": "6eb2763a9ce5fb8c87e46ac5a008249c99596d35e1785a059d99c4324d770df7"
+  },
+  {
+    "path": "LLM evaluators/quizcomp/qwen3-235b.sqlite",
+    "bytes": 24576,
+    "sha256": "8cafd80278510ec066c61a1a9c33b6852bba68a725e9c4792709349615e61638"
+  },
+  {
+    "path": "LLM evaluators/quizcomp/qwen3-235b__no_trace.sqlite",
+    "bytes": 24576,
+    "sha256": "afc52f797b980761db46b338ad99d49b4a4ce4ed2d8169c45b1f0d6a048b763c"
+  },
+  {
+    "path": "LLM evaluators/testreco/deepseek-v3.2.sqlite",
+    "bytes": 24576,
+    "sha256": "52a626cd4e75fdcf6833decee649c706fa193a8acdb35752d7483ec331eb1b1d"
+  },
+  {
+    "path": "LLM evaluators/testreco/deepseek-v3.2__no_trace.sqlite",
+    "bytes": 20480,
+    "sha256": "1c028638fa83f896438bff173aaf46546298fdac9ed8e6da56ca939327169f6c"
+  },
+  {
+    "path": "LLM evaluators/testreco/gpt-oss-120b.sqlite",
+    "bytes": 20480,
+    "sha256": "35fe71c04ea94e0026977f0cadf424bfcc8c456e9453ac20458acc01213a25c5"
+  },
+  {
+    "path": "LLM evaluators/testreco/gpt-oss-120b__no_trace.sqlite",
+    "bytes": 20480,
+    "sha256": "424a665686d61b8da19f56a4cd94b801958358d4f78d0d179195b37dc5cabac3"
+  },
+  {
+    "path": "LLM evaluators/testreco/llama-4-scout.sqlite",
+    "bytes": 24576,
+    "sha256": "1e8a3586a0709d3d69d077b30d2491c3c992d6e72c986a4130572f65ec01d795"
+  },
+  {
+    "path": "LLM evaluators/testreco/llama-4-scout__no_trace.sqlite",
+    "bytes": 20480,
+    "sha256": "c0c1ec9bbf67091d08b4948b55556cdf5ea16779e8df7ea90d1ba0cc3f13a819"
+  },
+  {
+    "path": "LLM evaluators/testreco/mistral-small-3.2.sqlite",
+    "bytes": 24576,
+    "sha256": "00469576742fa0794e23ad826bb997d4aa53b89c54b9d169c8cd614e56770dbb"
+  },
+  {
+    "path": "LLM evaluators/testreco/mistral-small-3.2__no_trace.sqlite",
+    "bytes": 24576,
+    "sha256": "b251aa45dc39f049666cfb53ba175713279542fd42e8602ca137aea4708fd4c2"
+  },
+  {
+    "path": "LLM evaluators/testreco/qwen3-235b.sqlite",
+    "bytes": 24576,
+    "sha256": "a8eb8fb4ad3364602189116dccb8f2a48a7b5d27b5af248a02092358b493563f"
+  },
+  {
+    "path": "LLM evaluators/testreco/qwen3-235b__no_trace.sqlite",
+    "bytes": 20480,
+    "sha256": "7ee0b9a8e2e2dcf117162e802f8fcb85009b25338bebf8e882c95133ed4346c6"
+  },
+  {
+    "path": "LLM evaluators/webarena/deepseek-v3.2.sqlite",
+    "bytes": 32768,
+    "sha256": "699fea4ec5f00d032381d0ce35f0ae9c319188a9f76fa00b1092211a4fc98ceb"
+  },
+  {
+    "path": "LLM evaluators/webarena/deepseek-v3.2__no_trace.sqlite",
+    "bytes": 28672,
+    "sha256": "f1b1354ae648cdf180bd5b7f70caf4a78b8507012314dbad37fc4f19352b4162"
+  },
+  {
+    "path": "LLM evaluators/webarena/gpt-oss-120b.sqlite",
+    "bytes": 32768,
+    "sha256": "05db975caf8c2a7fc6ed9dbb2d78561246f532afdb7fe2610e046752a375689f"
+  },
+  {
+    "path": "LLM evaluators/webarena/gpt-oss-120b__no_trace.sqlite",
+    "bytes": 28672,
+    "sha256": "18b52362bce4973125b174904b90a13a3e3a7121afda8b0792c330df49a489c6"
+  },
+  {
+    "path": "LLM evaluators/webarena/llama-4-scout.sqlite",
+    "bytes": 32768,
+    "sha256": "4d736459194f80044d1caa4eaad1ff340d869a0978bb267a49cbf17f3eb3a87c"
+  },
+  {
+    "path": "LLM evaluators/webarena/llama-4-scout__no_trace.sqlite",
+    "bytes": 28672,
+    "sha256": "e2452d5192259c35a2b7e1ab81a245bf562d894af4d8f802f72e552a43309284"
+  },
+  {
+    "path": "LLM evaluators/webarena/mistral-small-3.2.sqlite",
+    "bytes": 36864,
+    "sha256": "9d45f53a95e769c380e215db844a6fd679d5838e0c601305c26cefca2acb4597"
+  },
+  {
+    "path": "LLM evaluators/webarena/mistral-small-3.2__no_trace.sqlite",
+    "bytes": 32768,
+    "sha256": "a8831300ded43c21ee9a3f04226c2c42f91c6c733b5b967f730d6074bbd2a72b"
+  },
+  {
+    "path": "LLM evaluators/webarena/qwen3-235b.sqlite",
+    "bytes": 32768,
+    "sha256": "0319a52d50456d22513b976c7aca618625c0d3ba15ad7468fb2d15e3fd455191"
+  },
+  {
+    "path": "LLM evaluators/webarena/qwen3-235b__no_trace.sqlite",
+    "bytes": 28672,
+    "sha256": "ae65eba85a23aaabb60dbeb335620af5122619bf46c2408177c63b78e72e2426"
+  },
+  {
+    "path": "actors/quizcomp/quizcomp_study.sqlite",
+    "bytes": 884736,
+    "sha256": "077e295aa7641f8b1c9d99c513f60070357e5c19c96b87cd2e2548822a45af80"
+  },
+  {
+    "path": "actors/testreco/results.db",
+    "bytes": 4263936,
+    "sha256": "7b36896f867f18c6351e1c131af4d8c283f06021a456f338c23cacfef990f616"
+  },
+  {
+    "path": "actors/webarena/study.sqlite",
+    "bytes": 776486912,
+    "sha256": "4b3f7102bd898cd690d8bb0bc22bf79b9b26353da03ce43533f5aad5b2f5b3a8"
+  },
+  {
+    "path": "human evaluators/quizcomp/no_trace.db",
+    "bytes": 20480,
+    "sha256": "f5f6191668f2d6fefc08e868eb9b03bdd8411b268511cfd0e11d249aaa56923e"
+  },
+  {
+    "path": "human evaluators/quizcomp/quizcomp_survey_responses_round2.db",
+    "bytes": 24576,
+    "sha256": "7d28cddb07f1c2c1d6c9c9a20b2bc68a8695668e8124aa9f3e48b299aa7091a7"
+  },
+  {
+    "path": "human evaluators/quizcomp/simulation_survey_respnses_r3.db",
+    "bytes": 24576,
+    "sha256": "8322368356eea433cf8ecc7e6c0121ea2d661cbb9fdf070d53e7eb028e51d262"
+  },
+  {
+    "path": "human evaluators/quizcomp/simulation_survey_responses_r5.db",
+    "bytes": 24576,
+    "sha256": "3416d5f6cac9d3ff73b16b658d80eb1c719e30640ba2bcc925cb818267901f09"
+  },
+  {
+    "path": "human evaluators/quizcomp/simulation_survey_responses_round1.db",
+    "bytes": 24576,
+    "sha256": "75d509a6e1e76c5458b1033131aa23c167e0057a8790c3265e22f9dd6b32cc77"
+  },
+  {
+    "path": "human evaluators/testreco/TestReco_survey_respoes_round3.db",
+    "bytes": 20480,
+    "sha256": "2e63495185076752a3aad9932ed2a84a884861a7d2cbecf929d8e53b4cc3e4c9"
+  },
+  {
+    "path": "human evaluators/testreco/TestReco_survey_respoes_round5.db",
+    "bytes": 20480,
+    "sha256": "91596209e22dae70b5e4d9600700865f378dd251667fa02995321d1e8aacd681"
+  },
+  {
+    "path": "human evaluators/testreco/TestReco_survey_responses_round1.sqlite",
+    "bytes": 20480,
+    "sha256": "0114392ae50b136acf49b85dc7b5e29a8081944decfe360b3ef129969b75af30"
+  },
+  {
+    "path": "human evaluators/testreco/TestReco_survey_responses_round10.db",
+    "bytes": 20480,
+    "sha256": "f71ec5d350c595cd6434832534471a03eb5f2a2d5bb0d81f25b3e11d1a628f39"
+  },
+  {
+    "path": "human evaluators/testreco/TestReco_survey_responses_round2.db",
+    "bytes": 20480,
+    "sha256": "3c49c3ada11a4bf2960675897682b9e33b508ec0e649330cd7bf5c092dec8f39"
+  },
+  {
+    "path": "human evaluators/testreco/TestReco_survey_responses_round4.db",
+    "bytes": 20480,
+    "sha256": "cace6d8abd6cb66d3ca03dc6492895d321ca017a70336e89e04da24c868b7bd1"
+  },
+  {
+    "path": "human evaluators/testreco/TestReco_survey_responses_round6.db",
+    "bytes": 20480,
+    "sha256": "1710098ee40830cf808cc6dc9bab9d902263e2494155155e66844b9763f2d75c"
+  },
+  {
+    "path": "human evaluators/testreco/TestReco_survey_responses_round7.db",
+    "bytes": 20480,
+    "sha256": "ea89ae76e626bdff9edb9a230f0b041e9d951522ff271293b9c689e4f3805439"
+  },
+  {
+    "path": "human evaluators/testreco/TestReco_survey_responses_round8.db",
+    "bytes": 20480,
+    "sha256": "589957f8d47ad57661cf31b73cb7147454275d1c006be62566e5a9a41ce31add"
+  },
+  {
+    "path": "human evaluators/testreco/TestReco_survey_responses_round9.db",
+    "bytes": 20480,
+    "sha256": "92c1556faa1d761967eaa0ce5eb4a234e5af585fe2051723bfc22533d62f2b60"
+  },
+  {
+    "path": "human evaluators/testreco/no_trace.db",
+    "bytes": 20480,
+    "sha256": "cd751453e2f06d4cbd61426f0999731a7368a64d876b7b457455e92d799f6d6c"
+  },
+  {
+    "path": "human evaluators/webarena/no_trace.db",
+    "bytes": 24576,
+    "sha256": "dc5fed5200319769fa7c83bded8ad154daf8505a2967b73ec9e44edc5de3a6e9"
+  },
+  {
+    "path": "human evaluators/webarena/prolific_observers_reconstructed_webrena_round3.db",
+    "bytes": 32768,
+    "sha256": "422b603feeed0646a51ca8c1655d0aa22814071aa3026b02a81ff0249bc95661"
+  },
+  {
+    "path": "human evaluators/webarena/prolific_observers_reconstructed_webrena_round4.db",
+    "bytes": 32768,
+    "sha256": "55e3221352dce30fc4d35bcd0c3f453ab5e28a0c6dc3397c1d75bea991815d9a"
+  },
+  {
+    "path": "human evaluators/webarena/prolific_observers_reconstructed_webrena_round5.db",
+    "bytes": 32768,
+    "sha256": "d2eef5f134135ff8a9028ac3dfceef09c56ef54d209b6431716161fa0163a6f4"
+  },
+  {
+    "path": "human evaluators/webarena/reconstructed_webarena_results_r1.sqlite",
+    "bytes": 32768,
+    "sha256": "921b284f4f2e0bc9a4e6f1e53804887c4f8effdce87fe4c17c2b602e48ea2e8d"
+  },
+  {
+    "path": "observed/LLM evaluators/quizcomp/deepseek-v3.2.sqlite",
+    "bytes": 102400,
+    "sha256": "c26fea116998db5f4cc6419c4cc5dec0a5bc1d856219c2b582f8167f3e10a701"
+  },
+  {
+    "path": "observed/LLM evaluators/quizcomp/deepseek-v3.2__no_trace.sqlite",
+    "bytes": 77824,
+    "sha256": "d653729988c9404afdca190c76fed771fd91a99ab596d2a088204f50895ab0b1"
+  },
+  {
+    "path": "observed/LLM evaluators/quizcomp/gpt-oss-120b.sqlite",
+    "bytes": 98304,
+    "sha256": "614b42fa7b25b42625a8dae36b1440b5039deb6289ad8749cfc852d825e1de41"
+  },
+  {
+    "path": "observed/LLM evaluators/quizcomp/gpt-oss-120b__no_trace.sqlite",
+    "bytes": 77824,
+    "sha256": "ac3dc4817cecad88e835064914c4caaa2a1e8325480855d2a724988158adadc4"
+  },
+  {
+    "path": "observed/LLM evaluators/quizcomp/llama-4-scout.sqlite",
+    "bytes": 102400,
+    "sha256": "09b895c827806e49f17904bf7a38a41104488c00d2f6c2d87b002acf23def380"
+  },
+  {
+    "path": "observed/LLM evaluators/quizcomp/llama-4-scout__no_trace.sqlite",
+    "bytes": 77824,
+    "sha256": "3f3a120cbc9e3efca0709182f4e4648966f3430c659d8a5a3e27236778d5331f"
+  },
+  {
+    "path": "observed/LLM evaluators/quizcomp/mistral-small-3.2.sqlite",
+    "bytes": 102400,
+    "sha256": "353e5094d4f168d92db9b308374d5f52c0d33e7a1c0c3e966b0c160f7e2e756f"
+  },
+  {
+    "path": "observed/LLM evaluators/quizcomp/mistral-small-3.2__no_trace.sqlite",
+    "bytes": 81920,
+    "sha256": "c031c9be6c4be8dab994cdbaed8e0a3c4208fc32e4d177087f134f00c3c1bc1c"
+  },
+  {
+    "path": "observed/LLM evaluators/quizcomp/qwen3-235b.sqlite",
+    "bytes": 102400,
+    "sha256": "da5cc8eeb85efe96db0e88792e740ff802723f2e7c215fed2e37b87d5355dc2d"
+  },
+  {
+    "path": "observed/LLM evaluators/quizcomp/qwen3-235b__no_trace.sqlite",
+    "bytes": 77824,
+    "sha256": "09c45ea6686894965bff41dc5f2c0d6cee33bbca02e1c179988a4532e3cc3721"
+  },
+  {
+    "path": "observed/LLM evaluators/testreco/deepseek-v3.2.sqlite",
+    "bytes": 81920,
+    "sha256": "733e019422278f4253d08f5ae0125066c33c55f6958e7f5d76b936252c526036"
+  },
+  {
+    "path": "observed/LLM evaluators/testreco/deepseek-v3.2__no_trace.sqlite",
+    "bytes": 77824,
+    "sha256": "b0ae3e07be5c1fb8036227a08f8f62f4e5d069b21aae6124a3218fff4ed4f75d"
+  },
+  {
+    "path": "observed/LLM evaluators/testreco/gpt-oss-120b.sqlite",
+    "bytes": 81920,
+    "sha256": "ab133afefa65afdc85c07370db41b80d7612bb864fceba00d4faead9aab8d57b"
+  },
+  {
+    "path": "observed/LLM evaluators/testreco/gpt-oss-120b__no_trace.sqlite",
+    "bytes": 77824,
+    "sha256": "0d3a12cadd7f13abf54324ee2b1386798eb09cf2836bc687ab8fcc9a7a3fa68f"
+  },
+  {
+    "path": "observed/LLM evaluators/testreco/llama-4-scout.sqlite",
+    "bytes": 81920,
+    "sha256": "a1e59941a8675f6251a8e156f90a70ab8c213f7cd10de5d70250b07f2bfd9e9e"
+  },
+  {
+    "path": "observed/LLM evaluators/testreco/llama-4-scout__no_trace.sqlite",
+    "bytes": 77824,
+    "sha256": "ad73366ab8e4858ee94b6e8afc06932c8e4aa7e44a01804f3295521886b43425"
+  },
+  {
+    "path": "observed/LLM evaluators/testreco/mistral-small-3.2.sqlite",
+    "bytes": 86016,
+    "sha256": "0e279405e766faada63aa3f2fafeeb072d2128eac51e777038a1b768e1ec6bfa"
+  },
+  {
+    "path": "observed/LLM evaluators/testreco/mistral-small-3.2__no_trace.sqlite",
+    "bytes": 98304,
+    "sha256": "a7af4ac9ad05c18fd64c72b857548dbcb21ab323c56b35d8ffdcc584d11a96eb"
+  },
+  {
+    "path": "observed/LLM evaluators/testreco/qwen3-235b.sqlite",
+    "bytes": 81920,
+    "sha256": "c462ee5c03b7f704ba1c52f0a4cefaa49bfdaa88f1dacfacec1d6b33de0c18bf"
+  },
+  {
+    "path": "observed/LLM evaluators/testreco/qwen3-235b__no_trace.sqlite",
+    "bytes": 77824,
+    "sha256": "3aa53973234dc47885e8ce817269d35887dafcede1129a127163604aa93b0f8d"
+  },
+  {
+    "path": "observed/LLM evaluators/webarena/deepseek-v3.2.sqlite",
+    "bytes": 163840,
+    "sha256": "d683e17a58549104e2860c40fd7c526c0d32dca2a432b3ba4f3bee7b746f025f"
+  },
+  {
+    "path": "observed/LLM evaluators/webarena/deepseek-v3.2__no_trace.sqlite",
+    "bytes": 94208,
+    "sha256": "b142688587d960b3944ae59bafb0ae5cfec07939f1944a366ebf56642ea2dfda"
+  },
+  {
+    "path": "observed/LLM evaluators/webarena/gpt-oss-120b.sqlite",
+    "bytes": 155648,
+    "sha256": "9736c93d473403e074c2c97edfdef9ad6a934e0e862034ec659dd0a56e1b0355"
+  },
+  {
+    "path": "observed/LLM evaluators/webarena/gpt-oss-120b__no_trace.sqlite",
+    "bytes": 90112,
+    "sha256": "d22630e74f5cf3b5a5954ef39ce9dc0ead4d733ca357e0c0ba3598d68bb93c6b"
+  },
+  {
+    "path": "observed/LLM evaluators/webarena/llama-4-scout.sqlite",
+    "bytes": 159744,
+    "sha256": "93880ce0e262072233d61b9c9cf698ed49c9c796a3d57c69b5dcba56b0ea9aeb"
+  },
+  {
+    "path": "observed/LLM evaluators/webarena/llama-4-scout__no_trace.sqlite",
+    "bytes": 94208,
+    "sha256": "a5953c37bd2e5224ecb3d49476485a60e7f3919d19bd4997516142895e50c5d3"
+  },
+  {
+    "path": "observed/LLM evaluators/webarena/mistral-small-3.2.sqlite",
+    "bytes": 159744,
+    "sha256": "0d3afc4101ee704018e1a897f8623b141487c36e38b4f0071e8de7c79f55a917"
+  },
+  {
+    "path": "observed/LLM evaluators/webarena/mistral-small-3.2__no_trace.sqlite",
+    "bytes": 98304,
+    "sha256": "548e74944d30aee4f2dfb53147ec4fe90d321f3f1158194ce79a049cffb16a29"
+  },
+  {
+    "path": "observed/LLM evaluators/webarena/qwen3-235b.sqlite",
+    "bytes": 163840,
+    "sha256": "ce13dff9e0dddfe3caa88b3fb823330f7f8b32114558050d4daa4fb36b2add9d"
+  },
+  {
+    "path": "observed/LLM evaluators/webarena/qwen3-235b__no_trace.sqlite",
+    "bytes": 94208,
+    "sha256": "d6f59f9d0c89aa20e6965cd8e2dc1373f5dee6e2847d1741948a4b770bf23fb9"
+  },
+  {
+    "path": "observed/human evaluators/quizcomp/no_trace.db",
+    "bytes": 24576,
+    "sha256": "937680c74c4945de673ccf988e2da6d0e38c4dd26adb84400260967aa5b0629f"
+  },
+  {
+    "path": "observed/human evaluators/quizcomp/quizcomp_survey_responses_round2.db",
+    "bytes": 40960,
+    "sha256": "223769679d15b2cf60eb1f57bff8981b9f1b6a3b82ff46dafdc232867d22dba4"
+  },
+  {
+    "path": "observed/human evaluators/quizcomp/simulation_survey_respnses_r3.db",
+    "bytes": 40960,
+    "sha256": "1c47c4b2c4d55d763bde0577da66dc8f266a51e9a5775ea10ee6542d1aea40b7"
+  },
+  {
+    "path": "observed/human evaluators/quizcomp/simulation_survey_responses_r5.db",
+    "bytes": 40960,
+    "sha256": "b314bb4e2395f07cb392b0cb7f86807b624a3990c804a81e4bfe85a776b35fc7"
+  },
+  {
+    "path": "observed/human evaluators/quizcomp/simulation_survey_responses_round1.db",
+    "bytes": 40960,
+    "sha256": "ea74b020104a8dccfe2ced1d89b228a706ab5470c6612ad5dfed4de7688b6f05"
+  },
+  {
+    "path": "observed/human evaluators/testreco/TestReco_survey_respoes_round3.db",
+    "bytes": 36864,
+    "sha256": "2f66a4240c078743d310ce4ba475087054e213cfddfc66685c8c2f6f0bcefd6b"
+  },
+  {
+    "path": "observed/human evaluators/testreco/TestReco_survey_respoes_round5.db",
+    "bytes": 36864,
+    "sha256": "e6e5016ef45a28eaf0b13ca98c2abaa8be482ba5d430654f6a258507370f513c"
+  },
+  {
+    "path": "observed/human evaluators/testreco/TestReco_survey_responses_round1.sqlite",
+    "bytes": 24576,
+    "sha256": "aebf859e96bbc237ce1d2b76355850d4b919a8355def9f6dd298f874414875bc"
+  },
+  {
+    "path": "observed/human evaluators/testreco/TestReco_survey_responses_round10.db",
+    "bytes": 36864,
+    "sha256": "624a57efdb440fb25b1fdd8f92c4cb0076f6c7782e86ce0e02cf95ecb8393ab9"
+  },
+  {
+    "path": "observed/human evaluators/testreco/TestReco_survey_responses_round2.db",
+    "bytes": 36864,
+    "sha256": "e691da064db4bcdb0536a06f4690343d2526c1e8654ec7c4267278da551f0b6a"
+  },
+  {
+    "path": "observed/human evaluators/testreco/TestReco_survey_responses_round4.db",
+    "bytes": 36864,
+    "sha256": "e796a96334281e5c6488cdaf155f4a11ae989606578e71a9bdb362de6e0417e2"
+  },
+  {
+    "path": "observed/human evaluators/testreco/TestReco_survey_responses_round6.db",
+    "bytes": 36864,
+    "sha256": "86f804b232f732fd2f84de75a468e7b07716fc839d78041088811154086b68e7"
+  },
+  {
+    "path": "observed/human evaluators/testreco/TestReco_survey_responses_round7.db",
+    "bytes": 36864,
+    "sha256": "26c50665b8aa6181e6760a8b41fade8797df4e6bdc0aa821b99f2e2740186866"
+  },
+  {
+    "path": "observed/human evaluators/testreco/TestReco_survey_responses_round8.db",
+    "bytes": 36864,
+    "sha256": "7e134be7dc37aaee87e6ea493530868babc7347576728cb1a9e62c59f4e16631"
+  },
+  {
+    "path": "observed/human evaluators/testreco/TestReco_survey_responses_round9.db",
+    "bytes": 36864,
+    "sha256": "ac80464d5c00fb690075412e4ec23f95f85bce60589861f32b46b61e372c852a"
+  },
+  {
+    "path": "observed/human evaluators/testreco/no_trace.db",
+    "bytes": 28672,
+    "sha256": "8361eb1041d1855a0fea914402d0bd9fa62ab3824bd858a48bd59c00836c1c01"
+  },
+  {
+    "path": "observed/human evaluators/webarena/no_trace.db",
+    "bytes": 266240,
+    "sha256": "3b5c6f55a68b02314dd6d7bbd949816ca6aca11423a65290fc021025d33c8ce0"
+  },
+  {
+    "path": "observed/human evaluators/webarena/prolific_observers_reconstructed_webrena_round3.db",
+    "bytes": 253952,
+    "sha256": "7c5e6e6a8093bc70512823a02a03ac82c50251f5977d270039c14e31b3fc36df"
+  },
+  {
+    "path": "observed/human evaluators/webarena/prolific_observers_reconstructed_webrena_round4.db",
+    "bytes": 258048,
+    "sha256": "d61474bd3833637d0cc54bcc43dfab37ac234eba71e2c5a7e1b7e653ed91d564"
+  },
+  {
+    "path": "observed/human evaluators/webarena/prolific_observers_reconstructed_webrena_round5.db",
+    "bytes": 266240,
+    "sha256": "87e8f6672d255e9914776b076ea01f6707aae0273f3f742d6dcffee927dfed98"
+  },
+  {
+    "path": "observed/human evaluators/webarena/reconstructed_webarena_results_r1.sqlite",
+    "bytes": 258048,
+    "sha256": "01eef76c667412fc5988b9a124420993b193208492332856e56e048e9db12560"
+  }
+]

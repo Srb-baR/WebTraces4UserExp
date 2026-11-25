@@ -1,0 +1,29 @@
+<script>
+(()=>{
+ const cfg=__CONFIG__, w=window.parent,d=w.document;
+ w.__studyRecorderAbort?.();
+ const controller=new AbortController(),signal=controller.signal;
+ let seq=0,last=performance.now(),clickAt=null,timer=null;
+ const pageId=crypto.randomUUID(),queueKey='wa-study-events-'+cfg.token;
+ let queue=[];try{queue=JSON.parse(w.sessionStorage.getItem(queueKey)||'[]')}catch(e){}
+ const active=()=>[...d.querySelectorAll('a')].some(a=>/^Open (OneStopShop|Reddit)/.test(a.textContent));
+ const persist=()=>w.sessionStorage.setItem(queueKey,JSON.stringify(queue));
+ let sending=false;
+ async function flush(){if(sending||!queue.length)return;sending=true;try{const batch=[];let size=0;for(const event of queue){const bytes=new TextEncoder().encode(JSON.stringify(event)).length;if(batch.length&&(size+bytes>800000||batch.length>=20))break;batch.push(event);size+=bytes;}const r=await fetch(cfg.gateway+'/__study__/events',{method:'POST',headers:{Authorization:'Bearer '+cfg.token,'Content-Type':'application/json'},body:JSON.stringify({events:batch})});if(r.ok){const ids=new Set(batch.map(e=>e.id));queue=queue.filter(e=>!ids.has(e.id));persist();}}finally{sending=false;}}
+ function record(kind,payload){const now=performance.now();queue.push({id:crypto.randomUUID(),page_id:pageId,seq:++seq,task:cfg.task,site:'study',kind,client_at:Date.now(),elapsed_ms:now,since_previous_event_ms:now-last,since_previous_click_ms:kind==='click'&&clickAt!==null?now-clickAt:null,payload:{...payload,phase:cfg.phase,url:'study:'+cfg.phase}});last=now;if(kind==='click')clickAt=now;persist();flush().catch(()=>{});}
+ function snapshot(reason){if(!active())return;const main=d.querySelector('[data-testid="stMain"]')||d.querySelector('main');if(!main)return;const clone=main.cloneNode(true);clone.querySelectorAll('script,iframe,noscript,style,input[type=password],input[type=hidden]').forEach(e=>e.remove());clone.querySelectorAll('*').forEach(e=>{for(const a of [...e.attributes])if(/^on/i.test(a.name)||['href','src','srcset','action'].includes(a.name))e.removeAttribute(a.name)});clone.querySelectorAll('textarea').forEach(e=>{e.textContent=main.querySelector('textarea')?.value||''});let css='';for(const sheet of d.styleSheets){try{css+=[...sheet.cssRules].map(r=>r.cssText).join('\n')}catch(e){}}
+ const html='<html><head><style>'+css+'</style></head><body>'+clone.outerHTML+'</body></html>';
+ record('study_screen',{reason,visible_text:main.innerText,html:html.length<700000?html:null,viewport:{width:w.innerWidth,height:w.innerHeight}});
+ }
+ for(const kind of ['click','input','change','copy','paste'])d.addEventListener(kind,e=>{
+  if(!active())return;const t=e.target,el=t.closest?.('a,button,textarea');if(!el)return;
+  const text=el.textContent?.trim(),name=el.getAttribute('aria-label');
+  if(el.tagName==='TEXTAREA'&&name!=='Review titles')return;
+  if(el.tagName!=='TEXTAREA'&&!/Open OneStopShop|Open Reddit|Save review titles|I have published/.test(text||''))return;
+  record(kind,{text,name,value:el.value,selection:kind==='copy'?(el.tagName==='TEXTAREA'?el.value.slice(el.selectionStart,el.selectionEnd):w.getSelection().toString()):undefined,pasted_text:kind==='paste'?e.clipboardData?.getData('text/plain'):undefined,x:e.clientX,y:e.clientY});
+  clearTimeout(timer);timer=setTimeout(()=>snapshot(kind),350);
+ },{capture:true,signal});
+ const interval=setInterval(()=>{if(!window.frameElement?.isConnected||!active()){controller.abort();clearInterval(interval);clearTimeout(timer);}flush().catch(()=>{});},700);
+ w.__studyRecorderAbort=()=>{controller.abort();clearInterval(interval);clearTimeout(timer);};setTimeout(()=>snapshot('page_view'),500);
+})();
+</script>

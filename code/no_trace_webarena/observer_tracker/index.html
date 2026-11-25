@@ -1,0 +1,47 @@
+<!doctype html><html><body><script>
+const send=(type,extra={})=>parent.postMessage({isStreamlitMessage:true,type,...extra},"*");
+send("streamlit:componentReady",{apiVersion:1});
+send("streamlit:setFrameHeight",{height:0});
+const controller=new AbortController();
+let cfg={},queue=[],installed=false,acked=new Set(),lastScroll=0;
+function record(kind,payload={}) {
+ if(!cfg.observer)return;
+ if(!window.frameElement?.isConnected){controller.abort();return;}
+ queue.push({id:crypto.randomUUID(),at:Date.now(),kind,payload:{...payload,phase:cfg.phase,chapter:cfg.chapter,task:cfg.task}});
+ save();
+}
+function save(){try{localStorage.setItem("observer-pending-"+cfg.observer,JSON.stringify(queue));}catch(e){}}
+function flush(){if(queue.length)send("streamlit:setComponentValue",{value:{events:queue.slice(0,500)},dataType:"json"});}
+function install(){
+ let doc;
+ try{doc=parent.document;}catch(e){record("tracker_unavailable",{reason:"parent document inaccessible"});flush();return;}
+ const target=e=>{let x=e.target;return {tag:x.tagName,label:(x.getAttribute?.("aria-label")||x.innerText||x.name||"").slice(0,180),x:e.clientX,y:e.clientY};};
+ doc.addEventListener("click",e=>{record("click",target(e));flush();},{capture:true,signal:controller.signal});
+ doc.addEventListener("change",e=>{let x=e.target;record("field_change",{...target(e),value:x.type==="password"?"[redacted]":x.value,checked:x.checked});flush();},{capture:true,signal:controller.signal});
+ doc.addEventListener("input",e=>{let x=e.target;record("field_input",{...target(e),value:x.type==="password"?"[redacted]":x.value});},{capture:true,signal:controller.signal});
+ doc.addEventListener("scroll",e=>{if(Date.now()-lastScroll<750)return;lastScroll=Date.now();record("scroll",{x:e.target.scrollLeft||parent.scrollX,y:e.target.scrollTop||parent.scrollY});},{capture:true,signal:controller.signal});
+ doc.addEventListener("visibilitychange",()=>{record("visibility",{state:doc.visibilityState});flush();});
+ parent.addEventListener("focus",()=>record("focus"));
+ parent.addEventListener("blur",()=>{record("blur");flush();});
+ doc.addEventListener("copy",()=>record("copy",{selection:doc.getSelection()?.toString().slice(0,10000)}),{capture:true,signal:controller.signal});
+ doc.addEventListener("paste",e=>{record("paste",{...target(e),text:e.target.type==="password"?"[redacted]":e.clipboardData?.getData("text").slice(0,10000)});flush();},{capture:true,signal:controller.signal});
+ doc.addEventListener("keydown",e=>{if(["Tab","Enter","Escape","ArrowUp","ArrowDown","ArrowLeft","ArrowRight","PageUp","PageDown","Home","End"].includes(e.key))record("keyboard_navigation",{key:e.key,...target(e)});},{capture:true,signal:controller.signal});
+ parent.addEventListener("resize",()=>record("resize",{width:parent.innerWidth,height:parent.innerHeight}),{signal:controller.signal});
+ parent.addEventListener("pagehide",()=>{record("pagehide");flush();},{signal:controller.signal});
+ record("tracker_ready",{visibility:doc.visibilityState});
+ setInterval(flush,2000);
+ setInterval(()=>{record("heartbeat",{visibility:doc.visibilityState});flush();},15000);
+}
+addEventListener("message",e=>{
+ if(e.data.type!=="streamlit:render")return;
+ const next=e.data.args;
+ if(cfg.observer && cfg.observer!==next.observer){queue=[];}
+ cfg=next;
+ for(const id of cfg.ack||[])acked.add(id);
+ if(!installed){
+  try{queue=JSON.parse(localStorage.getItem("observer-pending-"+cfg.observer)||"[]");}catch(e){}
+  installed=true;install();
+ }
+ queue=queue.filter(x=>!acked.has(x.id));save();
+});
+</script></body></html>

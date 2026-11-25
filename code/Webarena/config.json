@@ -1,0 +1,22 @@
+{
+  "template_id": 101,
+  "product": "HyperX Cloud II Gaming Headset",
+  "rating": 4,
+  "subreddit": "games",
+  "completion_code": "",
+  "mode": "local_replica",
+  "products": [
+    {"name": "HyperX Cloud II Gaming Headset", "category": "Gaming headsets", "price": "$79.99", "reviews": [
+      {"title": "Comfortable for long gaming sessions", "rating": 4, "body": "The ear cushions are comfortable. The cable could be longer."},
+      {"title": "Excellent sound and build", "rating": 5, "body": "Clear audio and a solid construction."},
+      {"title": "Good sound, average microphone", "rating": 4, "body": "Games sound clear, but the microphone is only average."},
+      {"title": "Not a good fit for me", "rating": 2, "body": "The headband felt tight after an hour."},
+      {"title": "Solid headset for the price", "rating": 4, "body": "Works well on my PC and feels durable."},
+      {"title": "Decent but heavy", "rating": 3, "body": "Good sound, but heavier than I expected."}
+    ]},
+    {"name": "Wireless Game Controller", "category": "Controllers", "price": "$39.99", "reviews": [
+      {"title": "Responsive controls", "rating": 4, "body": "Easy to connect and responsive."},
+      {"title": "Great battery life", "rating": 5, "body": "Lasts through many sessions."}
+    ]}
+  ]
+}

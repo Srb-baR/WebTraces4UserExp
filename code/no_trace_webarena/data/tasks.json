@@ -1,0 +1,1225 @@
+{
+  "pairs": [
+    {
+      "run_id": "f49d9289-e853-4659-825b-6c710ac823aa",
+      "session_ids": [
+        "00bd4aae-d45d-41cb-a090-b742b20ac613",
+        "952674e3-3936-4d41-b20f-f9df837d3cdf"
+      ]
+    },
+    {
+      "run_id": "4c32035c-671e-401c-a4fd-d12640b2e46d",
+      "session_ids": [
+        "4c527bd9-775e-4ac6-835a-5a3547a52398",
+        "2b891345-be77-43fe-8026-bcac21ab6b1e"
+      ]
+    },
+    {
+      "run_id": "4e5bf077-ddb3-4908-b181-8eb36d6f6d30",
+      "session_ids": [
+        "3ef10b83-1580-43c6-be64-441f091ec8ae",
+        "2b344b9b-5d4e-46df-8364-497a33be35a3"
+      ]
+    },
+    {
+      "run_id": "509fa1d2-9c5b-4e71-8ccb-b691cf84054f",
+      "session_ids": [
+        "2c2871b1-5c3f-4512-9957-96c2f579ca84",
+        "8e1a8428-1e37-4c78-adac-8cde3a7648e6"
+      ]
+    },
+    {
+      "run_id": "a070aed3-f29a-49ae-bef5-7f1fe00d9930",
+      "session_ids": [
+        "e666a525-31b7-4ec9-a084-5b4e21e08c4a",
+        "824e8908-ce32-4b4c-ab20-e47e1de11ac4"
+      ]
+    },
+    {
+      "run_id": "8a7234e5-cd95-4692-8201-42af4a8a74df",
+      "session_ids": [
+        "429e9e66-610f-4d1b-9c37-bdd75b25f9b0",
+        "fd2ef57b-86cc-494c-82a8-c9665854ca70"
+      ]
+    },
+    {
+      "run_id": "d3b867c1-bf3b-4235-933e-b26bb3d0df17",
+      "session_ids": [
+        "e306c44a-3ddf-4d71-9b40-1f11cc7c0558",
+        "2732f469-a260-416e-b316-5b968f743142"
+      ]
+    },
+    {
+      "run_id": "3ec1478c-3f0f-494d-a4b3-fd7353e63265",
+      "session_ids": [
+        "1a03e766-7d47-4017-a760-556fc44d533d",
+        "7ad84348-4d22-440b-9027-c006744452f7"
+      ]
+    },
+    {
+      "run_id": "06b9648a-1979-45a1-af5d-ed69904ccd16",
+      "session_ids": [
+        "7864f7af-e686-4061-ada4-9f0d18424f99",
+        "ee537c59-4bd2-441b-8914-55752e43ffc3"
+      ]
+    },
+    {
+      "run_id": "6e526d23-6692-401d-8ccd-d342ccfd3517",
+      "session_ids": [
+        "23129bb5-44f5-45fd-aae8-13b48e6f072c",
+        "a88807d5-a4a1-40d2-b3a1-bc3e16cbcd7d"
+      ]
+    },
+    {
+      "run_id": "c38ff74d-e648-472f-ace2-314503e69e4a",
+      "session_ids": [
+        "4924fdf5-8ecc-460f-b9cf-b45ef20c3db1",
+        "5a4ac24d-19f2-41cd-b46d-55c3868d70bd"
+      ]
+    },
+    {
+      "run_id": "feea4040-5871-4e36-8751-79e671e58b62",
+      "session_ids": [
+        "e099710c-0211-4a39-ab0e-97c818774584",
+        "988d2c98-a34b-4a81-b441-342b5d7a58ab"
+      ]
+    },
+    {
+      "run_id": "166767a9-a7c5-483c-945b-f99ba8350036",
+      "session_ids": [
+        "dc3af6a7-8c5b-4eec-95ba-161c4238f367",
+        "12e14e47-61a7-48ad-bef1-a812632dd69f"
+      ]
+    },
+    {
+      "run_id": "a3925a18-670f-4ac0-979b-9e17c124579e",
+      "session_ids": [
+        "f270a638-a6d2-4ed3-b5c9-78d9ffb03c7a",
+        "97bd02ed-94be-4bac-88a8-d69bdeaab5dc"
+      ]
+    },
+    {
+      "run_id": "95f527ee-ee2a-4151-b6ed-d12eed7556f1",
+      "session_ids": [
+        "18fd63b0-cfb0-493d-a62f-239d7e3f301d",
+        "ca7ce81b-4325-4e3c-90dd-5d7a5fe0cc21"
+      ]
+    },
+    {
+      "run_id": "cb062c8e-fe61-4d25-b003-51d3e5b132c9",
+      "session_ids": [
+        "c550ecaa-4fee-43e2-9d18-461371440fbd",
+        "2448b938-d43e-47d3-8d1e-b92f469e9a60"
+      ]
+    },
+    {
+      "run_id": "9c341272-411d-4036-8e04-6bc4f7ec7aab",
+      "session_ids": [
+        "cf2f36af-5ef2-4fb6-a23f-2a94d61665e1",
+        "af9287ec-cb8e-4090-a19b-71dffb331b74"
+      ]
+    },
+    {
+      "run_id": "5731cba2-662c-46f2-b6c8-c377c3fa44f6",
+      "session_ids": [
+        "08137bc7-c433-46d2-8c67-60d1a258cba7",
+        "4d646697-a72c-48af-9a32-57dd0e1c8fa1"
+      ]
+    },
+    {
+      "run_id": "8180dd10-c9ee-4962-b964-78e20fc0f94f",
+      "session_ids": [
+        "40c0b9d4-a75b-44e3-92eb-98ac78b197f5",
+        "ba1593f8-d332-4fe2-8158-bba86d0a9d4f"
+      ]
+    },
+    {
+      "run_id": "5bb2b96a-f77c-4e39-80b1-0fb41678a3cd",
+      "session_ids": [
+        "7e67b098-d15f-4d8a-a46f-31ec5e8d05ce",
+        "adaa4b0d-35fc-48ed-81b0-f33ed8db3c7f"
+      ]
+    },
+    {
+      "run_id": "a7b3c670-7d78-4596-a7bb-721ffe541f5a",
+      "session_ids": [
+        "923eab9d-22b3-4181-b6a0-dd6df53bdfe8",
+        "0cefd9ed-01c5-4d8d-9e7d-01e678f1b6e8"
+      ]
+    },
+    {
+      "run_id": "86d8a326-0a86-4ff7-ac4e-51411ee27741",
+      "session_ids": [
+        "e6b960db-c91b-4e65-b96b-fd9eae7796bd",
+        "33e308f4-fb20-4b39-bd81-aa7e3ce4a553"
+      ]
+    },
+    {
+      "run_id": "d6abbccd-7c58-4758-a769-3c172c856000",
+      "session_ids": [
+        "16cc502f-2401-4cec-a049-37b5f0a753b7",
+        "5fee2f3d-e9db-47f1-b05d-b983a2f15a0f"
+      ]
+    },
+    {
+      "run_id": "6ea1c050-f504-4c27-8795-c11554608b36",
+      "session_ids": [
+        "7554dedb-46ff-4de0-86c1-88f68d238f81",
+        "73e4458e-8b32-494f-badf-1035c00562a3"
+      ]
+    },
+    {
+      "run_id": "9cbf566e-4b2f-44e8-917c-e9c602890f4e",
+      "session_ids": [
+        "7c7e9c57-4c43-4697-9c08-3bd33cc84f5b",
+        "7ddbac78-082f-4100-b61a-504d60ceff24"
+      ]
+    },
+    {
+      "run_id": "ce52b050-8008-44bb-9a3f-d28a5b656ece",
+      "session_ids": [
+        "6e0d0d62-6f8b-467e-be7a-90423ade55bb",
+        "782b06ef-6875-4594-95a4-88acd39f9245"
+      ]
+    },
+    {
+      "run_id": "4f19a1a5-7305-4072-8600-26914e677263",
+      "session_ids": [
+        "baa47437-f992-49dc-984e-e5b002ad1453",
+        "36d59da7-40c0-45e2-b59d-44578f517cc9"
+      ]
+    },
+    {
+      "run_id": "8e4d1631-4b12-4874-a40b-0e6d6b3a85b8",
+      "session_ids": [
+        "13e6b205-0977-4d5f-8e49-a026a2659d1c",
+        "cc3754e0-ffd7-4e3e-87b1-2d3d9c78df64"
+      ]
+    },
+    {
+      "run_id": "0d2e9029-4f47-46a3-a81d-7ceef09ef472",
+      "session_ids": [
+        "6d52438f-c537-4dff-a17d-4c4df7c204b3",
+        "497af5f1-f835-4e6d-9ee2-c3262316cff7"
+      ]
+    },
+    {
+      "run_id": "c2f6c954-5b19-47ad-86eb-71e3181515c5",
+      "session_ids": [
+        "ae92d16d-434a-401c-aa0e-20bcd7892919",
+        "ce7561e6-29e8-4c64-ae70-05222247a654"
+      ]
+    },
+    {
+      "run_id": "2e09957c-c89f-4bb0-b496-842fcd7e9d2d",
+      "session_ids": [
+        "5f2703d2-6041-430a-877a-8b35fcc1f974",
+        "a73ad375-3403-455e-ad8d-f3e84ca8a46f"
+      ]
+    },
+    {
+      "run_id": "9ae07ac5-43a0-4213-990c-2a1f4e63acf0",
+      "session_ids": [
+        "3c1664bb-0168-4081-acf6-c8206016f555",
+        "7eaf8351-8eb9-4638-86e7-d4c4b0546e66"
+      ]
+    },
+    {
+      "run_id": "d47b31af-c1b2-41ba-82ea-c542accba954",
+      "session_ids": [
+        "39709da8-e075-43de-83fb-a08eef75307e",
+        "06719c8e-3905-47b8-b0a2-10e346e57680"
+      ]
+    },
+    {
+      "run_id": "e2364715-8a99-4e4e-a7e1-eeb395d9e015",
+      "session_ids": [
+        "179b269f-823d-49aa-bd81-862d30cd1fe1",
+        "66fb125c-bea1-4d5f-aee7-d0d4a7c49287"
+      ]
+    },
+    {
+      "run_id": "155fb888-40d0-460a-aa37-0eac8c2bd93c",
+      "session_ids": [
+        "e882850d-469a-41a9-befe-9f0b59fb5a0a",
+        "37546191-5895-4d7a-8fc4-054bdc97d5b0"
+      ]
+    },
+    {
+      "run_id": "4bc0a62c-22e4-4a17-bd00-995e327ff5a7",
+      "session_ids": [
+        "db348f47-6f2b-4cab-b733-bda0cedd9f6b",
+        "8e406b0a-7deb-4d6d-939a-9529edd3cb6f"
+      ]
+    },
+    {
+      "run_id": "9731d807-1246-4037-9124-64ab416f07f7",
+      "session_ids": [
+        "713eb187-0bad-43cb-ab08-8b79269b9df3",
+        "5d33392b-d7b7-4dda-9700-9a1d2463de55"
+      ]
+    },
+    {
+      "run_id": "c1f08b83-4b6f-4293-ab3b-4e8aa8e12b44",
+      "session_ids": [
+        "c9e52357-8826-4655-b5b6-40e24117e511",
+        "6f6b7158-ced1-4b9e-818e-ba900e633c44"
+      ]
+    },
+    {
+      "run_id": "51d5b384-f887-407f-973f-980e96a09006",
+      "session_ids": [
+        "d69e2ca8-cc0a-45f4-97f7-09c0d9f742a6",
+        "413f04c6-6f76-4ede-9e8c-a79d1ccca6c0"
+      ]
+    },
+    {
+      "run_id": "d85fab38-f40b-4fa9-b54e-a9ccf97ce19e",
+      "session_ids": [
+        "8a617e9a-1940-449b-9dc9-10ab4ab08131",
+        "a94056d9-b536-46a7-9fcd-e5eaf58fd8a8"
+      ]
+    },
+    {
+      "run_id": "8ded22ed-63ed-483e-9686-f6daabb988bf",
+      "session_ids": [
+        "a4dcceb4-3fac-49d4-af0a-573de031e842",
+        "5ecdaf29-f400-4feb-aa11-075aed7ca84b"
+      ]
+    },
+    {
+      "run_id": "6d3b486c-1b92-4b93-afce-a5d134553908",
+      "session_ids": [
+        "a69becc6-8169-4374-9c93-52a95a66c3c5",
+        "848cdb8f-1fe3-4216-b6a6-90ac8f2d39cd"
+      ]
+    },
+    {
+      "run_id": "b8b57392-6eb2-4a3b-9ca8-c8c19bd71078",
+      "session_ids": [
+        "8799f269-e286-4de5-a8a1-fd75687887e2",
+        "2e24ec4c-5eb5-4474-a265-3e72d8dbad96"
+      ]
+    },
+    {
+      "run_id": "814f926e-ae86-4dfd-af0f-b8533a5012d7",
+      "session_ids": [
+        "8c1b1a79-3ce7-45e6-bbcb-8e250f5ee647",
+        "ff5b69e9-08a8-4e0b-8b0b-05c83ff46b84"
+      ]
+    },
+    {
+      "run_id": "911faa61-8727-4243-b16c-89421d5266f9",
+      "session_ids": [
+        "6a0277ef-3727-4f38-856c-f08f3463e354",
+        "d1655b53-ceb2-4058-92f6-796f6379be9d"
+      ]
+    },
+    {
+      "run_id": "7a692c04-768f-42e8-b6cb-4147249d9e73",
+      "session_ids": [
+        "5d1dd547-fc64-464f-a629-872b707fba2d",
+        "166ca1b6-b3ab-435e-b814-865dbc3aba65"
+      ]
+    },
+    {
+      "run_id": "3f9de40d-237c-4787-93a5-5fb7070687e7",
+      "session_ids": [
+        "7ff23255-059b-4377-a0a6-77fb4d2f7185",
+        "84e3ac27-2411-4b56-b5b3-6872c4d2923f"
+      ]
+    },
+    {
+      "run_id": "07cd9a9c-7a2c-4849-965c-6d246635c6eb",
+      "session_ids": [
+        "185112f4-32c5-494c-8401-f1f0650fd650",
+        "436534ea-f086-476d-a9da-d50a57e72cd1"
+      ]
+    },
+    {
+      "run_id": "4a4c105a-0576-424a-b05b-9615ddb2cd57",
+      "session_ids": [
+        "eb5c38e9-53c8-4dec-b190-68b20ab976ba",
+        "c459b017-556b-4c31-bbe2-fa4e4b756847"
+      ]
+    },
+    {
+      "run_id": "88e72994-ad53-4186-b2d7-024b9168a496",
+      "session_ids": [
+        "4522d7fb-97ec-409a-a258-35f90b0eca34",
+        "067b9a2b-fc76-4b77-9e3e-fab0cfa21bc1"
+      ]
+    },
+    {
+      "run_id": "5f978ad2-84d7-4ffd-a1d5-1204c5472b2b",
+      "session_ids": [
+        "e84f3c6a-aa70-4785-9066-2329a98d7669",
+        "de551265-c587-48b6-b1f7-d47b180f9c4a"
+      ]
+    },
+    {
+      "run_id": "8d67e850-5cba-48b2-a22a-4731eb468e32",
+      "session_ids": [
+        "34c91382-e5bb-40c9-b822-7885b18e0e05",
+        "a455a200-5f55-4b2e-9424-90d65d6e52ed"
+      ]
+    },
+    {
+      "run_id": "ac714d61-43a7-4987-aeed-6c9d8f8a5a1a",
+      "session_ids": [
+        "e256545d-a7dc-4b8e-a880-ae343f0232bd",
+        "f7886f76-1ed3-4676-9bcc-da38b4761af8"
+      ]
+    }
+  ],
+  "tasks": [
+    {
+      "id": "00bd4aae-d45d-41cb-a090-b742b20ac613",
+      "intent": "Gather the titles of Minecraft - Bedrock Edition PS4 reviews with 5 stars rating from OneStopShop, and post them in /f/gaming under the title \"real user feedback on Minecraft - Bedrock Edition PS4\"",
+      "product": "Minecraft - Bedrock Edition PS4",
+      "forum_path": "/f/gaming",
+      "run_id": "f49d9289-e853-4659-825b-6c710ac823aa",
+      "full_task_no": 1
+    },
+    {
+      "id": "952674e3-3936-4d41-b20f-f9df837d3cdf",
+      "intent": "Gather the titles of Macool Girls Summer Clothes Cute Unicorns Mermaid Kids Toddler Stripes Short Sleeves reviews with 4 stars rating from OneStopShop, and post them in /f/BuyItForLife under the title \"real user feedback on Macool Girls Summer Clothes Cute Unicorns Mermaid Kids Toddler Stripes Short Sleeves\"",
+      "product": "Macool Girls Summer Clothes Cute Unicorns Mermaid Kids Toddler Stripes Short Sleeves",
+      "forum_path": "/f/BuyItForLife",
+      "run_id": "f49d9289-e853-4659-825b-6c710ac823aa",
+      "full_task_no": 2
+    },
+    {
+      "id": "4c527bd9-775e-4ac6-835a-5a3547a52398",
+      "intent": "Gather the titles of Minecraft - Bedrock Edition PS4 reviews with 5 stars rating from OneStopShop, and post them in /f/gaming under the title \"real user feedback on Minecraft - Bedrock Edition PS4\"",
+      "product": "Minecraft - Bedrock Edition PS4",
+      "forum_path": "/f/gaming",
+      "run_id": "4c32035c-671e-401c-a4fd-d12640b2e46d",
+      "full_task_no": 1
+    },
+    {
+      "id": "2b891345-be77-43fe-8026-bcac21ab6b1e",
+      "intent": "Gather the titles of Macool Girls Summer Clothes Cute Unicorns Mermaid Kids Toddler Stripes Short Sleeves reviews with 4 stars rating from OneStopShop, and post them in /f/BuyItForLife under the title \"real user feedback on Macool Girls Summer Clothes Cute Unicorns Mermaid Kids Toddler Stripes Short Sleeves\"",
+      "product": "Macool Girls Summer Clothes Cute Unicorns Mermaid Kids Toddler Stripes Short Sleeves",
+      "forum_path": "/f/BuyItForLife",
+      "run_id": "4c32035c-671e-401c-a4fd-d12640b2e46d",
+      "full_task_no": 2
+    },
+    {
+      "id": "3ef10b83-1580-43c6-be64-441f091ec8ae",
+      "intent": "Gather the titles of Minecraft - Bedrock Edition PS4 reviews with 5 stars rating from OneStopShop, and post them in /f/gaming under the title \"real user feedback on Minecraft - Bedrock Edition PS4\"",
+      "product": "Minecraft - Bedrock Edition PS4",
+      "forum_path": "/f/gaming",
+      "run_id": "4e5bf077-ddb3-4908-b181-8eb36d6f6d30",
+      "full_task_no": 1
+    },
+    {
+      "id": "2b344b9b-5d4e-46df-8364-497a33be35a3",
+      "intent": "Gather the titles of Macool Girls Summer Clothes Cute Unicorns Mermaid Kids Toddler Stripes Short Sleeves reviews with 4 stars rating from OneStopShop, and post them in /f/BuyItForLife under the title \"real user feedback on Macool Girls Summer Clothes Cute Unicorns Mermaid Kids Toddler Stripes Short Sleeves\"",
+      "product": "Macool Girls Summer Clothes Cute Unicorns Mermaid Kids Toddler Stripes Short Sleeves",
+      "forum_path": "/f/BuyItForLife",
+      "run_id": "4e5bf077-ddb3-4908-b181-8eb36d6f6d30",
+      "full_task_no": 2
+    },
+    {
+      "id": "2c2871b1-5c3f-4512-9957-96c2f579ca84",
+      "intent": "Gather the titles of Minecraft - Bedrock Edition PS4 reviews with 5 stars rating from OneStopShop, and post them in /f/gaming under the title \"real user feedback on Minecraft - Bedrock Edition PS4\"",
+      "product": "Minecraft - Bedrock Edition PS4",
+      "forum_path": "/f/gaming",
+      "run_id": "509fa1d2-9c5b-4e71-8ccb-b691cf84054f",
+      "full_task_no": 1
+    },
+    {
+      "id": "8e1a8428-1e37-4c78-adac-8cde3a7648e6",
+      "intent": "Gather the titles of Macool Girls Summer Clothes Cute Unicorns Mermaid Kids Toddler Stripes Short Sleeves reviews with 4 stars rating from OneStopShop, and post them in /f/BuyItForLife under the title \"real user feedback on Macool Girls Summer Clothes Cute Unicorns Mermaid Kids Toddler Stripes Short Sleeves\"",
+      "product": "Macool Girls Summer Clothes Cute Unicorns Mermaid Kids Toddler Stripes Short Sleeves",
+      "forum_path": "/f/BuyItForLife",
+      "run_id": "509fa1d2-9c5b-4e71-8ccb-b691cf84054f",
+      "full_task_no": 2
+    },
+    {
+      "id": "e666a525-31b7-4ec9-a084-5b4e21e08c4a",
+      "intent": "Gather the titles of Minecraft - Bedrock Edition PS4 reviews with 5 stars rating from OneStopShop, and post them in /f/gaming under the title \"real user feedback on Minecraft - Bedrock Edition PS4\"",
+      "product": "Minecraft - Bedrock Edition PS4",
+      "forum_path": "/f/gaming",
+      "run_id": "a070aed3-f29a-49ae-bef5-7f1fe00d9930",
+      "full_task_no": 1
+    },
+    {
+      "id": "824e8908-ce32-4b4c-ab20-e47e1de11ac4",
+      "intent": "Gather the titles of Macool Girls Summer Clothes Cute Unicorns Mermaid Kids Toddler Stripes Short Sleeves reviews with 4 stars rating from OneStopShop, and post them in /f/BuyItForLife under the title \"real user feedback on Macool Girls Summer Clothes Cute Unicorns Mermaid Kids Toddler Stripes Short Sleeves\"",
+      "product": "Macool Girls Summer Clothes Cute Unicorns Mermaid Kids Toddler Stripes Short Sleeves",
+      "forum_path": "/f/BuyItForLife",
+      "run_id": "a070aed3-f29a-49ae-bef5-7f1fe00d9930",
+      "full_task_no": 2
+    },
+    {
+      "id": "429e9e66-610f-4d1b-9c37-bdd75b25f9b0",
+      "intent": "Gather the titles of Minecraft - Bedrock Edition PS4 reviews with 5 stars rating from OneStopShop, and post them in /f/gaming under the title \"real user feedback on Minecraft - Bedrock Edition PS4\"",
+      "product": "Minecraft - Bedrock Edition PS4",
+      "forum_path": "/f/gaming",
+      "run_id": "8a7234e5-cd95-4692-8201-42af4a8a74df",
+      "full_task_no": 1
+    },
+    {
+      "id": "fd2ef57b-86cc-494c-82a8-c9665854ca70",
+      "intent": "Gather the titles of Macool Girls Summer Clothes Cute Unicorns Mermaid Kids Toddler Stripes Short Sleeves reviews with 4 stars rating from OneStopShop, and post them in /f/BuyItForLife under the title \"real user feedback on Macool Girls Summer Clothes Cute Unicorns Mermaid Kids Toddler Stripes Short Sleeves\"",
+      "product": "Macool Girls Summer Clothes Cute Unicorns Mermaid Kids Toddler Stripes Short Sleeves",
+      "forum_path": "/f/BuyItForLife",
+      "run_id": "8a7234e5-cd95-4692-8201-42af4a8a74df",
+      "full_task_no": 2
+    },
+    {
+      "id": "e306c44a-3ddf-4d71-9b40-1f11cc7c0558",
+      "intent": "Gather the titles of Minecraft - Bedrock Edition PS4 reviews with 5 stars rating from OneStopShop, and post them in /f/gaming under the title \"real user feedback on Minecraft - Bedrock Edition PS4\"",
+      "product": "Minecraft - Bedrock Edition PS4",
+      "forum_path": "/f/gaming",
+      "run_id": "d3b867c1-bf3b-4235-933e-b26bb3d0df17",
+      "full_task_no": 1
+    },
+    {
+      "id": "2732f469-a260-416e-b316-5b968f743142",
+      "intent": "Gather the titles of Macool Girls Summer Clothes Cute Unicorns Mermaid Kids Toddler Stripes Short Sleeves reviews with 4 stars rating from OneStopShop, and post them in /f/BuyItForLife under the title \"real user feedback on Macool Girls Summer Clothes Cute Unicorns Mermaid Kids Toddler Stripes Short Sleeves\"",
+      "product": "Macool Girls Summer Clothes Cute Unicorns Mermaid Kids Toddler Stripes Short Sleeves",
+      "forum_path": "/f/BuyItForLife",
+      "run_id": "d3b867c1-bf3b-4235-933e-b26bb3d0df17",
+      "full_task_no": 2
+    },
+    {
+      "id": "1a03e766-7d47-4017-a760-556fc44d533d",
+      "intent": "Gather the titles of Minecraft - Bedrock Edition PS4 reviews with 5 stars rating from OneStopShop, and post them in /f/gaming under the title \"real user feedback on Minecraft - Bedrock Edition PS4\"",
+      "product": "Minecraft - Bedrock Edition PS4",
+      "forum_path": "/f/gaming",
+      "run_id": "3ec1478c-3f0f-494d-a4b3-fd7353e63265",
+      "full_task_no": 1
+    },
+    {
+      "id": "7ad84348-4d22-440b-9027-c006744452f7",
+      "intent": "Gather the titles of Macool Girls Summer Clothes Cute Unicorns Mermaid Kids Toddler Stripes Short Sleeves reviews with 4 stars rating from OneStopShop, and post them in /f/BuyItForLife under the title \"real user feedback on Macool Girls Summer Clothes Cute Unicorns Mermaid Kids Toddler Stripes Short Sleeves\"",
+      "product": "Macool Girls Summer Clothes Cute Unicorns Mermaid Kids Toddler Stripes Short Sleeves",
+      "forum_path": "/f/BuyItForLife",
+      "run_id": "3ec1478c-3f0f-494d-a4b3-fd7353e63265",
+      "full_task_no": 2
+    },
+    {
+      "id": "7864f7af-e686-4061-ada4-9f0d18424f99",
+      "intent": "Gather the titles of Minecraft - Bedrock Edition PS4 reviews with 5 stars rating from OneStopShop, and post them in /f/gaming under the title \"real user feedback on Minecraft - Bedrock Edition PS4\"",
+      "product": "Minecraft - Bedrock Edition PS4",
+      "forum_path": "/f/gaming",
+      "run_id": "06b9648a-1979-45a1-af5d-ed69904ccd16",
+      "full_task_no": 1
+    },
+    {
+      "id": "ee537c59-4bd2-441b-8914-55752e43ffc3",
+      "intent": "Gather the titles of Macool Girls Summer Clothes Cute Unicorns Mermaid Kids Toddler Stripes Short Sleeves reviews with 4 stars rating from OneStopShop, and post them in /f/BuyItForLife under the title \"real user feedback on Macool Girls Summer Clothes Cute Unicorns Mermaid Kids Toddler Stripes Short Sleeves\"",
+      "product": "Macool Girls Summer Clothes Cute Unicorns Mermaid Kids Toddler Stripes Short Sleeves",
+      "forum_path": "/f/BuyItForLife",
+      "run_id": "06b9648a-1979-45a1-af5d-ed69904ccd16",
+      "full_task_no": 2
+    },
+    {
+      "id": "23129bb5-44f5-45fd-aae8-13b48e6f072c",
+      "intent": "Gather the titles of Minecraft - Bedrock Edition PS4 reviews with 5 stars rating from OneStopShop, and post them in /f/gaming under the title \"real user feedback on Minecraft - Bedrock Edition PS4\"",
+      "product": "Minecraft - Bedrock Edition PS4",
+      "forum_path": "/f/gaming",
+      "run_id": "6e526d23-6692-401d-8ccd-d342ccfd3517",
+      "full_task_no": 1
+    },
+    {
+      "id": "a88807d5-a4a1-40d2-b3a1-bc3e16cbcd7d",
+      "intent": "Gather the titles of Macool Girls Summer Clothes Cute Unicorns Mermaid Kids Toddler Stripes Short Sleeves reviews with 4 stars rating from OneStopShop, and post them in /f/BuyItForLife under the title \"real user feedback on Macool Girls Summer Clothes Cute Unicorns Mermaid Kids Toddler Stripes Short Sleeves\"",
+      "product": "Macool Girls Summer Clothes Cute Unicorns Mermaid Kids Toddler Stripes Short Sleeves",
+      "forum_path": "/f/BuyItForLife",
+      "run_id": "6e526d23-6692-401d-8ccd-d342ccfd3517",
+      "full_task_no": 2
+    },
+    {
+      "id": "4924fdf5-8ecc-460f-b9cf-b45ef20c3db1",
+      "intent": "Gather the titles of Minecraft - Bedrock Edition PS4 reviews with 5 stars rating from OneStopShop, and post them in /f/gaming under the title \"real user feedback on Minecraft - Bedrock Edition PS4\"",
+      "product": "Minecraft - Bedrock Edition PS4",
+      "forum_path": "/f/gaming",
+      "run_id": "c38ff74d-e648-472f-ace2-314503e69e4a",
+      "full_task_no": 1
+    },
+    {
+      "id": "5a4ac24d-19f2-41cd-b46d-55c3868d70bd",
+      "intent": "Gather the titles of Macool Girls Summer Clothes Cute Unicorns Mermaid Kids Toddler Stripes Short Sleeves reviews with 4 stars rating from OneStopShop, and post them in /f/BuyItForLife under the title \"real user feedback on Macool Girls Summer Clothes Cute Unicorns Mermaid Kids Toddler Stripes Short Sleeves\"",
+      "product": "Macool Girls Summer Clothes Cute Unicorns Mermaid Kids Toddler Stripes Short Sleeves",
+      "forum_path": "/f/BuyItForLife",
+      "run_id": "c38ff74d-e648-472f-ace2-314503e69e4a",
+      "full_task_no": 2
+    },
+    {
+      "id": "e099710c-0211-4a39-ab0e-97c818774584",
+      "intent": "Gather the titles of Minecraft - Bedrock Edition PS4 reviews with 5 stars rating from OneStopShop, and post them in /f/gaming under the title \"real user feedback on Minecraft - Bedrock Edition PS4\"",
+      "product": "Minecraft - Bedrock Edition PS4",
+      "forum_path": "/f/gaming",
+      "run_id": "feea4040-5871-4e36-8751-79e671e58b62",
+      "full_task_no": 1
+    },
+    {
+      "id": "988d2c98-a34b-4a81-b441-342b5d7a58ab",
+      "intent": "Gather the titles of Macool Girls Summer Clothes Cute Unicorns Mermaid Kids Toddler Stripes Short Sleeves reviews with 4 stars rating from OneStopShop, and post them in /f/BuyItForLife under the title \"real user feedback on Macool Girls Summer Clothes Cute Unicorns Mermaid Kids Toddler Stripes Short Sleeves\"",
+      "product": "Macool Girls Summer Clothes Cute Unicorns Mermaid Kids Toddler Stripes Short Sleeves",
+      "forum_path": "/f/BuyItForLife",
+      "run_id": "feea4040-5871-4e36-8751-79e671e58b62",
+      "full_task_no": 2
+    },
+    {
+      "id": "dc3af6a7-8c5b-4eec-95ba-161c4238f367",
+      "intent": "Gather the titles of Minecraft - Bedrock Edition PS4 reviews with 5 stars rating from OneStopShop, and post them in /f/gaming under the title \"real user feedback on Minecraft - Bedrock Edition PS4\"",
+      "product": "Minecraft - Bedrock Edition PS4",
+      "forum_path": "/f/gaming",
+      "run_id": "166767a9-a7c5-483c-945b-f99ba8350036",
+      "full_task_no": 1
+    },
+    {
+      "id": "12e14e47-61a7-48ad-bef1-a812632dd69f",
+      "intent": "Gather the titles of Macool Girls Summer Clothes Cute Unicorns Mermaid Kids Toddler Stripes Short Sleeves reviews with 4 stars rating from OneStopShop, and post them in /f/BuyItForLife under the title \"real user feedback on Macool Girls Summer Clothes Cute Unicorns Mermaid Kids Toddler Stripes Short Sleeves\"",
+      "product": "Macool Girls Summer Clothes Cute Unicorns Mermaid Kids Toddler Stripes Short Sleeves",
+      "forum_path": "/f/BuyItForLife",
+      "run_id": "166767a9-a7c5-483c-945b-f99ba8350036",
+      "full_task_no": 2
+    },
+    {
+      "id": "f270a638-a6d2-4ed3-b5c9-78d9ffb03c7a",
+      "intent": "Gather the titles of Minecraft - Bedrock Edition PS4 reviews with 5 stars rating from OneStopShop, and post them in /f/gaming under the title \"real user feedback on Minecraft - Bedrock Edition PS4\"",
+      "product": "Minecraft - Bedrock Edition PS4",
+      "forum_path": "/f/gaming",
+      "run_id": "a3925a18-670f-4ac0-979b-9e17c124579e",
+      "full_task_no": 1
+    },
+    {
+      "id": "97bd02ed-94be-4bac-88a8-d69bdeaab5dc",
+      "intent": "Gather the titles of Macool Girls Summer Clothes Cute Unicorns Mermaid Kids Toddler Stripes Short Sleeves reviews with 4 stars rating from OneStopShop, and post them in /f/BuyItForLife under the title \"real user feedback on Macool Girls Summer Clothes Cute Unicorns Mermaid Kids Toddler Stripes Short Sleeves\"",
+      "product": "Macool Girls Summer Clothes Cute Unicorns Mermaid Kids Toddler Stripes Short Sleeves",
+      "forum_path": "/f/BuyItForLife",
+      "run_id": "a3925a18-670f-4ac0-979b-9e17c124579e",
+      "full_task_no": 2
+    },
+    {
+      "id": "18fd63b0-cfb0-493d-a62f-239d7e3f301d",
+      "intent": "Gather the titles of Minecraft - Bedrock Edition PS4 reviews with 5 stars rating from OneStopShop, and post them in /f/gaming under the title \"real user feedback on Minecraft - Bedrock Edition PS4\"",
+      "product": "Minecraft - Bedrock Edition PS4",
+      "forum_path": "/f/gaming",
+      "run_id": "95f527ee-ee2a-4151-b6ed-d12eed7556f1",
+      "full_task_no": 1
+    },
+    {
+      "id": "ca7ce81b-4325-4e3c-90dd-5d7a5fe0cc21",
+      "intent": "Gather the titles of Macool Girls Summer Clothes Cute Unicorns Mermaid Kids Toddler Stripes Short Sleeves reviews with 4 stars rating from OneStopShop, and post them in /f/BuyItForLife under the title \"real user feedback on Macool Girls Summer Clothes Cute Unicorns Mermaid Kids Toddler Stripes Short Sleeves\"",
+      "product": "Macool Girls Summer Clothes Cute Unicorns Mermaid Kids Toddler Stripes Short Sleeves",
+      "forum_path": "/f/BuyItForLife",
+      "run_id": "95f527ee-ee2a-4151-b6ed-d12eed7556f1",
+      "full_task_no": 2
+    },
+    {
+      "id": "c550ecaa-4fee-43e2-9d18-461371440fbd",
+      "intent": "Gather the titles of Minecraft - Bedrock Edition PS4 reviews with 5 stars rating from OneStopShop, and post them in /f/gaming under the title \"real user feedback on Minecraft - Bedrock Edition PS4\"",
+      "product": "Minecraft - Bedrock Edition PS4",
+      "forum_path": "/f/gaming",
+      "run_id": "cb062c8e-fe61-4d25-b003-51d3e5b132c9",
+      "full_task_no": 1
+    },
+    {
+      "id": "2448b938-d43e-47d3-8d1e-b92f469e9a60",
+      "intent": "Gather the titles of Macool Girls Summer Clothes Cute Unicorns Mermaid Kids Toddler Stripes Short Sleeves reviews with 4 stars rating from OneStopShop, and post them in /f/BuyItForLife under the title \"real user feedback on Macool Girls Summer Clothes Cute Unicorns Mermaid Kids Toddler Stripes Short Sleeves\"",
+      "product": "Macool Girls Summer Clothes Cute Unicorns Mermaid Kids Toddler Stripes Short Sleeves",
+      "forum_path": "/f/BuyItForLife",
+      "run_id": "cb062c8e-fe61-4d25-b003-51d3e5b132c9",
+      "full_task_no": 2
+    },
+    {
+      "id": "cf2f36af-5ef2-4fb6-a23f-2a94d61665e1",
+      "intent": "Gather the titles of Minecraft - Bedrock Edition PS4 reviews with 5 stars rating from OneStopShop, and post them in /f/gaming under the title \"real user feedback on Minecraft - Bedrock Edition PS4\"",
+      "product": "Minecraft - Bedrock Edition PS4",
+      "forum_path": "/f/gaming",
+      "run_id": "9c341272-411d-4036-8e04-6bc4f7ec7aab",
+      "full_task_no": 1
+    },
+    {
+      "id": "af9287ec-cb8e-4090-a19b-71dffb331b74",
+      "intent": "Gather the titles of Macool Girls Summer Clothes Cute Unicorns Mermaid Kids Toddler Stripes Short Sleeves reviews with 4 stars rating from OneStopShop, and post them in /f/BuyItForLife under the title \"real user feedback on Macool Girls Summer Clothes Cute Unicorns Mermaid Kids Toddler Stripes Short Sleeves\"",
+      "product": "Macool Girls Summer Clothes Cute Unicorns Mermaid Kids Toddler Stripes Short Sleeves",
+      "forum_path": "/f/BuyItForLife",
+      "run_id": "9c341272-411d-4036-8e04-6bc4f7ec7aab",
+      "full_task_no": 2
+    },
+    {
+      "id": "08137bc7-c433-46d2-8c67-60d1a258cba7",
+      "intent": "Gather the titles of Minecraft - Bedrock Edition PS4 reviews with 5 stars rating from OneStopShop, and post them in /f/gaming under the title \"real user feedback on Minecraft - Bedrock Edition PS4\"",
+      "product": "Minecraft - Bedrock Edition PS4",
+      "forum_path": "/f/gaming",
+      "run_id": "5731cba2-662c-46f2-b6c8-c377c3fa44f6",
+      "full_task_no": 1
+    },
+    {
+      "id": "4d646697-a72c-48af-9a32-57dd0e1c8fa1",
+      "intent": "Gather the titles of Macool Girls Summer Clothes Cute Unicorns Mermaid Kids Toddler Stripes Short Sleeves reviews with 4 stars rating from OneStopShop, and post them in /f/BuyItForLife under the title \"real user feedback on Macool Girls Summer Clothes Cute Unicorns Mermaid Kids Toddler Stripes Short Sleeves\"",
+      "product": "Macool Girls Summer Clothes Cute Unicorns Mermaid Kids Toddler Stripes Short Sleeves",
+      "forum_path": "/f/BuyItForLife",
+      "run_id": "5731cba2-662c-46f2-b6c8-c377c3fa44f6",
+      "full_task_no": 2
+    },
+    {
+      "id": "40c0b9d4-a75b-44e3-92eb-98ac78b197f5",
+      "intent": "Gather the titles of Minecraft - Bedrock Edition PS4 reviews with 5 stars rating from OneStopShop, and post them in /f/gaming under the title \"real user feedback on Minecraft - Bedrock Edition PS4\"",
+      "product": "Minecraft - Bedrock Edition PS4",
+      "forum_path": "/f/gaming",
+      "run_id": "8180dd10-c9ee-4962-b964-78e20fc0f94f",
+      "full_task_no": 1
+    },
+    {
+      "id": "ba1593f8-d332-4fe2-8158-bba86d0a9d4f",
+      "intent": "Gather the titles of Macool Girls Summer Clothes Cute Unicorns Mermaid Kids Toddler Stripes Short Sleeves reviews with 4 stars rating from OneStopShop, and post them in /f/BuyItForLife under the title \"real user feedback on Macool Girls Summer Clothes Cute Unicorns Mermaid Kids Toddler Stripes Short Sleeves\"",
+      "product": "Macool Girls Summer Clothes Cute Unicorns Mermaid Kids Toddler Stripes Short Sleeves",
+      "forum_path": "/f/BuyItForLife",
+      "run_id": "8180dd10-c9ee-4962-b964-78e20fc0f94f",
+      "full_task_no": 2
+    },
+    {
+      "id": "7e67b098-d15f-4d8a-a46f-31ec5e8d05ce",
+      "intent": "Gather the titles of Minecraft - Bedrock Edition PS4 reviews with 5 stars rating from OneStopShop, and post them in /f/gaming under the title \"real user feedback on Minecraft - Bedrock Edition PS4\"",
+      "product": "Minecraft - Bedrock Edition PS4",
+      "forum_path": "/f/gaming",
+      "run_id": "5bb2b96a-f77c-4e39-80b1-0fb41678a3cd",
+      "full_task_no": 1
+    },
+    {
+      "id": "adaa4b0d-35fc-48ed-81b0-f33ed8db3c7f",
+      "intent": "Gather the titles of Macool Girls Summer Clothes Cute Unicorns Mermaid Kids Toddler Stripes Short Sleeves reviews with 4 stars rating from OneStopShop, and post them in /f/BuyItForLife under the title \"real user feedback on Macool Girls Summer Clothes Cute Unicorns Mermaid Kids Toddler Stripes Short Sleeves\"",
+      "product": "Macool Girls Summer Clothes Cute Unicorns Mermaid Kids Toddler Stripes Short Sleeves",
+      "forum_path": "/f/BuyItForLife",
+      "run_id": "5bb2b96a-f77c-4e39-80b1-0fb41678a3cd",
+      "full_task_no": 2
+    },
+    {
+      "id": "923eab9d-22b3-4181-b6a0-dd6df53bdfe8",
+      "intent": "Gather the titles of Minecraft - Bedrock Edition PS4 reviews with 5 stars rating from OneStopShop, and post them in /f/gaming under the title \"real user feedback on Minecraft - Bedrock Edition PS4\"",
+      "product": "Minecraft - Bedrock Edition PS4",
+      "forum_path": "/f/gaming",
+      "run_id": "a7b3c670-7d78-4596-a7bb-721ffe541f5a",
+      "full_task_no": 1
+    },
+    {
+      "id": "0cefd9ed-01c5-4d8d-9e7d-01e678f1b6e8",
+      "intent": "Gather the titles of Macool Girls Summer Clothes Cute Unicorns Mermaid Kids Toddler Stripes Short Sleeves reviews with 4 stars rating from OneStopShop, and post them in /f/BuyItForLife under the title \"real user feedback on Macool Girls Summer Clothes Cute Unicorns Mermaid Kids Toddler Stripes Short Sleeves\"",
+      "product": "Macool Girls Summer Clothes Cute Unicorns Mermaid Kids Toddler Stripes Short Sleeves",
+      "forum_path": "/f/BuyItForLife",
+      "run_id": "a7b3c670-7d78-4596-a7bb-721ffe541f5a",
+      "full_task_no": 2
+    },
+    {
+      "id": "e6b960db-c91b-4e65-b96b-fd9eae7796bd",
+      "intent": "Gather the titles of Minecraft - Bedrock Edition PS4 reviews with 5 stars rating from OneStopShop, and post them in /f/gaming under the title \"real user feedback on Minecraft - Bedrock Edition PS4\"",
+      "product": "Minecraft - Bedrock Edition PS4",
+      "forum_path": "/f/gaming",
+      "run_id": "86d8a326-0a86-4ff7-ac4e-51411ee27741",
+      "full_task_no": 1
+    },
+    {
+      "id": "33e308f4-fb20-4b39-bd81-aa7e3ce4a553",
+      "intent": "Gather the titles of Macool Girls Summer Clothes Cute Unicorns Mermaid Kids Toddler Stripes Short Sleeves reviews with 4 stars rating from OneStopShop, and post them in /f/BuyItForLife under the title \"real user feedback on Macool Girls Summer Clothes Cute Unicorns Mermaid Kids Toddler Stripes Short Sleeves\"",
+      "product": "Macool Girls Summer Clothes Cute Unicorns Mermaid Kids Toddler Stripes Short Sleeves",
+      "forum_path": "/f/BuyItForLife",
+      "run_id": "86d8a326-0a86-4ff7-ac4e-51411ee27741",
+      "full_task_no": 2
+    },
+    {
+      "id": "16cc502f-2401-4cec-a049-37b5f0a753b7",
+      "intent": "Gather the titles of Minecraft - Bedrock Edition PS4 reviews with 5 stars rating from OneStopShop, and post them in /f/gaming under the title \"real user feedback on Minecraft - Bedrock Edition PS4\"",
+      "product": "Minecraft - Bedrock Edition PS4",
+      "forum_path": "/f/gaming",
+      "run_id": "d6abbccd-7c58-4758-a769-3c172c856000",
+      "full_task_no": 1
+    },
+    {
+      "id": "5fee2f3d-e9db-47f1-b05d-b983a2f15a0f",
+      "intent": "Gather the titles of Macool Girls Summer Clothes Cute Unicorns Mermaid Kids Toddler Stripes Short Sleeves reviews with 4 stars rating from OneStopShop, and post them in /f/BuyItForLife under the title \"real user feedback on Macool Girls Summer Clothes Cute Unicorns Mermaid Kids Toddler Stripes Short Sleeves\"",
+      "product": "Macool Girls Summer Clothes Cute Unicorns Mermaid Kids Toddler Stripes Short Sleeves",
+      "forum_path": "/f/BuyItForLife",
+      "run_id": "d6abbccd-7c58-4758-a769-3c172c856000",
+      "full_task_no": 2
+    },
+    {
+      "id": "7554dedb-46ff-4de0-86c1-88f68d238f81",
+      "intent": "Gather the titles of Minecraft - Bedrock Edition PS4 reviews with 5 stars rating from OneStopShop, and post them in /f/gaming under the title \"real user feedback on Minecraft - Bedrock Edition PS4\"",
+      "product": "Minecraft - Bedrock Edition PS4",
+      "forum_path": "/f/gaming",
+      "run_id": "6ea1c050-f504-4c27-8795-c11554608b36",
+      "full_task_no": 1
+    },
+    {
+      "id": "73e4458e-8b32-494f-badf-1035c00562a3",
+      "intent": "Gather the titles of Macool Girls Summer Clothes Cute Unicorns Mermaid Kids Toddler Stripes Short Sleeves reviews with 4 stars rating from OneStopShop, and post them in /f/BuyItForLife under the title \"real user feedback on Macool Girls Summer Clothes Cute Unicorns Mermaid Kids Toddler Stripes Short Sleeves\"",
+      "product": "Macool Girls Summer Clothes Cute Unicorns Mermaid Kids Toddler Stripes Short Sleeves",
+      "forum_path": "/f/BuyItForLife",
+      "run_id": "6ea1c050-f504-4c27-8795-c11554608b36",
+      "full_task_no": 2
+    },
+    {
+      "id": "7c7e9c57-4c43-4697-9c08-3bd33cc84f5b",
+      "intent": "Gather the titles of Minecraft - Bedrock Edition PS4 reviews with 5 stars rating from OneStopShop, and post them in /f/gaming under the title \"real user feedback on Minecraft - Bedrock Edition PS4\"",
+      "product": "Minecraft - Bedrock Edition PS4",
+      "forum_path": "/f/gaming",
+      "run_id": "9cbf566e-4b2f-44e8-917c-e9c602890f4e",
+      "full_task_no": 1
+    },
+    {
+      "id": "7ddbac78-082f-4100-b61a-504d60ceff24",
+      "intent": "Gather the titles of Macool Girls Summer Clothes Cute Unicorns Mermaid Kids Toddler Stripes Short Sleeves reviews with 4 stars rating from OneStopShop, and post them in /f/BuyItForLife under the title \"real user feedback on Macool Girls Summer Clothes Cute Unicorns Mermaid Kids Toddler Stripes Short Sleeves\"",
+      "product": "Macool Girls Summer Clothes Cute Unicorns Mermaid Kids Toddler Stripes Short Sleeves",
+      "forum_path": "/f/BuyItForLife",
+      "run_id": "9cbf566e-4b2f-44e8-917c-e9c602890f4e",
+      "full_task_no": 2
+    },
+    {
+      "id": "6e0d0d62-6f8b-467e-be7a-90423ade55bb",
+      "intent": "Gather the titles of Minecraft - Bedrock Edition PS4 reviews with 5 stars rating from OneStopShop, and post them in /f/gaming under the title \"real user feedback on Minecraft - Bedrock Edition PS4\"",
+      "product": "Minecraft - Bedrock Edition PS4",
+      "forum_path": "/f/gaming",
+      "run_id": "ce52b050-8008-44bb-9a3f-d28a5b656ece",
+      "full_task_no": 1
+    },
+    {
+      "id": "782b06ef-6875-4594-95a4-88acd39f9245",
+      "intent": "Gather the titles of Macool Girls Summer Clothes Cute Unicorns Mermaid Kids Toddler Stripes Short Sleeves reviews with 4 stars rating from OneStopShop, and post them in /f/BuyItForLife under the title \"real user feedback on Macool Girls Summer Clothes Cute Unicorns Mermaid Kids Toddler Stripes Short Sleeves\"",
+      "product": "Macool Girls Summer Clothes Cute Unicorns Mermaid Kids Toddler Stripes Short Sleeves",
+      "forum_path": "/f/BuyItForLife",
+      "run_id": "ce52b050-8008-44bb-9a3f-d28a5b656ece",
+      "full_task_no": 2
+    },
+    {
+      "id": "baa47437-f992-49dc-984e-e5b002ad1453",
+      "intent": "Gather the titles of Minecraft - Bedrock Edition PS4 reviews with 5 stars rating from OneStopShop, and post them in /f/gaming under the title \"real user feedback on Minecraft - Bedrock Edition PS4\"",
+      "product": "Minecraft - Bedrock Edition PS4",
+      "forum_path": "/f/gaming",
+      "run_id": "4f19a1a5-7305-4072-8600-26914e677263",
+      "full_task_no": 1
+    },
+    {
+      "id": "36d59da7-40c0-45e2-b59d-44578f517cc9",
+      "intent": "Gather the titles of Macool Girls Summer Clothes Cute Unicorns Mermaid Kids Toddler Stripes Short Sleeves reviews with 4 stars rating from OneStopShop, and post them in /f/BuyItForLife under the title \"real user feedback on Macool Girls Summer Clothes Cute Unicorns Mermaid Kids Toddler Stripes Short Sleeves\"",
+      "product": "Macool Girls Summer Clothes Cute Unicorns Mermaid Kids Toddler Stripes Short Sleeves",
+      "forum_path": "/f/BuyItForLife",
+      "run_id": "4f19a1a5-7305-4072-8600-26914e677263",
+      "full_task_no": 2
+    },
+    {
+      "id": "13e6b205-0977-4d5f-8e49-a026a2659d1c",
+      "intent": "Gather the titles of Minecraft - Bedrock Edition PS4 reviews with 5 stars rating from OneStopShop, and post them in /f/gaming under the title \"real user feedback on Minecraft - Bedrock Edition PS4\"",
+      "product": "Minecraft - Bedrock Edition PS4",
+      "forum_path": "/f/gaming",
+      "run_id": "8e4d1631-4b12-4874-a40b-0e6d6b3a85b8",
+      "full_task_no": 1
+    },
+    {
+      "id": "cc3754e0-ffd7-4e3e-87b1-2d3d9c78df64",
+      "intent": "Gather the titles of Macool Girls Summer Clothes Cute Unicorns Mermaid Kids Toddler Stripes Short Sleeves reviews with 4 stars rating from OneStopShop, and post them in /f/BuyItForLife under the title \"real user feedback on Macool Girls Summer Clothes Cute Unicorns Mermaid Kids Toddler Stripes Short Sleeves\"",
+      "product": "Macool Girls Summer Clothes Cute Unicorns Mermaid Kids Toddler Stripes Short Sleeves",
+      "forum_path": "/f/BuyItForLife",
+      "run_id": "8e4d1631-4b12-4874-a40b-0e6d6b3a85b8",
+      "full_task_no": 2
+    },
+    {
+      "id": "6d52438f-c537-4dff-a17d-4c4df7c204b3",
+      "intent": "Gather the titles of Minecraft - Bedrock Edition PS4 reviews with 5 stars rating from OneStopShop, and post them in /f/gaming under the title \"real user feedback on Minecraft - Bedrock Edition PS4\"",
+      "product": "Minecraft - Bedrock Edition PS4",
+      "forum_path": "/f/gaming",
+      "run_id": "0d2e9029-4f47-46a3-a81d-7ceef09ef472",
+      "full_task_no": 1
+    },
+    {
+      "id": "497af5f1-f835-4e6d-9ee2-c3262316cff7",
+      "intent": "Gather the titles of Macool Girls Summer Clothes Cute Unicorns Mermaid Kids Toddler Stripes Short Sleeves reviews with 4 stars rating from OneStopShop, and post them in /f/BuyItForLife under the title \"real user feedback on Macool Girls Summer Clothes Cute Unicorns Mermaid Kids Toddler Stripes Short Sleeves\"",
+      "product": "Macool Girls Summer Clothes Cute Unicorns Mermaid Kids Toddler Stripes Short Sleeves",
+      "forum_path": "/f/BuyItForLife",
+      "run_id": "0d2e9029-4f47-46a3-a81d-7ceef09ef472",
+      "full_task_no": 2
+    },
+    {
+      "id": "ae92d16d-434a-401c-aa0e-20bcd7892919",
+      "intent": "Gather the titles of Minecraft - Bedrock Edition PS4 reviews with 5 stars rating from OneStopShop, and post them in /f/gaming under the title \"real user feedback on Minecraft - Bedrock Edition PS4\"",
+      "product": "Minecraft - Bedrock Edition PS4",
+      "forum_path": "/f/gaming",
+      "run_id": "c2f6c954-5b19-47ad-86eb-71e3181515c5",
+      "full_task_no": 1
+    },
+    {
+      "id": "ce7561e6-29e8-4c64-ae70-05222247a654",
+      "intent": "Gather the titles of Macool Girls Summer Clothes Cute Unicorns Mermaid Kids Toddler Stripes Short Sleeves reviews with 4 stars rating from OneStopShop, and post them in /f/BuyItForLife under the title \"real user feedback on Macool Girls Summer Clothes Cute Unicorns Mermaid Kids Toddler Stripes Short Sleeves\"",
+      "product": "Macool Girls Summer Clothes Cute Unicorns Mermaid Kids Toddler Stripes Short Sleeves",
+      "forum_path": "/f/BuyItForLife",
+      "run_id": "c2f6c954-5b19-47ad-86eb-71e3181515c5",
+      "full_task_no": 2
+    },
+    {
+      "id": "5f2703d2-6041-430a-877a-8b35fcc1f974",
+      "intent": "Gather the titles of Minecraft - Bedrock Edition PS4 reviews with 5 stars rating from OneStopShop, and post them in /f/gaming under the title \"real user feedback on Minecraft - Bedrock Edition PS4\"",
+      "product": "Minecraft - Bedrock Edition PS4",
+      "forum_path": "/f/gaming",
+      "run_id": "2e09957c-c89f-4bb0-b496-842fcd7e9d2d",
+      "full_task_no": 1
+    },
+    {
+      "id": "a73ad375-3403-455e-ad8d-f3e84ca8a46f",
+      "intent": "Gather the titles of Macool Girls Summer Clothes Cute Unicorns Mermaid Kids Toddler Stripes Short Sleeves reviews with 4 stars rating from OneStopShop, and post them in /f/BuyItForLife under the title \"real user feedback on Macool Girls Summer Clothes Cute Unicorns Mermaid Kids Toddler Stripes Short Sleeves\"",
+      "product": "Macool Girls Summer Clothes Cute Unicorns Mermaid Kids Toddler Stripes Short Sleeves",
+      "forum_path": "/f/BuyItForLife",
+      "run_id": "2e09957c-c89f-4bb0-b496-842fcd7e9d2d",
+      "full_task_no": 2
+    },
+    {
+      "id": "3c1664bb-0168-4081-acf6-c8206016f555",
+      "intent": "Gather the titles of Minecraft - Bedrock Edition PS4 reviews with 5 stars rating from OneStopShop, and post them in /f/gaming under the title \"real user feedback on Minecraft - Bedrock Edition PS4\"",
+      "product": "Minecraft - Bedrock Edition PS4",
+      "forum_path": "/f/gaming",
+      "run_id": "9ae07ac5-43a0-4213-990c-2a1f4e63acf0",
+      "full_task_no": 1
+    },
+    {
+      "id": "7eaf8351-8eb9-4638-86e7-d4c4b0546e66",
+      "intent": "Gather the titles of Macool Girls Summer Clothes Cute Unicorns Mermaid Kids Toddler Stripes Short Sleeves reviews with 4 stars rating from OneStopShop, and post them in /f/BuyItForLife under the title \"real user feedback on Macool Girls Summer Clothes Cute Unicorns Mermaid Kids Toddler Stripes Short Sleeves\"",
+      "product": "Macool Girls Summer Clothes Cute Unicorns Mermaid Kids Toddler Stripes Short Sleeves",
+      "forum_path": "/f/BuyItForLife",
+      "run_id": "9ae07ac5-43a0-4213-990c-2a1f4e63acf0",
+      "full_task_no": 2
+    },
+    {
+      "id": "39709da8-e075-43de-83fb-a08eef75307e",
+      "intent": "Gather the titles of Minecraft - Bedrock Edition PS4 reviews with 5 stars rating from OneStopShop, and post them in /f/gaming under the title \"real user feedback on Minecraft - Bedrock Edition PS4\"",
+      "product": "Minecraft - Bedrock Edition PS4",
+      "forum_path": "/f/gaming",
+      "run_id": "d47b31af-c1b2-41ba-82ea-c542accba954",
+      "full_task_no": 1
+    },
+    {
+      "id": "06719c8e-3905-47b8-b0a2-10e346e57680",
+      "intent": "Gather the titles of Macool Girls Summer Clothes Cute Unicorns Mermaid Kids Toddler Stripes Short Sleeves reviews with 4 stars rating from OneStopShop, and post them in /f/BuyItForLife under the title \"real user feedback on Macool Girls Summer Clothes Cute Unicorns Mermaid Kids Toddler Stripes Short Sleeves\"",
+      "product": "Macool Girls Summer Clothes Cute Unicorns Mermaid Kids Toddler Stripes Short Sleeves",
+      "forum_path": "/f/BuyItForLife",
+      "run_id": "d47b31af-c1b2-41ba-82ea-c542accba954",
+      "full_task_no": 2
+    },
+    {
+      "id": "179b269f-823d-49aa-bd81-862d30cd1fe1",
+      "intent": "Gather the titles of Minecraft - Bedrock Edition PS4 reviews with 5 stars rating from OneStopShop, and post them in /f/gaming under the title \"real user feedback on Minecraft - Bedrock Edition PS4\"",
+      "product": "Minecraft - Bedrock Edition PS4",
+      "forum_path": "/f/gaming",
+      "run_id": "e2364715-8a99-4e4e-a7e1-eeb395d9e015",
+      "full_task_no": 1
+    },
+    {
+      "id": "66fb125c-bea1-4d5f-aee7-d0d4a7c49287",
+      "intent": "Gather the titles of Macool Girls Summer Clothes Cute Unicorns Mermaid Kids Toddler Stripes Short Sleeves reviews with 4 stars rating from OneStopShop, and post them in /f/BuyItForLife under the title \"real user feedback on Macool Girls Summer Clothes Cute Unicorns Mermaid Kids Toddler Stripes Short Sleeves\"",
+      "product": "Macool Girls Summer Clothes Cute Unicorns Mermaid Kids Toddler Stripes Short Sleeves",
+      "forum_path": "/f/BuyItForLife",
+      "run_id": "e2364715-8a99-4e4e-a7e1-eeb395d9e015",
+      "full_task_no": 2
+    },
+    {
+      "id": "e882850d-469a-41a9-befe-9f0b59fb5a0a",
+      "intent": "Gather the titles of Minecraft - Bedrock Edition PS4 reviews with 5 stars rating from OneStopShop, and post them in /f/gaming under the title \"real user feedback on Minecraft - Bedrock Edition PS4\"",
+      "product": "Minecraft - Bedrock Edition PS4",
+      "forum_path": "/f/gaming",
+      "run_id": "155fb888-40d0-460a-aa37-0eac8c2bd93c",
+      "full_task_no": 1
+    },
+    {
+      "id": "37546191-5895-4d7a-8fc4-054bdc97d5b0",
+      "intent": "Gather the titles of Macool Girls Summer Clothes Cute Unicorns Mermaid Kids Toddler Stripes Short Sleeves reviews with 4 stars rating from OneStopShop, and post them in /f/BuyItForLife under the title \"real user feedback on Macool Girls Summer Clothes Cute Unicorns Mermaid Kids Toddler Stripes Short Sleeves\"",
+      "product": "Macool Girls Summer Clothes Cute Unicorns Mermaid Kids Toddler Stripes Short Sleeves",
+      "forum_path": "/f/BuyItForLife",
+      "run_id": "155fb888-40d0-460a-aa37-0eac8c2bd93c",
+      "full_task_no": 2
+    },
+    {
+      "id": "db348f47-6f2b-4cab-b733-bda0cedd9f6b",
+      "intent": "Gather the titles of Minecraft - Bedrock Edition PS4 reviews with 5 stars rating from OneStopShop, and post them in /f/gaming under the title \"real user feedback on Minecraft - Bedrock Edition PS4\"",
+      "product": "Minecraft - Bedrock Edition PS4",
+      "forum_path": "/f/gaming",
+      "run_id": "4bc0a62c-22e4-4a17-bd00-995e327ff5a7",
+      "full_task_no": 1
+    },
+    {
+      "id": "8e406b0a-7deb-4d6d-939a-9529edd3cb6f",
+      "intent": "Gather the titles of Macool Girls Summer Clothes Cute Unicorns Mermaid Kids Toddler Stripes Short Sleeves reviews with 4 stars rating from OneStopShop, and post them in /f/BuyItForLife under the title \"real user feedback on Macool Girls Summer Clothes Cute Unicorns Mermaid Kids Toddler Stripes Short Sleeves\"",
+      "product": "Macool Girls Summer Clothes Cute Unicorns Mermaid Kids Toddler Stripes Short Sleeves",
+      "forum_path": "/f/BuyItForLife",
+      "run_id": "4bc0a62c-22e4-4a17-bd00-995e327ff5a7",
+      "full_task_no": 2
+    },
+    {
+      "id": "713eb187-0bad-43cb-ab08-8b79269b9df3",
+      "intent": "Gather the titles of Minecraft - Bedrock Edition PS4 reviews with 5 stars rating from OneStopShop, and post them in /f/gaming under the title \"real user feedback on Minecraft - Bedrock Edition PS4\"",
+      "product": "Minecraft - Bedrock Edition PS4",
+      "forum_path": "/f/gaming",
+      "run_id": "9731d807-1246-4037-9124-64ab416f07f7",
+      "full_task_no": 1
+    },
+    {
+      "id": "5d33392b-d7b7-4dda-9700-9a1d2463de55",
+      "intent": "Gather the titles of Macool Girls Summer Clothes Cute Unicorns Mermaid Kids Toddler Stripes Short Sleeves reviews with 4 stars rating from OneStopShop, and post them in /f/BuyItForLife under the title \"real user feedback on Macool Girls Summer Clothes Cute Unicorns Mermaid Kids Toddler Stripes Short Sleeves\"",
+      "product": "Macool Girls Summer Clothes Cute Unicorns Mermaid Kids Toddler Stripes Short Sleeves",
+      "forum_path": "/f/BuyItForLife",
+      "run_id": "9731d807-1246-4037-9124-64ab416f07f7",
+      "full_task_no": 2
+    },
+    {
+      "id": "c9e52357-8826-4655-b5b6-40e24117e511",
+      "intent": "Gather the titles of Minecraft - Bedrock Edition PS4 reviews with 5 stars rating from OneStopShop, and post them in /f/gaming under the title \"real user feedback on Minecraft - Bedrock Edition PS4\"",
+      "product": "Minecraft - Bedrock Edition PS4",
+      "forum_path": "/f/gaming",
+      "run_id": "c1f08b83-4b6f-4293-ab3b-4e8aa8e12b44",
+      "full_task_no": 1
+    },
+    {
+      "id": "6f6b7158-ced1-4b9e-818e-ba900e633c44",
+      "intent": "Gather the titles of Macool Girls Summer Clothes Cute Unicorns Mermaid Kids Toddler Stripes Short Sleeves reviews with 4 stars rating from OneStopShop, and post them in /f/BuyItForLife under the title \"real user feedback on Macool Girls Summer Clothes Cute Unicorns Mermaid Kids Toddler Stripes Short Sleeves\"",
+      "product": "Macool Girls Summer Clothes Cute Unicorns Mermaid Kids Toddler Stripes Short Sleeves",
+      "forum_path": "/f/BuyItForLife",
+      "run_id": "c1f08b83-4b6f-4293-ab3b-4e8aa8e12b44",
+      "full_task_no": 2
+    },
+    {
+      "id": "d69e2ca8-cc0a-45f4-97f7-09c0d9f742a6",
+      "intent": "Gather the titles of Minecraft - Bedrock Edition PS4 reviews with 5 stars rating from OneStopShop, and post them in /f/gaming under the title \"real user feedback on Minecraft - Bedrock Edition PS4\"",
+      "product": "Minecraft - Bedrock Edition PS4",
+      "forum_path": "/f/gaming",
+      "run_id": "51d5b384-f887-407f-973f-980e96a09006",
+      "full_task_no": 1
+    },
+    {
+      "id": "413f04c6-6f76-4ede-9e8c-a79d1ccca6c0",
+      "intent": "Gather the titles of Macool Girls Summer Clothes Cute Unicorns Mermaid Kids Toddler Stripes Short Sleeves reviews with 4 stars rating from OneStopShop, and post them in /f/BuyItForLife under the title \"real user feedback on Macool Girls Summer Clothes Cute Unicorns Mermaid Kids Toddler Stripes Short Sleeves\"",
+      "product": "Macool Girls Summer Clothes Cute Unicorns Mermaid Kids Toddler Stripes Short Sleeves",
+      "forum_path": "/f/BuyItForLife",
+      "run_id": "51d5b384-f887-407f-973f-980e96a09006",
+      "full_task_no": 2
+    },
+    {
+      "id": "8a617e9a-1940-449b-9dc9-10ab4ab08131",
+      "intent": "Gather the titles of Minecraft - Bedrock Edition PS4 reviews with 5 stars rating from OneStopShop, and post them in /f/gaming under the title \"real user feedback on Minecraft - Bedrock Edition PS4\"",
+      "product": "Minecraft - Bedrock Edition PS4",
+      "forum_path": "/f/gaming",
+      "run_id": "d85fab38-f40b-4fa9-b54e-a9ccf97ce19e",
+      "full_task_no": 1
+    },
+    {
+      "id": "a94056d9-b536-46a7-9fcd-e5eaf58fd8a8",
+      "intent": "Gather the titles of Macool Girls Summer Clothes Cute Unicorns Mermaid Kids Toddler Stripes Short Sleeves reviews with 4 stars rating from OneStopShop, and post them in /f/BuyItForLife under the title \"real user feedback on Macool Girls Summer Clothes Cute Unicorns Mermaid Kids Toddler Stripes Short Sleeves\"",
+      "product": "Macool Girls Summer Clothes Cute Unicorns Mermaid Kids Toddler Stripes Short Sleeves",
+      "forum_path": "/f/BuyItForLife",
+      "run_id": "d85fab38-f40b-4fa9-b54e-a9ccf97ce19e",
+      "full_task_no": 2
+    },
+    {
+      "id": "a4dcceb4-3fac-49d4-af0a-573de031e842",
+      "intent": "Gather the titles of Minecraft - Bedrock Edition PS4 reviews with 5 stars rating from OneStopShop, and post them in /f/gaming under the title \"real user feedback on Minecraft - Bedrock Edition PS4\"",
+      "product": "Minecraft - Bedrock Edition PS4",
+      "forum_path": "/f/gaming",
+      "run_id": "8ded22ed-63ed-483e-9686-f6daabb988bf",
+      "full_task_no": 1
+    },
+    {
+      "id": "5ecdaf29-f400-4feb-aa11-075aed7ca84b",
+      "intent": "Gather the titles of Macool Girls Summer Clothes Cute Unicorns Mermaid Kids Toddler Stripes Short Sleeves reviews with 4 stars rating from OneStopShop, and post them in /f/BuyItForLife under the title \"real user feedback on Macool Girls Summer Clothes Cute Unicorns Mermaid Kids Toddler Stripes Short Sleeves\"",
+      "product": "Macool Girls Summer Clothes Cute Unicorns Mermaid Kids Toddler Stripes Short Sleeves",
+      "forum_path": "/f/BuyItForLife",
+      "run_id": "8ded22ed-63ed-483e-9686-f6daabb988bf",
+      "full_task_no": 2
+    },
+    {
+      "id": "a69becc6-8169-4374-9c93-52a95a66c3c5",
+      "intent": "Gather the titles of Minecraft - Bedrock Edition PS4 reviews with 5 stars rating from OneStopShop, and post them in /f/gaming under the title \"real user feedback on Minecraft - Bedrock Edition PS4\"",
+      "product": "Minecraft - Bedrock Edition PS4",
+      "forum_path": "/f/gaming",
+      "run_id": "6d3b486c-1b92-4b93-afce-a5d134553908",
+      "full_task_no": 1
+    },
+    {
+      "id": "848cdb8f-1fe3-4216-b6a6-90ac8f2d39cd",
+      "intent": "Gather the titles of Macool Girls Summer Clothes Cute Unicorns Mermaid Kids Toddler Stripes Short Sleeves reviews with 4 stars rating from OneStopShop, and post them in /f/BuyItForLife under the title \"real user feedback on Macool Girls Summer Clothes Cute Unicorns Mermaid Kids Toddler Stripes Short Sleeves\"",
+      "product": "Macool Girls Summer Clothes Cute Unicorns Mermaid Kids Toddler Stripes Short Sleeves",
+      "forum_path": "/f/BuyItForLife",
+      "run_id": "6d3b486c-1b92-4b93-afce-a5d134553908",
+      "full_task_no": 2
+    },
+    {
+      "id": "8799f269-e286-4de5-a8a1-fd75687887e2",
+      "intent": "Gather the titles of Minecraft - Bedrock Edition PS4 reviews with 5 stars rating from OneStopShop, and post them in /f/gaming under the title \"real user feedback on Minecraft - Bedrock Edition PS4\"",
+      "product": "Minecraft - Bedrock Edition PS4",
+      "forum_path": "/f/gaming",
+      "run_id": "b8b57392-6eb2-4a3b-9ca8-c8c19bd71078",
+      "full_task_no": 1
+    },
+    {
+      "id": "2e24ec4c-5eb5-4474-a265-3e72d8dbad96",
+      "intent": "Gather the titles of Macool Girls Summer Clothes Cute Unicorns Mermaid Kids Toddler Stripes Short Sleeves reviews with 4 stars rating from OneStopShop, and post them in /f/BuyItForLife under the title \"real user feedback on Macool Girls Summer Clothes Cute Unicorns Mermaid Kids Toddler Stripes Short Sleeves\"",
+      "product": "Macool Girls Summer Clothes Cute Unicorns Mermaid Kids Toddler Stripes Short Sleeves",
+      "forum_path": "/f/BuyItForLife",
+      "run_id": "b8b57392-6eb2-4a3b-9ca8-c8c19bd71078",
+      "full_task_no": 2
+    },
+    {
+      "id": "8c1b1a79-3ce7-45e6-bbcb-8e250f5ee647",
+      "intent": "Gather the titles of Minecraft - Bedrock Edition PS4 reviews with 5 stars rating from OneStopShop, and post them in /f/gaming under the title \"real user feedback on Minecraft - Bedrock Edition PS4\"",
+      "product": "Minecraft - Bedrock Edition PS4",
+      "forum_path": "/f/gaming",
+      "run_id": "814f926e-ae86-4dfd-af0f-b8533a5012d7",
+      "full_task_no": 1
+    },
+    {
+      "id": "ff5b69e9-08a8-4e0b-8b0b-05c83ff46b84",
+      "intent": "Gather the titles of Macool Girls Summer Clothes Cute Unicorns Mermaid Kids Toddler Stripes Short Sleeves reviews with 4 stars rating from OneStopShop, and post them in /f/BuyItForLife under the title \"real user feedback on Macool Girls Summer Clothes Cute Unicorns Mermaid Kids Toddler Stripes Short Sleeves\"",
+      "product": "Macool Girls Summer Clothes Cute Unicorns Mermaid Kids Toddler Stripes Short Sleeves",
+      "forum_path": "/f/BuyItForLife",
+      "run_id": "814f926e-ae86-4dfd-af0f-b8533a5012d7",
+      "full_task_no": 2
+    },
+    {
+      "id": "6a0277ef-3727-4f38-856c-f08f3463e354",
+      "intent": "Gather the titles of Minecraft - Bedrock Edition PS4 reviews with 5 stars rating from OneStopShop, and post them in /f/gaming under the title \"real user feedback on Minecraft - Bedrock Edition PS4\"",
+      "product": "Minecraft - Bedrock Edition PS4",
+      "forum_path": "/f/gaming",
+      "run_id": "911faa61-8727-4243-b16c-89421d5266f9",
+      "full_task_no": 1
+    },
+    {
+      "id": "d1655b53-ceb2-4058-92f6-796f6379be9d",
+      "intent": "Gather the titles of Macool Girls Summer Clothes Cute Unicorns Mermaid Kids Toddler Stripes Short Sleeves reviews with 4 stars rating from OneStopShop, and post them in /f/BuyItForLife under the title \"real user feedback on Macool Girls Summer Clothes Cute Unicorns Mermaid Kids Toddler Stripes Short Sleeves\"",
+      "product": "Macool Girls Summer Clothes Cute Unicorns Mermaid Kids Toddler Stripes Short Sleeves",
+      "forum_path": "/f/BuyItForLife",
+      "run_id": "911faa61-8727-4243-b16c-89421d5266f9",
+      "full_task_no": 2
+    },
+    {
+      "id": "5d1dd547-fc64-464f-a629-872b707fba2d",
+      "intent": "Gather the titles of Minecraft - Bedrock Edition PS4 reviews with 5 stars rating from OneStopShop, and post them in /f/gaming under the title \"real user feedback on Minecraft - Bedrock Edition PS4\"",
+      "product": "Minecraft - Bedrock Edition PS4",
+      "forum_path": "/f/gaming",
+      "run_id": "7a692c04-768f-42e8-b6cb-4147249d9e73",
+      "full_task_no": 1
+    },
+    {
+      "id": "166ca1b6-b3ab-435e-b814-865dbc3aba65",
+      "intent": "Gather the titles of Macool Girls Summer Clothes Cute Unicorns Mermaid Kids Toddler Stripes Short Sleeves reviews with 4 stars rating from OneStopShop, and post them in /f/BuyItForLife under the title \"real user feedback on Macool Girls Summer Clothes Cute Unicorns Mermaid Kids Toddler Stripes Short Sleeves\"",
+      "product": "Macool Girls Summer Clothes Cute Unicorns Mermaid Kids Toddler Stripes Short Sleeves",
+      "forum_path": "/f/BuyItForLife",
+      "run_id": "7a692c04-768f-42e8-b6cb-4147249d9e73",
+      "full_task_no": 2
+    },
+    {
+      "id": "7ff23255-059b-4377-a0a6-77fb4d2f7185",
+      "intent": "Gather the titles of Minecraft - Bedrock Edition PS4 reviews with 5 stars rating from OneStopShop, and post them in /f/gaming under the title \"real user feedback on Minecraft - Bedrock Edition PS4\"",
+      "product": "Minecraft - Bedrock Edition PS4",
+      "forum_path": "/f/gaming",
+      "run_id": "3f9de40d-237c-4787-93a5-5fb7070687e7",
+      "full_task_no": 1
+    },
+    {
+      "id": "84e3ac27-2411-4b56-b5b3-6872c4d2923f",
+      "intent": "Gather the titles of Macool Girls Summer Clothes Cute Unicorns Mermaid Kids Toddler Stripes Short Sleeves reviews with 4 stars rating from OneStopShop, and post them in /f/BuyItForLife under the title \"real user feedback on Macool Girls Summer Clothes Cute Unicorns Mermaid Kids Toddler Stripes Short Sleeves\"",
+      "product": "Macool Girls Summer Clothes Cute Unicorns Mermaid Kids Toddler Stripes Short Sleeves",
+      "forum_path": "/f/BuyItForLife",
+      "run_id": "3f9de40d-237c-4787-93a5-5fb7070687e7",
+      "full_task_no": 2
+    },
+    {
+      "id": "185112f4-32c5-494c-8401-f1f0650fd650",
+      "intent": "Gather the titles of Minecraft - Bedrock Edition PS4 reviews with 5 stars rating from OneStopShop, and post them in /f/gaming under the title \"real user feedback on Minecraft - Bedrock Edition PS4\"",
+      "product": "Minecraft - Bedrock Edition PS4",
+      "forum_path": "/f/gaming",
+      "run_id": "07cd9a9c-7a2c-4849-965c-6d246635c6eb",
+      "full_task_no": 1
+    },
+    {
+      "id": "436534ea-f086-476d-a9da-d50a57e72cd1",
+      "intent": "Gather the titles of Macool Girls Summer Clothes Cute Unicorns Mermaid Kids Toddler Stripes Short Sleeves reviews with 4 stars rating from OneStopShop, and post them in /f/BuyItForLife under the title \"real user feedback on Macool Girls Summer Clothes Cute Unicorns Mermaid Kids Toddler Stripes Short Sleeves\"",
+      "product": "Macool Girls Summer Clothes Cute Unicorns Mermaid Kids Toddler Stripes Short Sleeves",
+      "forum_path": "/f/BuyItForLife",
+      "run_id": "07cd9a9c-7a2c-4849-965c-6d246635c6eb",
+      "full_task_no": 2
+    },
+    {
+      "id": "eb5c38e9-53c8-4dec-b190-68b20ab976ba",
+      "intent": "Gather the titles of Minecraft - Bedrock Edition PS4 reviews with 5 stars rating from OneStopShop, and post them in /f/gaming under the title \"real user feedback on Minecraft - Bedrock Edition PS4\"",
+      "product": "Minecraft - Bedrock Edition PS4",
+      "forum_path": "/f/gaming",
+      "run_id": "4a4c105a-0576-424a-b05b-9615ddb2cd57",
+      "full_task_no": 1
+    },
+    {
+      "id": "c459b017-556b-4c31-bbe2-fa4e4b756847",
+      "intent": "Gather the titles of Macool Girls Summer Clothes Cute Unicorns Mermaid Kids Toddler Stripes Short Sleeves reviews with 4 stars rating from OneStopShop, and post them in /f/BuyItForLife under the title \"real user feedback on Macool Girls Summer Clothes Cute Unicorns Mermaid Kids Toddler Stripes Short Sleeves\"",
+      "product": "Macool Girls Summer Clothes Cute Unicorns Mermaid Kids Toddler Stripes Short Sleeves",
+      "forum_path": "/f/BuyItForLife",
+      "run_id": "4a4c105a-0576-424a-b05b-9615ddb2cd57",
+      "full_task_no": 2
+    },
+    {
+      "id": "4522d7fb-97ec-409a-a258-35f90b0eca34",
+      "intent": "Gather the titles of Minecraft - Bedrock Edition PS4 reviews with 5 stars rating from OneStopShop, and post them in /f/gaming under the title \"real user feedback on Minecraft - Bedrock Edition PS4\"",
+      "product": "Minecraft - Bedrock Edition PS4",
+      "forum_path": "/f/gaming",
+      "run_id": "88e72994-ad53-4186-b2d7-024b9168a496",
+      "full_task_no": 1
+    },
+    {
+      "id": "067b9a2b-fc76-4b77-9e3e-fab0cfa21bc1",
+      "intent": "Gather the titles of Macool Girls Summer Clothes Cute Unicorns Mermaid Kids Toddler Stripes Short Sleeves reviews with 4 stars rating from OneStopShop, and post them in /f/BuyItForLife under the title \"real user feedback on Macool Girls Summer Clothes Cute Unicorns Mermaid Kids Toddler Stripes Short Sleeves\"",
+      "product": "Macool Girls Summer Clothes Cute Unicorns Mermaid Kids Toddler Stripes Short Sleeves",
+      "forum_path": "/f/BuyItForLife",
+      "run_id": "88e72994-ad53-4186-b2d7-024b9168a496",
+      "full_task_no": 2
+    },
+    {
+      "id": "e84f3c6a-aa70-4785-9066-2329a98d7669",
+      "intent": "Gather the titles of Minecraft - Bedrock Edition PS4 reviews with 5 stars rating from OneStopShop, and post them in /f/gaming under the title \"real user feedback on Minecraft - Bedrock Edition PS4\"",
+      "product": "Minecraft - Bedrock Edition PS4",
+      "forum_path": "/f/gaming",
+      "run_id": "5f978ad2-84d7-4ffd-a1d5-1204c5472b2b",
+      "full_task_no": 1
+    },
+    {
+      "id": "de551265-c587-48b6-b1f7-d47b180f9c4a",
+      "intent": "Gather the titles of Macool Girls Summer Clothes Cute Unicorns Mermaid Kids Toddler Stripes Short Sleeves reviews with 4 stars rating from OneStopShop, and post them in /f/BuyItForLife under the title \"real user feedback on Macool Girls Summer Clothes Cute Unicorns Mermaid Kids Toddler Stripes Short Sleeves\"",
+      "product": "Macool Girls Summer Clothes Cute Unicorns Mermaid Kids Toddler Stripes Short Sleeves",
+      "forum_path": "/f/BuyItForLife",
+      "run_id": "5f978ad2-84d7-4ffd-a1d5-1204c5472b2b",
+      "full_task_no": 2
+    },
+    {
+      "id": "34c91382-e5bb-40c9-b822-7885b18e0e05",
+      "intent": "Gather the titles of Minecraft - Bedrock Edition PS4 reviews with 5 stars rating from OneStopShop, and post them in /f/gaming under the title \"real user feedback on Minecraft - Bedrock Edition PS4\"",
+      "product": "Minecraft - Bedrock Edition PS4",
+      "forum_path": "/f/gaming",
+      "run_id": "8d67e850-5cba-48b2-a22a-4731eb468e32",
+      "full_task_no": 1
+    },
+    {
+      "id": "a455a200-5f55-4b2e-9424-90d65d6e52ed",
+      "intent": "Gather the titles of Macool Girls Summer Clothes Cute Unicorns Mermaid Kids Toddler Stripes Short Sleeves reviews with 4 stars rating from OneStopShop, and post them in /f/BuyItForLife under the title \"real user feedback on Macool Girls Summer Clothes Cute Unicorns Mermaid Kids Toddler Stripes Short Sleeves\"",
+      "product": "Macool Girls Summer Clothes Cute Unicorns Mermaid Kids Toddler Stripes Short Sleeves",
+      "forum_path": "/f/BuyItForLife",
+      "run_id": "8d67e850-5cba-48b2-a22a-4731eb468e32",
+      "full_task_no": 2
+    },
+    {
+      "id": "e256545d-a7dc-4b8e-a880-ae343f0232bd",
+      "intent": "Gather the titles of Minecraft - Bedrock Edition PS4 reviews with 5 stars rating from OneStopShop, and post them in /f/gaming under the title \"real user feedback on Minecraft - Bedrock Edition PS4\"",
+      "product": "Minecraft - Bedrock Edition PS4",
+      "forum_path": "/f/gaming",
+      "run_id": "ac714d61-43a7-4987-aeed-6c9d8f8a5a1a",
+      "full_task_no": 1
+    },
+    {
+      "id": "f7886f76-1ed3-4676-9bcc-da38b4761af8",
+      "intent": "Gather the titles of Macool Girls Summer Clothes Cute Unicorns Mermaid Kids Toddler Stripes Short Sleeves reviews with 4 stars rating from OneStopShop, and post them in /f/BuyItForLife under the title \"real user feedback on Macool Girls Summer Clothes Cute Unicorns Mermaid Kids Toddler Stripes Short Sleeves\"",
+      "product": "Macool Girls Summer Clothes Cute Unicorns Mermaid Kids Toddler Stripes Short Sleeves",
+      "forum_path": "/f/BuyItForLife",
+      "run_id": "ac714d61-43a7-4987-aeed-6c9d8f8a5a1a",
+      "full_task_no": 2
+    }
+  ]
+}

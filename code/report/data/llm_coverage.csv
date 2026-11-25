@@ -1,0 +1,16 @@
+app,model,protocol,temperature,n_saved,n_expected,complete,task1,task2,database
+testreco,deepseek/deepseek-v3.2,full-trace-role-context-time-blind-v2,0.5,55,55,True,,,LLM evaluators/testreco/deepseek-v3.2.sqlite
+testreco,openai/gpt-oss-120b,full-trace-role-context-time-blind-v2,0.5,55,55,True,,,LLM evaluators/testreco/gpt-oss-120b.sqlite
+testreco,meta-llama/llama-4-scout,full-trace-role-context-time-blind-v2,0.5,55,55,True,,,LLM evaluators/testreco/llama-4-scout.sqlite
+testreco,mistralai/mistral-small-3.2-24b-instruct,full-trace-role-context-time-blind-v2,0.5,55,55,True,,,LLM evaluators/testreco/mistral-small-3.2.sqlite
+testreco,qwen/qwen3-235b-a22b-2507,full-trace-role-context-time-blind-v2,0.5,55,55,True,,,LLM evaluators/testreco/qwen3-235b.sqlite
+quizcomp,deepseek/deepseek-v3.2,full-trace-role-context-time-blind-v2,0.5,65,65,True,,,LLM evaluators/quizcomp/deepseek-v3.2.sqlite
+quizcomp,openai/gpt-oss-120b,full-trace-role-context-time-blind-v2,0.5,63,65,False,,,LLM evaluators/quizcomp/gpt-oss-120b.sqlite
+quizcomp,meta-llama/llama-4-scout,full-trace-role-context-time-blind-v2,0.5,65,65,True,,,LLM evaluators/quizcomp/llama-4-scout.sqlite
+quizcomp,mistralai/mistral-small-3.2-24b-instruct,full-trace-role-context-time-blind-v2,0.5,65,65,True,,,LLM evaluators/quizcomp/mistral-small-3.2.sqlite
+quizcomp,qwen/qwen3-235b-a22b-2507,full-trace-role-context-time-blind-v2,0.5,65,65,True,,,LLM evaluators/quizcomp/qwen3-235b.sqlite
+webarena,deepseek/deepseek-v3.2,full-trace-role-context-time-blind-v2,0.5,105,106,False,52,53,LLM evaluators/webarena/deepseek-v3.2.sqlite
+webarena,openai/gpt-oss-120b,full-trace-role-context-time-blind-v2,0.5,101,106,False,50,51,LLM evaluators/webarena/gpt-oss-120b.sqlite
+webarena,meta-llama/llama-4-scout,full-trace-role-context-time-blind-v2,0.5,104,106,False,51,53,LLM evaluators/webarena/llama-4-scout.sqlite
+webarena,mistralai/mistral-small-3.2-24b-instruct,full-trace-role-context-time-blind-v2,0.5,103,106,False,50,53,LLM evaluators/webarena/mistral-small-3.2.sqlite
+webarena,qwen/qwen3-235b-a22b-2507,full-trace-role-context-time-blind-v2,0.5,105,106,False,52,53,LLM evaluators/webarena/qwen3-235b.sqlite
