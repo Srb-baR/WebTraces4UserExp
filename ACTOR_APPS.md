@@ -13,5 +13,3 @@ Install `code/QuizComp/requirements.txt` plus `code/QuizComp/quizcomp_ui/require
 ## WebArena
 
 Install `code/Webarena/requirements.txt`. From `code/Webarena`, start the event and workspace service with `python -m uvicorn server:app --host 127.0.0.1 --port 8766`. In a second terminal, `python -m streamlit run app.py --server.port 8505` opens the included local replica configuration. The original two-task protocol used live, independently provisioned shopping and Reddit-style services. To recreate it, start from `code/Webarena/config.live.example.json` and set `WEBARENA_CONFIG` to a copy with `mode: live`, your site URLs, and two `full_tasks` entries containing product, rating and forum path. Run the bundled event service and configure recording for your own sites before recruiting. Use a new `WEBARENA_DB`. Configure authentication and site accounts in your own environment.
-
-Live actor collection was outside the package smoke tests. These launch paths document the application source and deployment dependencies. The saved actor databases are the reference for the paper’s analysis.
