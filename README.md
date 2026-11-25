@@ -19,13 +19,14 @@ python analysis/plot.py runs/analysis runs/analysis/figures
 
 The analysis reads the SQLite databases locally. It makes no API calls and needs no credentials. Generated files go to `runs/`. The renderer produces five standalone assets with the same filenames and page dimensions as the [supplied figure PDFs](figures/reference/). The [four assembled figures from the manuscript](figures/) are also available. The [replication notes](analysis/README.md) describe the tests and differences between the submitted figures and the regenerated outputs.
 
-## Human evaluator studies
+# Human Evaluator Studies
 
-| Application | Time-hidden replay used in the paper | Description-only control used in the paper | 
-| --- | --- | --- | --- |
-| TestReco | [Source](code/TestReco/Simulation_app/app.py) | [Source](code/TestReco/Simulation_app_no_trace/app.py) 
-| QuizComp | [Source](code/QuizComp/Simulation_app/app.py) | [Source](code/QuizComp/Simulation_app_no_trace/app.py) 
-| WebArena | [Source](code/reconstructed_Webarena/app.py) | [Source](code/no_trace_webarena/app.py) 
+| Application | Time-hidden replay | Description-only control |
+| --- | --- | --- |
+| TestReco | [Source code](code/TestReco/Simulation_app/app.py) | [Source code](code/TestReco/Simulation_app_no_trace/app.py) |
+| QuizComp | [Source code](code/QuizComp/Simulation_app/app.py) | [Source code](code/QuizComp/Simulation_app_no_trace/app.py) |
+| WebArena | [Source code](code/reconstructed_Webarena/app.py) | [Source code](code/no_trace_webarena/app.py) |
+
 
 ```sh
 python launch_study.py testreco trace --port 8521
